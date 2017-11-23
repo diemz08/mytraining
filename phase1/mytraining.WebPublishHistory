@@ -1,0 +1,3501 @@
+<PubHist<[1]<type="A5WPage">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\gridcustomer.a5w}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:16 90 pm')>
+>
+<[2]<type="A5WPage">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\gridemployee.a5w}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:16 92 pm')>
+>
+<[3]<type="A5WPage">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\gridlinkcustomer.a5w}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:16 93 pm')>
+>
+<[4]<type="A5WPage">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\gridproduct.a5w}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:16 95 pm')>
+>
+<[5]<type="A5WPage">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\modal.a5w}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:16 97 pm')>
+>
+<[6]<type="A5WPage">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\uxlist.a5w}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:16 99 pm')>
+>
+<[7]<type="WebComponent">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\grid_scrol_customer.a5wcmp}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:17 00 pm')>
+>
+<[8]<type="WebComponent">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\gridcostumer.a5wcmp}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:17 02 pm')>
+>
+<[9]<type="WebComponent">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\gridemployee.a5wcmp}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:17 03 pm')>
+>
+<[10]<type="WebComponent">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\gridlinkcustomer.a5wcmp}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:17 06 pm')>
+>
+<[11]<type="WebComponent">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\gridmodalsupplier.a5wcmp}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:17 07 pm')>
+>
+<[12]<type="WebComponent">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\gridorder.a5wcmp}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:17 09 pm')>
+>
+<[13]<type="WebComponent">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\gridorderdetail.a5wcmp}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:17 10 pm')>
+>
+<[14]<type="WebComponent">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\gridproduct.a5wcmp}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:17 12 pm')>
+>
+<[15]<type="WebComponent">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\orderdetailsgrid.a5wcmp}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:17 13 pm')>
+>
+<[16]<type="WebComponent">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\ux_list_categories.a5wcmp}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:17 26 pm')>
+>
+<[17]<type="WebComponent">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\ux_list_genie.a5wcmp}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:34:21 77 pm')>
+>
+<[18]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\style.css}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:17 40 pm')>
+>
+<[19]<type="css">
+<name="a5system">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:34:21 87 pm')>
+>
+<[20]<type="css">
+<name="grblue">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:18 52 pm')>
+>
+<[21]<type="css">
+<name="grgray">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:34:22 18 pm')>
+>
+<[22]<type="css">
+<name="grpurple">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:20 29 pm')>
+>
+<[23]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\project.securitysettings}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:34:23 15 pm')>
+>
+<[24]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\academiccap.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 13 pm')>
+>
+<[25]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\add.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 14 pm')>
+>
+<[26]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\addcircle.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 16 pm')>
+>
+<[27]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\addcircleborder.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 16 pm')>
+>
+<[28]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\addlarge.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 19 pm')>
+>
+<[29]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\addsquare.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 19 pm')>
+>
+<[30]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\addsquareborder.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 20 pm')>
+>
+<[31]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\angle.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 20 pm')>
+>
+<[32]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\arrowdown.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 20 pm')>
+>
+<[33]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\arrowdownleft.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 23 pm')>
+>
+<[34]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\arrowdownright.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 23 pm')>
+>
+<[35]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\arrowleft.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 24 pm')>
+>
+<[36]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\arrowright.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 26 pm')>
+>
+<[37]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\arrows.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 26 pm')>
+>
+<[38]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\arrowshorizontal.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 27 pm')>
+>
+<[39]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\arrowsin.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 27 pm')>
+>
+<[40]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\arrowsinhorizontal.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 29 pm')>
+>
+<[41]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\arrowsinvertical.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 29 pm')>
+>
+<[42]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\arrowsout.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 29 pm')>
+>
+<[43]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\arrowsouthorizontal.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 30 pm')>
+>
+<[44]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\arrowsoutvertical.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 33 pm')>
+>
+<[45]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\arrowsswaphorizontal.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 33 pm')>
+>
+<[46]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\arrowsswapvertical.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 33 pm')>
+>
+<[47]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\arrowsvertical.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 34 pm')>
+>
+<[48]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\arrowup.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 34 pm')>
+>
+<[49]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\arrowupleft.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 36 pm')>
+>
+<[50]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\arrowupright.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 36 pm')>
+>
+<[51]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\audio.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 37 pm')>
+>
+<[52]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\backspace.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 37 pm')>
+>
+<[53]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\bag.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 37 pm')>
+>
+<[54]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\bagadd.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 39 pm')>
+>
+<[55]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\bagaddsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 39 pm')>
+>
+<[56]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\bagcheck.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 39 pm')>
+>
+<[57]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\bagchecksolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 41 pm')>
+>
+<[58]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\bagfull.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 41 pm')>
+>
+<[59]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\bagfullsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 42 pm')>
+>
+<[60]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\bagremove.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 43 pm')>
+>
+<[61]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\bagremovesolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 43 pm')>
+>
+<[62]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\bagsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 44 pm')>
+>
+<[63]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\bagx.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 46 pm')>
+>
+<[64]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\bagxsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 47 pm')>
+>
+<[65]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\bandaid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 47 pm')>
+>
+<[66]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\bandaidcrossed.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 47 pm')>
+>
+<[67]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\bandaidcrossedsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 49 pm')>
+>
+<[68]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\bandaidsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 49 pm')>
+>
+<[69]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\bars.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 51 pm')>
+>
+<[70]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\basket.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 51 pm')>
+>
+<[71]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\basketadd.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 52 pm')>
+>
+<[72]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\basketaddsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 53 pm')>
+>
+<[73]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\basketcheck.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 53 pm')>
+>
+<[74]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\basketchecksolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 53 pm')>
+>
+<[75]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\basketfull.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 54 pm')>
+>
+<[76]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\basketfullsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 54 pm')>
+>
+<[77]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\basketremove.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 56 pm')>
+>
+<[78]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\basketremovesolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 56 pm')>
+>
+<[79]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\basketsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 57 pm')>
+>
+<[80]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\basketx.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 57 pm')>
+>
+<[81]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\basketxsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 57 pm')>
+>
+<[82]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\battery.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 59 pm')>
+>
+<[83]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\batteryempty.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 59 pm')>
+>
+<[84]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\batteryhigh.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 61 pm')>
+>
+<[85]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\batterylow.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 61 pm')>
+>
+<[86]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\batterymid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 62 pm')>
+>
+<[87]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\beaker.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 63 pm')>
+>
+<[88]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\beakerreaction.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 63 pm')>
+>
+<[89]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\bell.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 64 pm')>
+>
+<[90]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\belloff.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 66 pm')>
+>
+<[91]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\bellring.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 67 pm')>
+>
+<[92]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\binoculars.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 67 pm')>
+>
+<[93]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\book.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 69 pm')>
+>
+<[94]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\bookadd.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 69 pm')>
+>
+<[95]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\bookcheck.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 71 pm')>
+>
+<[96]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\bookcontact.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 71 pm')>
+>
+<[97]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\bookdogeared.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 71 pm')>
+>
+<[98]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\bookedit.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 73 pm')>
+>
+<[99]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\bookmark.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 73 pm')>
+>
+<[100]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\bookmarked.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 73 pm')>
+>
+<[101]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\bookmarks.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 73 pm')>
+>
+<[102]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\bookmarksolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 74 pm')>
+>
+<[103]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\bookmarkssolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 76 pm')>
+>
+<[104]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\bookopen.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 77 pm')>
+>
+<[105]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\bookopenmarked.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 77 pm')>
+>
+<[106]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\bookremove.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 79 pm')>
+>
+<[107]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\books.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 79 pm')>
+>
+<[108]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\bookx.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 79 pm')>
+>
+<[109]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\briefcase.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 81 pm')>
+>
+<[110]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\broom.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 81 pm')>
+>
+<[111]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\broomsweep.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 83 pm')>
+>
+<[112]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\bucket.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 83 pm')>
+>
+<[113]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\bucketpour.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 84 pm')>
+>
+<[114]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\bucketpoursolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 86 pm')>
+>
+<[115]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\bucketpourtrans.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 86 pm')>
+>
+<[116]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\bucketsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 87 pm')>
+>
+<[117]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\buckettrans.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 87 pm')>
+>
+<[118]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\calendar.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 87 pm')>
+>
+<[119]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\calendaradd.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 89 pm')>
+>
+<[120]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\calendarcheck.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 89 pm')>
+>
+<[121]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\calendardate.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 89 pm')>
+>
+<[122]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\calendaredit.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 91 pm')>
+>
+<[123]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\calendarremove.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 91 pm')>
+>
+<[124]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\calendarweek.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 92 pm')>
+>
+<[125]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\calendarx.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 93 pm')>
+>
+<[126]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\camera.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 94 pm')>
+>
+<[127]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\cameravideo.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 96 pm')>
+>
+<[128]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\cart.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 98 pm')>
+>
+<[129]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\cartadd.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:21 99 pm')>
+>
+<[130]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\cartaddsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 00 pm')>
+>
+<[131]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\cartcheck.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 00 pm')>
+>
+<[132]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\cartchecksolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 00 pm')>
+>
+<[133]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\cartfull.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 00 pm')>
+>
+<[134]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\cartfullsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 02 pm')>
+>
+<[135]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\cartremove.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 03 pm')>
+>
+<[136]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\cartremovesolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 03 pm')>
+>
+<[137]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\cartsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 06 pm')>
+>
+<[138]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\cartx.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 08 pm')>
+>
+<[139]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\cartxsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 08 pm')>
+>
+<[140]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\chartarea.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 09 pm')>
+>
+<[141]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\chartbar.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 09 pm')>
+>
+<[142]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\chartline.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 09 pm')>
+>
+<[143]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\chartpie.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 11 pm')>
+>
+<[144]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\check.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 11 pm')>
+>
+<[145]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\checkcircle.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 13 pm')>
+>
+<[146]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\checkcircleborder.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 13 pm')>
+>
+<[147]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\checklist.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 14 pm')>
+>
+<[148]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\checkshield.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 16 pm')>
+>
+<[149]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\checksquare.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 18 pm')>
+>
+<[150]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\checksquareborder.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 18 pm')>
+>
+<[151]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\chevrondbldown.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 19 pm')>
+>
+<[152]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\chevrondblleft.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 19 pm')>
+>
+<[153]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\chevrondblright.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 21 pm')>
+>
+<[154]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\chevrondblup.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 21 pm')>
+>
+<[155]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\chevrondown.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 21 pm')>
+>
+<[156]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\chevronleft.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 22 pm')>
+>
+<[157]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\chevronright.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 23 pm')>
+>
+<[158]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\chevronup.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 26 pm')>
+>
+<[159]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\circle.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 28 pm')>
+>
+<[160]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\circleslash.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 28 pm')>
+>
+<[161]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\circlesolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 29 pm')>
+>
+<[162]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\circlesolidwithborder.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 29 pm')>
+>
+<[163]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\clipboard.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 29 pm')>
+>
+<[164]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\clipboardadd.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 31 pm')>
+>
+<[165]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\clipboardaddsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 33 pm')>
+>
+<[166]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\clipboardcheck.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 33 pm')>
+>
+<[167]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\clipboardchecksolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 36 pm')>
+>
+<[168]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\clipboardremove.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 36 pm')>
+>
+<[169]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\clipboardremovesolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 38 pm')>
+>
+<[170]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\clipboardsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 38 pm')>
+>
+<[171]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\clipboardx.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 38 pm')>
+>
+<[172]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\clipboardxsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 39 pm')>
+>
+<[173]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\clock.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 39 pm')>
+>
+<[174]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\clockalarm.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 39 pm')>
+>
+<[175]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\clockalarmadd.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 41 pm')>
+>
+<[176]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\clockalarmcheck.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 41 pm')>
+>
+<[177]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\clockalarmremove.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 41 pm')>
+>
+<[178]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\clockalarmring.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 43 pm')>
+>
+<[179]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\clockalarmx.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 43 pm')>
+>
+<[180]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\cloud.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 46 pm')>
+>
+<[181]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\codebug.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 48 pm')>
+>
+<[182]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\codedebug.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 48 pm')>
+>
+<[183]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\codedebugbreakpoint.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 49 pm')>
+>
+<[184]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\codedebugbreakpointoff.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 51 pm')>
+>
+<[185]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\codedebughalt.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 51 pm')>
+>
+<[186]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\codedebugpause.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 53 pm')>
+>
+<[187]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\codedebugresume.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 56 pm')>
+>
+<[188]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\codedebugrun.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 58 pm')>
+>
+<[189]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\codedebugstep.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 59 pm')>
+>
+<[190]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\codedebugstepin.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 61 pm')>
+>
+<[191]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\codedebugstepout.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 61 pm')>
+>
+<[192]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\codedebugstepskip.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 63 pm')>
+>
+<[193]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\comment.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 63 pm')>
+>
+<[194]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\commentadd.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 64 pm')>
+>
+<[195]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\commentaddsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 66 pm')>
+>
+<[196]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\commentcheck.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 69 pm')>
+>
+<[197]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\commentchecksolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 71 pm')>
+>
+<[198]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\commentedit.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 71 pm')>
+>
+<[199]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\commenteditsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 73 pm')>
+>
+<[200]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\commenterror.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 76 pm')>
+>
+<[201]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\commenterrorsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 78 pm')>
+>
+<[202]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\commentinfo.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 79 pm')>
+>
+<[203]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\commentinfosolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 79 pm')>
+>
+<[204]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\commenting.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 81 pm')>
+>
+<[205]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\commentingsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 83 pm')>
+>
+<[206]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\commentperson.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 85 pm')>
+>
+<[207]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\commentpersonsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 86 pm')>
+>
+<[208]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\commentquestion.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 88 pm')>
+>
+<[209]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\commentquestionsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 88 pm')>
+>
+<[210]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\commentquote.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 89 pm')>
+>
+<[211]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\commentquotesolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 89 pm')>
+>
+<[212]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\commentremove.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 91 pm')>
+>
+<[213]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\commentremovesolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 91 pm')>
+>
+<[214]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\comments.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 91 pm')>
+>
+<[215]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\commentsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 93 pm')>
+>
+<[216]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\commentssolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 93 pm')>
+>
+<[217]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\commentx.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 96 pm')>
+>
+<[218]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\commentxsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 98 pm')>
+>
+<[219]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\compass.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 98 pm')>
+>
+<[220]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\compress.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 99 pm')>
+>
+<[221]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\compressalt.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 99 pm')>
+>
+<[222]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\creditcard.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:22 99 pm')>
+>
+<[223]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\creditcards.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:23 01 pm')>
+>
+<[224]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\creditcardsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:23 03 pm')>
+>
+<[225]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\creditcardssolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:23 06 pm')>
+>
+<[226]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\cube.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:23 06 pm')>
+>
+<[227]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\cubesolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:23 06 pm')>
+>
+<[228]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\databarcode.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:23 08 pm')>
+>
+<[229]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\datajson.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:23 08 pm')>
+>
+<[230]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\dataqrcode.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:23 09 pm')>
+>
+<[231]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\datarss.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:23 09 pm')>
+>
+<[232]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\dataxml.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:23 09 pm')>
+>
+<[233]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\datetime.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:23 11 pm')>
+>
+<[234]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\delivery.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:23 11 pm')>
+>
+<[235]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\deliveryadd.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:23 11 pm')>
+>
+<[236]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\deliverycheck.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:23 13 pm')>
+>
+<[237]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\deliverymoving.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:23 15 pm')>
+>
+<[238]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\deliveryremove.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:23 18 pm')>
+>
+<[239]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\deliveryx.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:23 18 pm')>
+>
+<[240]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\devicedesktop.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:23 18 pm')>
+>
+<[241]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\devicelaptop.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:23 19 pm')>
+>
+<[242]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\devicemobile.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:23 19 pm')>
+>
+<[243]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\devicephone.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:23 21 pm')>
+>
+<[244]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\deviceprinter.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:23 21 pm')>
+>
+<[245]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\devicetablet.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:23 21 pm')>
+>
+<[246]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\doc.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:23 23 pm')>
+>
+<[247]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\docadd.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:23 26 pm')>
+>
+<[248]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\docaddcircle.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:23 28 pm')>
+>
+<[249]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\docaddsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:23 28 pm')>
+>
+<[250]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\docaudio.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:23 29 pm')>
+>
+<[251]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\docaudiosolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:23 31 pm')>
+>
+<[252]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\doccheck.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:23 31 pm')>
+>
+<[253]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\doccheckcircle.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:23 33 pm')>
+>
+<[254]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\docchecksolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:23 36 pm')>
+>
+<[255]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\docduplicate.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:23 36 pm')>
+>
+<[256]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\docduplicatesolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:23 38 pm')>
+>
+<[257]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\docedit.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:23 43 pm')>
+>
+<[258]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\doceditsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:23 49 pm')>
+>
+<[259]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\docimage.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:23 60 pm')>
+>
+<[260]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\docimagesolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:23 73 pm')>
+>
+<[261]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\docin.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:23 85 pm')>
+>
+<[262]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\docink.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:23 87 pm')>
+>
+<[263]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\docinksolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:23 94 pm')>
+>
+<[264]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\docinsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:23 95 pm')>
+>
+<[265]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\docjson.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:23 97 pm')>
+>
+<[266]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\docjsonsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:23 98 pm')>
+>
+<[267]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\doclock.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 00 pm')>
+>
+<[268]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\doclockopen.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 00 pm')>
+>
+<[269]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\doclockopensolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 02 pm')>
+>
+<[270]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\doclocksolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 02 pm')>
+>
+<[271]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\docout.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 04 pm')>
+>
+<[272]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\docoutsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 05 pm')>
+>
+<[273]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\docremove.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 07 pm')>
+>
+<[274]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\docremovecircle.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 07 pm')>
+>
+<[275]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\docremovesolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 08 pm')>
+>
+<[276]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\docrename.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 08 pm')>
+>
+<[277]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\docrenamecircle.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 08 pm')>
+>
+<[278]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\docrenamesolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 10 pm')>
+>
+<[279]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\docsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 10 pm')>
+>
+<[280]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\doctext.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 10 pm')>
+>
+<[281]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\doctextsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 12 pm')>
+>
+<[282]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\docvector.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 12 pm')>
+>
+<[283]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\docvectorsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 12 pm')>
+>
+<[284]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\docvideo.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 12 pm')>
+>
+<[285]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\docvideosolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 14 pm')>
+>
+<[286]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\docx.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 14 pm')>
+>
+<[287]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\docxcircle.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 15 pm')>
+>
+<[288]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\docxml.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 15 pm')>
+>
+<[289]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\docxmlsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 17 pm')>
+>
+<[290]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\docxsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 17 pm')>
+>
+<[291]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\doczip.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 18 pm')>
+>
+<[292]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\doczipsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 18 pm')>
+>
+<[293]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\download.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 18 pm')>
+>
+<[294]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\drop.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 20 pm')>
+>
+<[295]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\dropper.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 20 pm')>
+>
+<[296]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\dropperin.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 20 pm')>
+>
+<[297]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\dropperout.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 22 pm')>
+>
+<[298]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\dropsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 22 pm')>
+>
+<[299]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\edit.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 22 pm')>
+>
+<[300]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\editcancel.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 24 pm')>
+>
+<[301]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\editcopy.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 24 pm')>
+>
+<[302]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\editcut.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 25 pm')>
+>
+<[303]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\editduplicate.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 25 pm')>
+>
+<[304]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\editpaste.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 27 pm')>
+>
+<[305]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\eject.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 27 pm')>
+>
+<[306]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\ellipsishorizontal.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 28 pm')>
+>
+<[307]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\ellipsisvertical.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 28 pm')>
+>
+<[308]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\enter.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 30 pm')>
+>
+<[309]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\envelope.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 30 pm')>
+>
+<[310]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\envelopeadd.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 32 pm')>
+>
+<[311]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\envelopeaddsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 32 pm')>
+>
+<[312]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\envelopein.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 32 pm')>
+>
+<[313]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\envelopeinsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 34 pm')>
+>
+<[314]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\envelopeletter.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 34 pm')>
+>
+<[315]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\envelopelettersolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 35 pm')>
+>
+<[316]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\envelopeopen.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 35 pm')>
+>
+<[317]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\envelopeopensolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 37 pm')>
+>
+<[318]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\envelopeout.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 37 pm')>
+>
+<[319]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\envelopeoutsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 39 pm')>
+>
+<[320]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\enveloperemove.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 39 pm')>
+>
+<[321]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\enveloperemovesolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 39 pm')>
+>
+<[322]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\envelopesolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 40 pm')>
+>
+<[323]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\eraser.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 40 pm')>
+>
+<[324]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\exclamation.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 40 pm')>
+>
+<[325]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\exclamationcircle.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 42 pm')>
+>
+<[326]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\exclamationcircleborder.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 42 pm')>
+>
+<[327]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\exclamationshield.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 42 pm')>
+>
+<[328]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\exclamationtriangle.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 44 pm')>
+>
+<[329]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\exit.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 44 pm')>
+>
+<[330]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\expand.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 45 pm')>
+>
+<[331]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\expandalt.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 45 pm')>
+>
+<[332]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\export.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 47 pm')>
+>
+<[333]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\eye.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 47 pm')>
+>
+<[334]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\eyeoff.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 50 pm')>
+>
+<[335]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\ff.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 54 pm')>
+>
+<[336]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\ffend.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 54 pm')>
+>
+<[337]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\ffjump.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 55 pm')>
+>
+<[338]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\filter.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 55 pm')>
+>
+<[339]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\filteroff.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 57 pm')>
+>
+<[340]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\flag.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 57 pm')>
+>
+<[341]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\flagsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 59 pm')>
+>
+<[342]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\flame.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 59 pm')>
+>
+<[343]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\folder.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 59 pm')>
+>
+<[344]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\folderadd.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 64 pm')>
+>
+<[345]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\folderaddcircle.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 65 pm')>
+>
+<[346]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\folderaddsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 67 pm')>
+>
+<[347]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\foldercheck.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 67 pm')>
+>
+<[348]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\foldercheckcircle.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 68 pm')>
+>
+<[349]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\folderchecksolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 68 pm')>
+>
+<[350]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\folderedit.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 70 pm')>
+>
+<[351]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\foldereditsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 72 pm')>
+>
+<[352]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\folderin.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 72 pm')>
+>
+<[353]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\folderinsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 72 pm')>
+>
+<[354]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\folderlock.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 74 pm')>
+>
+<[355]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\folderlockopen.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 75 pm')>
+>
+<[356]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\folderlockopensolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 77 pm')>
+>
+<[357]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\folderlocksolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 79 pm')>
+>
+<[358]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\folderopen.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 80 pm')>
+>
+<[359]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\folderopensolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 81 pm')>
+>
+<[360]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\folderout.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 82 pm')>
+>
+<[361]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\folderoutsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 83 pm')>
+>
+<[362]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\folderremove.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 84 pm')>
+>
+<[363]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\folderremovecircle.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 85 pm')>
+>
+<[364]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\folderremovesolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 85 pm')>
+>
+<[365]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\folderrename.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 86 pm')>
+>
+<[366]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\folderrenamecircle.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 87 pm')>
+>
+<[367]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\folderrenamesolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 89 pm')>
+>
+<[368]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\foldersolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 89 pm')>
+>
+<[369]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\folderx.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 90 pm')>
+>
+<[370]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\folderxcircle.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 91 pm')>
+>
+<[371]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\folderxsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 92 pm')>
+>
+<[372]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\folderzip.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 92 pm')>
+>
+<[373]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\folderzipsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 93 pm')>
+>
+<[374]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\fontbold.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 97 pm')>
+>
+<[375]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\fontfamily.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 99 pm')>
+>
+<[376]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\fontitalic.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:24 99 pm')>
+>
+<[377]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\fontsize.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 00 pm')>
+>
+<[378]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\fontstrike.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 00 pm')>
+>
+<[379]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\fontunderline.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 01 pm')>
+>
+<[380]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\gauge.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 02 pm')>
+>
+<[381]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\gear.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 02 pm')>
+>
+<[382]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\gears.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 03 pm')>
+>
+<[383]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\gift.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 05 pm')>
+>
+<[384]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\giftsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 06 pm')>
+>
+<[385]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\glasses.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 06 pm')>
+>
+<[386]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\glassessolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 08 pm')>
+>
+<[387]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\globe.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 09 pm')>
+>
+<[388]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\globeorbit.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 09 pm')>
+>
+<[389]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\graphicblur.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 10 pm')>
+>
+<[390]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\graphicbrightness.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 11 pm')>
+>
+<[391]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\graphicbrightnessdown.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 11 pm')>
+>
+<[392]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\graphicbrightnesssmall.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 12 pm')>
+>
+<[393]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\graphicbrightnessup.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 13 pm')>
+>
+<[394]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\graphiccontrast.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 15 pm')>
+>
+<[395]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\graphiccrop.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 16 pm')>
+>
+<[396]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\graphicmask.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 16 pm')>
+>
+<[397]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\graphicopacity.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 19 pm')>
+>
+<[398]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\graphicsharpen.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 19 pm')>
+>
+<[399]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\hammer.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 20 pm')>
+>
+<[400]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\handicap.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 22 pm')>
+>
+<[401]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\headphones.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 25 pm')>
+>
+<[402]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\headset.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 26 pm')>
+>
+<[403]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\heart.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 27 pm')>
+>
+<[404]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\heartbeat.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 27 pm')>
+>
+<[405]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\heartbroken.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 28 pm')>
+>
+<[406]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\heartsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 29 pm')>
+>
+<[407]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\history.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 29 pm')>
+>
+<[408]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\home.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 30 pm')>
+>
+<[409]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\hourglass.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 31 pm')>
+>
+<[410]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\hourglassend.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 31 pm')>
+>
+<[411]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\hourglassstart.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 32 pm')>
+>
+<[412]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\image.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 33 pm')>
+>
+<[413]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\images.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 35 pm')>
+>
+<[414]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\import.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 37 pm')>
+>
+<[415]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\info.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 37 pm')>
+>
+<[416]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\infocircle.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 38 pm')>
+>
+<[417]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\infocircleborder.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 39 pm')>
+>
+<[418]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\inputkeyboard.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 39 pm')>
+>
+<[419]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\inputkeypad.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 40 pm')>
+>
+<[420]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\inputmouse.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 41 pm')>
+>
+<[421]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\inputstylus.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 41 pm')>
+>
+<[422]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\inputtouch.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 42 pm')>
+>
+<[423]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\inputvoice.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 43 pm')>
+>
+<[424]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\key.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 43 pm')>
+>
+<[425]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\keyoff.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 47 pm')>
+>
+<[426]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\layer.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 48 pm')>
+>
+<[427]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\layeradd.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 48 pm')>
+>
+<[428]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\layerbottom.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 48 pm')>
+>
+<[429]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\layerdown.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 50 pm')>
+>
+<[430]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\layerremove.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 50 pm')>
+>
+<[431]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\layertop.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 50 pm')>
+>
+<[432]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\layerup.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 52 pm')>
+>
+<[433]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\leaf.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 53 pm')>
+>
+<[434]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\lightbulb.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 53 pm')>
+>
+<[435]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\lightbulboff.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 54 pm')>
+>
+<[436]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\lightning.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 56 pm')>
+>
+<[437]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\lightningsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 56 pm')>
+>
+<[438]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\link.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 57 pm')>
+>
+<[439]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\listbulleted.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 57 pm')>
+>
+<[440]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\listnumbered.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 59 pm')>
+>
+<[441]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\load.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 59 pm')>
+>
+<[442]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\lock.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 59 pm')>
+>
+<[443]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\lockopen.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 60 pm')>
+>
+<[444]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\magglass.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 60 pm')>
+>
+<[445]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\magglassin.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 60 pm')>
+>
+<[446]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\magglassout.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 63 pm')>
+>
+<[447]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\magglassx.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 63 pm')>
+>
+<[448]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\magnet.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 64 pm')>
+>
+<[449]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\map.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 66 pm')>
+>
+<[450]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\maplocation.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 66 pm')>
+>
+<[451]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\mapmarker.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 67 pm')>
+>
+<[452]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\mapmarkers.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 67 pm')>
+>
+<[453]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\mapperson.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 69 pm')>
+>
+<[454]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\maproute.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 69 pm')>
+>
+<[455]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\megaphone.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 69 pm')>
+>
+<[456]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\megaphoneoff.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 70 pm')>
+>
+<[457]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\mic.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 70 pm')>
+>
+<[458]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\micoff.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 70 pm')>
+>
+<[459]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\na.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 72 pm')>
+>
+<[460]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\note.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 73 pm')>
+>
+<[461]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\noteadd.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 74 pm')>
+>
+<[462]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\noteaddsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 76 pm')>
+>
+<[463]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\notecheck.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 76 pm')>
+>
+<[464]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\notechecksolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 77 pm')>
+>
+<[465]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\noteedit.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 79 pm')>
+>
+<[466]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\noteeditsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 79 pm')>
+>
+<[467]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\noteremove.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 80 pm')>
+>
+<[468]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\noteremovesolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 80 pm')>
+>
+<[469]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\notesolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 81 pm')>
+>
+<[470]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\notex.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 82 pm')>
+>
+<[471]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\notexsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 84 pm')>
+>
+<[472]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\offline.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 85 pm')>
+>
+<[473]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\online.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 86 pm')>
+>
+<[474]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\palette.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 87 pm')>
+>
+<[475]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\paperclip.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 87 pm')>
+>
+<[476]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\paperplane.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 88 pm')>
+>
+<[477]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\paperplanesolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 89 pm')>
+>
+<[478]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\pause.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 89 pm')>
+>
+<[479]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\penfine.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 90 pm')>
+>
+<[480]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\penfountain.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 91 pm')>
+>
+<[481]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\penmarker.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 92 pm')>
+>
+<[482]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\people.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 93 pm')>
+>
+<[483]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\peoplesolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 93 pm')>
+>
+<[484]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\person.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 95 pm')>
+>
+<[485]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\personadd.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 97 pm')>
+>
+<[486]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\personaddsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 98 pm')>
+>
+<[487]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\personedit.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:25 99 pm')>
+>
+<[488]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\personeditsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 00 pm')>
+>
+<[489]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\personheart.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 00 pm')>
+>
+<[490]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\personheartsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 01 pm')>
+>
+<[491]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\personremove.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 02 pm')>
+>
+<[492]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\personremovesolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 03 pm')>
+>
+<[493]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\personsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 04 pm')>
+>
+<[494]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\personx.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 05 pm')>
+>
+<[495]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\personxsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 07 pm')>
+>
+<[496]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\phone.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 07 pm')>
+>
+<[497]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\phonedown.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 07 pm')>
+>
+<[498]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\phonein.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 07 pm')>
+>
+<[499]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\phoneoff.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 08 pm')>
+>
+<[500]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\phoneout.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 08 pm')>
+>
+<[501]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\phonering.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 08 pm')>
+>
+<[502]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\phoneringing.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 10 pm')>
+>
+<[503]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\pin.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 10 pm')>
+>
+<[504]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\play.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 12 pm')>
+>
+<[505]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\plug.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 12 pm')>
+>
+<[506]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\plugconnect.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 13 pm')>
+>
+<[507]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\plugdisconnect.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 13 pm')>
+>
+<[508]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\podcast.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 14 pm')>
+>
+<[509]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\power.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 16 pm')>
+>
+<[510]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\poweroff.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 17 pm')>
+>
+<[511]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\poweron.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 17 pm')>
+>
+<[512]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\powersleep.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 19 pm')>
+>
+<[513]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\powertogglestandby.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 19 pm')>
+>
+<[514]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\question.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 19 pm')>
+>
+<[515]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\questioncircle.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 20 pm')>
+>
+<[516]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\questioncircleborder.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 20 pm')>
+>
+<[517]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\quill.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 20 pm')>
+>
+<[518]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\quote.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 22 pm')>
+>
+<[519]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\record.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 23 pm')>
+>
+<[520]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\recordpause.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 23 pm')>
+>
+<[521]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\redo.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 24 pm')>
+>
+<[522]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\refresh.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 26 pm')>
+>
+<[523]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\remove.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 27 pm')>
+>
+<[524]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\removecircle.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 27 pm')>
+>
+<[525]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\removecircleborder.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 29 pm')>
+>
+<[526]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\removelarge.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 29 pm')>
+>
+<[527]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\removesquare.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 29 pm')>
+>
+<[528]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\removesquareborder.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 30 pm')>
+>
+<[529]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\repeat.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 30 pm')>
+>
+<[530]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\returnleft.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 33 pm')>
+>
+<[531]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\returnright.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 33 pm')>
+>
+<[532]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\ribbon.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 34 pm')>
+>
+<[533]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\rocket.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 36 pm')>
+>
+<[534]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\ruler.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 36 pm')>
+>
+<[535]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\rulersolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 37 pm')>
+>
+<[536]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\rw.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 37 pm')>
+>
+<[537]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\rwjump.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 37 pm')>
+>
+<[538]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\rwstart.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 39 pm')>
+>
+<[539]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\save.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 39 pm')>
+>
+<[540]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\saveall.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 39 pm')>
+>
+<[541]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\saveandenter.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 40 pm')>
+>
+<[542]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\saveas.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 40 pm')>
+>
+<[543]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\scale.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 40 pm')>
+>
+<[544]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\scissors.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 42 pm')>
+>
+<[545]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\screwdriver.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 43 pm')>
+>
+<[546]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\screwdriverandwrench.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 43 pm')>
+>
+<[547]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\select.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 44 pm')>
+>
+<[548]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\selectall.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 46 pm')>
+>
+<[549]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\selectareaellipse.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 47 pm')>
+>
+<[550]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\selectareafree.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 47 pm')>
+>
+<[551]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\selectareapolygon.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 49 pm')>
+>
+<[552]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\selectarearectangle.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 49 pm')>
+>
+<[553]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\selectline.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 49 pm')>
+>
+<[554]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\selectword.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 50 pm')>
+>
+<[555]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\settings.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 50 pm')>
+>
+<[556]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\share.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 50 pm')>
+>
+<[557]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\shield.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 53 pm')>
+>
+<[558]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\shieldslash.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 53 pm')>
+>
+<[559]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\shuffle.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 54 pm')>
+>
+<[560]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\signpost.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 56 pm')>
+>
+<[561]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\signpostsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 57 pm')>
+>
+<[562]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\slideshow.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 57 pm')>
+>
+<[563]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\slideshowsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 59 pm')>
+>
+<[564]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\sort.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 59 pm')>
+>
+<[565]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\sortalphaasc.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 59 pm')>
+>
+<[566]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\sortalphadesc.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 60 pm')>
+>
+<[567]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\sortamountasc.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 60 pm')>
+>
+<[568]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\sortamountdesc.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 60 pm')>
+>
+<[569]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\sortnumericasc.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 62 pm')>
+>
+<[570]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\sortnumericdesc.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 63 pm')>
+>
+<[571]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\speaker.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 64 pm')>
+>
+<[572]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\speakermid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 66 pm')>
+>
+<[573]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\speakerminus.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 67 pm')>
+>
+<[574]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\speakeroff.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 67 pm')>
+>
+<[575]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\speakerplus.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 69 pm')>
+>
+<[576]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\spellcheck.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 69 pm')>
+>
+<[577]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\square.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 69 pm')>
+>
+<[578]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\squaresolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 70 pm')>
+>
+<[579]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\squaresolidborder.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 70 pm')>
+>
+<[580]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\star.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 70 pm')>
+>
+<[581]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\starhalfsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 73 pm')>
+>
+<[582]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\starsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 73 pm')>
+>
+<[583]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\stop.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 74 pm')>
+>
+<[584]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\symbolat.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 76 pm')>
+>
+<[585]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\symbolfemale.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 77 pm')>
+>
+<[586]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\symbolhash.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 77 pm')>
+>
+<[587]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\symbolhazardbio.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 79 pm')>
+>
+<[588]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\symbolhazardnonionizingrad.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 79 pm')>
+>
+<[589]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\symbolhazardrad.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 79 pm')>
+>
+<[590]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\symbolmale.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 81 pm')>
+>
+<[591]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\symbolparagraph.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 81 pm')>
+>
+<[592]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\symbolquote.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 83 pm')>
+>
+<[593]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\symbolrecycle.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 83 pm')>
+>
+<[594]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\symboltransgender.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 84 pm')>
+>
+<[595]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\symbolunisex.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 86 pm')>
+>
+<[596]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\sync.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 86 pm')>
+>
+<[597]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\synced.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 87 pm')>
+>
+<[598]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\syncerror.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 87 pm')>
+>
+<[599]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\tag.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 87 pm')>
+>
+<[600]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\tags.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 89 pm')>
+>
+<[601]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\tagsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 89 pm')>
+>
+<[602]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\tagssolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 89 pm')>
+>
+<[603]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\target.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 91 pm')>
+>
+<[604]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\terminal.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 91 pm')>
+>
+<[605]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\textaligncenter.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 91 pm')>
+>
+<[606]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\textalignjustify.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 92 pm')>
+>
+<[607]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\textalignleft.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 93 pm')>
+>
+<[608]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\textalignright.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 94 pm')>
+>
+<[609]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\textindent.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 96 pm')>
+>
+<[610]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\textoutdent.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 97 pm')>
+>
+<[611]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\thermometer.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 97 pm')>
+>
+<[612]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\thermometerhigh.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 99 pm')>
+>
+<[613]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\thermometerlow.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:26 99 pm')>
+>
+<[614]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\thermometermed.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 01 pm')>
+>
+<[615]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\thumbsdown.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 01 pm')>
+>
+<[616]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\thumbsup.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 01 pm')>
+>
+<[617]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\timer.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 02 pm')>
+>
+<[618]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\transformrotate.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 03 pm')>
+>
+<[619]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\transformscale.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 06 pm')>
+>
+<[620]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\transformscalex.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 08 pm')>
+>
+<[621]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\transformscaley.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 08 pm')>
+>
+<[622]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\transformshear.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 09 pm')>
+>
+<[623]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\transformtranslate.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 09 pm')>
+>
+<[624]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\transformtranslatex.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 10 pm')>
+>
+<[625]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\transformtranslatey.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 11 pm')>
+>
+<[626]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\trash.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 11 pm')>
+>
+<[627]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\trendingdown.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 12 pm')>
+>
+<[628]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\trendinglevel.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 13 pm')>
+>
+<[629]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\trendingup.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 13 pm')>
+>
+<[630]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\tridown.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 15 pm')>
+>
+<[631]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\tridownleft.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 16 pm')>
+>
+<[632]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\tridownleftsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 17 pm')>
+>
+<[633]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\tridownright.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 20 pm')>
+>
+<[634]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\tridownrightsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 21 pm')>
+>
+<[635]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\tridownsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 21 pm')>
+>
+<[636]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\trileft.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 22 pm')>
+>
+<[637]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\trileftsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 23 pm')>
+>
+<[638]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\triright.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 23 pm')>
+>
+<[639]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\trirightsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 25 pm')>
+>
+<[640]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\trisdiagonaldownin.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 27 pm')>
+>
+<[641]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\trisdiagonaldowninsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 28 pm')>
+>
+<[642]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\trisdiagonaldownout.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 29 pm')>
+>
+<[643]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\trisdiagonaldownoutsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 29 pm')>
+>
+<[644]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\trisdiagonalin.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 30 pm')>
+>
+<[645]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\trisdiagonalinsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 31 pm')>
+>
+<[646]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\trisdiagonalout.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 31 pm')>
+>
+<[647]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\trisdiagonaloutsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 33 pm')>
+>
+<[648]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\trisdiagonalupin.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 33 pm')>
+>
+<[649]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\trisdiagonalupinsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 34 pm')>
+>
+<[650]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\trisdiagonalupout.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 35 pm')>
+>
+<[651]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\trisdiagonalupoutsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 36 pm')>
+>
+<[652]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\trishorizontalin.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 37 pm')>
+>
+<[653]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\trishorizontalinsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 37 pm')>
+>
+<[654]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\trishorizontalout.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 38 pm')>
+>
+<[655]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\trishorizontaloutsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 38 pm')>
+>
+<[656]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\trisin.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 39 pm')>
+>
+<[657]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\trisinsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 40 pm')>
+>
+<[658]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\trisout.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 41 pm')>
+>
+<[659]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\trisoutsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 42 pm')>
+>
+<[660]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\trisverticalin.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 42 pm')>
+>
+<[661]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\trisverticalinsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 43 pm')>
+>
+<[662]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\trisverticalout.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 43 pm')>
+>
+<[663]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\trisverticaloutsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 48 pm')>
+>
+<[664]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\triup.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 49 pm')>
+>
+<[665]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\triupleft.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 49 pm')>
+>
+<[666]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\triupleftsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 50 pm')>
+>
+<[667]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\triupright.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 51 pm')>
+>
+<[668]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\triuprightsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 52 pm')>
+>
+<[669]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\triupsolid.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 53 pm')>
+>
+<[670]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\undo.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 55 pm')>
+>
+<[671]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\unlink.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 56 pm')>
+>
+<[672]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\unpin.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 58 pm')>
+>
+<[673]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\upload.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 59 pm')>
+>
+<[674]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\video.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 60 pm')>
+>
+<[675]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\videoreel.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 60 pm')>
+>
+<[676]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\wand.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 61 pm')>
+>
+<[677]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\weight.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 62 pm')>
+>
+<[678]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\weightkg.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 63 pm')>
+>
+<[679]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\weightlbs.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 63 pm')>
+>
+<[680]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\world.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 65 pm')>
+>
+<[681]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\wrench.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 66 pm')>
+>
+<[682]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\x.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 66 pm')>
+>
+<[683]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\xcircle.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 70 pm')>
+>
+<[684]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\xcircleborder.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 71 pm')>
+>
+<[685]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\xlarge.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 73 pm')>
+>
+<[686]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\icons\xshield.svg}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 77 pm')>
+>
+<[687]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\spinlistback.png}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 79 pm')>
+>
+<[688]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\spinlistbackmask.png}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 79 pm')>
+>
+<[689]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\style.dat}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 80 pm')>
+>
+<[690]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\style.json}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 80 pm')>
+>
+<[691]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\style.js}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 81 pm')>
+>
+<[692]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\style.sass}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 82 pm')>
+>
+<[693]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\tweaks\blue.json}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 83 pm')>
+>
+<[694]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\tweaks\coffee.json}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 84 pm')>
+>
+<[695]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\tweaks\dark.json}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 85 pm')>
+>
+<[696]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\tweaks\magenta.json}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 93 pm')>
+>
+<[697]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\tweaks\purple.json}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 94 pm')>
+>
+<[698]<type="file">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\css\dm\tweaks\slate.json}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:33:27 94 pm')>
+>
+<[699]<type="calendaricons">
+<name="calendaricons">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:34:21 33 pm')>
+>
+<[700]<type="A5WPage">
+<name="{c:\users\dimasururu\documents\mytraining\mytraining.webprojects\default.webproject\index.a5w}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/23/2017 12:34:21 63 pm')>
+>
+>
