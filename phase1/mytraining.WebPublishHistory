@@ -3498,4 +3498,3499 @@
 <target_folder="c:\a5webroot\training">
 <timestamp=CTODT('11/23/2017 12:34:21 63 pm')>
 >
+<[701]<type="WebComponent">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\ux_component2.a5wcmp}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('11/23/2017 02:33:43 77 pm')>
+>
+<[702]<type="css">
+<name="a5system">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('11/23/2017 02:35:15 58 pm')>
+>
+<[703]<type="css">
+<name="forest">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('11/23/2017 02:33:49 36 pm')>
+>
+<[704]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\project.securitysettings}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('11/23/2017 02:33:49 55 pm')>
+>
+<[705]<type="A5WPage">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\index.a5w}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:04 27 pm')>
+>
+<[706]<type="WebComponent">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\ux_component1.a5wcmp}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:04 43 pm')>
+>
+<[707]<type="WebComponent">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\ux_component2.a5wcmp}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 04:32:35 46 pm')>
+>
+<[708]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\style.css}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:04 62 pm')>
+>
+<[709]<type="css">
+<name="a5system">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 04:51:46 88 pm')>
+>
+<[710]<type="css">
+<name="mobred">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:07 19 pm')>
+>
+<[711]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\project.securitysettings}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 04:32:36 11 pm')>
+>
+<[712]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\fonts\icomoon.eot}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 14 pm')>
+>
+<[713]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\fonts\icomoon.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 14 pm')>
+>
+<[714]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\fonts\icomoon.ttf}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 15 pm')>
+>
+<[715]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\fonts\icomoon.woff}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 16 pm')>
+>
+<[716]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\academiccap.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 17 pm')>
+>
+<[717]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\add.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 18 pm')>
+>
+<[718]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\addcircle.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 19 pm')>
+>
+<[719]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\addcircleborder.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 25 pm')>
+>
+<[720]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\addlarge.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 26 pm')>
+>
+<[721]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\addsquare.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 27 pm')>
+>
+<[722]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\addsquareborder.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 27 pm')>
+>
+<[723]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\angle.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 28 pm')>
+>
+<[724]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\appenter.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 29 pm')>
+>
+<[725]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\appexit.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 30 pm')>
+>
+<[726]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\arrowdown.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 30 pm')>
+>
+<[727]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\arrowdownleft.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 31 pm')>
+>
+<[728]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\arrowdownright.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 32 pm')>
+>
+<[729]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\arrowleft.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 33 pm')>
+>
+<[730]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\arrowright.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 33 pm')>
+>
+<[731]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\arrows.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 34 pm')>
+>
+<[732]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\arrowshorizontal.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 35 pm')>
+>
+<[733]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\arrowsin.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 35 pm')>
+>
+<[734]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\arrowsinhorizontal.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 36 pm')>
+>
+<[735]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\arrowsinvertical.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 37 pm')>
+>
+<[736]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\arrowsout.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 37 pm')>
+>
+<[737]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\arrowsouthorizontal.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 38 pm')>
+>
+<[738]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\arrowsoutvertical.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 39 pm')>
+>
+<[739]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\arrowsswaphorizontal.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 39 pm')>
+>
+<[740]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\arrowsswapvertical.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 40 pm')>
+>
+<[741]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\arrowsvertical.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 41 pm')>
+>
+<[742]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\arrowup.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 41 pm')>
+>
+<[743]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\arrowupleft.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 42 pm')>
+>
+<[744]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\arrowupright.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 43 pm')>
+>
+<[745]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\audio.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 43 pm')>
+>
+<[746]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\backspace.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 44 pm')>
+>
+<[747]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\bag.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 45 pm')>
+>
+<[748]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\bagadd.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 46 pm')>
+>
+<[749]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\bagaddsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 47 pm')>
+>
+<[750]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\bagcheck.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 47 pm')>
+>
+<[751]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\bagchecksolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 48 pm')>
+>
+<[752]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\bagfull.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 49 pm')>
+>
+<[753]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\bagfullsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 49 pm')>
+>
+<[754]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\bagremove.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 50 pm')>
+>
+<[755]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\bagremovesolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 51 pm')>
+>
+<[756]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\bagsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 52 pm')>
+>
+<[757]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\bagx.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 53 pm')>
+>
+<[758]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\bagxsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 54 pm')>
+>
+<[759]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\bandaid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 54 pm')>
+>
+<[760]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\bandaidcrossed.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 55 pm')>
+>
+<[761]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\bandaidcrossedsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 56 pm')>
+>
+<[762]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\bandaidsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 57 pm')>
+>
+<[763]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\bars.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 57 pm')>
+>
+<[764]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\basket.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 58 pm')>
+>
+<[765]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\basketadd.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 59 pm')>
+>
+<[766]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\basketaddsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 59 pm')>
+>
+<[767]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\basketcheck.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 60 pm')>
+>
+<[768]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\basketchecksolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 61 pm')>
+>
+<[769]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\basketfull.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 62 pm')>
+>
+<[770]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\basketfullsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 62 pm')>
+>
+<[771]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\basketremove.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 63 pm')>
+>
+<[772]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\basketremovesolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 64 pm')>
+>
+<[773]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\basketsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 65 pm')>
+>
+<[774]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\basketx.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 66 pm')>
+>
+<[775]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\basketxsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 66 pm')>
+>
+<[776]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\battery.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 67 pm')>
+>
+<[777]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\batteryempty.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 68 pm')>
+>
+<[778]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\batteryhigh.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 69 pm')>
+>
+<[779]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\batterylow.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 69 pm')>
+>
+<[780]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\batterymid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 70 pm')>
+>
+<[781]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\beaker.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 71 pm')>
+>
+<[782]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\beakerreaction.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 72 pm')>
+>
+<[783]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\bell.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 72 pm')>
+>
+<[784]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\belloff.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 73 pm')>
+>
+<[785]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\bellring.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 74 pm')>
+>
+<[786]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\binoculars.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 75 pm')>
+>
+<[787]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\book.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 76 pm')>
+>
+<[788]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\bookadd.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 77 pm')>
+>
+<[789]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\bookcheck.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 77 pm')>
+>
+<[790]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\bookcontact.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 78 pm')>
+>
+<[791]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\bookdogeared.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 79 pm')>
+>
+<[792]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\bookedit.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 79 pm')>
+>
+<[793]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\bookmark.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 80 pm')>
+>
+<[794]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\bookmarked.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 81 pm')>
+>
+<[795]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\bookmarks.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 83 pm')>
+>
+<[796]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\bookmarksolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 84 pm')>
+>
+<[797]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\bookmarkssolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 84 pm')>
+>
+<[798]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\bookopen.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 85 pm')>
+>
+<[799]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\bookopenmarked.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 86 pm')>
+>
+<[800]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\bookremove.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 87 pm')>
+>
+<[801]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\books.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 88 pm')>
+>
+<[802]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\bookx.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 89 pm')>
+>
+<[803]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\briefcase.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 89 pm')>
+>
+<[804]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\broom.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 90 pm')>
+>
+<[805]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\broomsweep.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 91 pm')>
+>
+<[806]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\bucket.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 91 pm')>
+>
+<[807]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\bucketpour.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 92 pm')>
+>
+<[808]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\bucketpoursolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 93 pm')>
+>
+<[809]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\bucketpourtrans.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 94 pm')>
+>
+<[810]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\bucketsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 95 pm')>
+>
+<[811]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\buckettrans.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 95 pm')>
+>
+<[812]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\calendar.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 96 pm')>
+>
+<[813]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\calendaradd.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 97 pm')>
+>
+<[814]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\calendarcheck.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 98 pm')>
+>
+<[815]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\calendardate.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:08 99 pm')>
+>
+<[816]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\calendaredit.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 00 pm')>
+>
+<[817]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\calendarremove.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 00 pm')>
+>
+<[818]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\calendarweek.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 01 pm')>
+>
+<[819]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\calendarx.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 02 pm')>
+>
+<[820]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\camera.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 03 pm')>
+>
+<[821]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\cameravideo.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 03 pm')>
+>
+<[822]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\cart.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 04 pm')>
+>
+<[823]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\cartadd.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 05 pm')>
+>
+<[824]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\cartaddsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 05 pm')>
+>
+<[825]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\cartcheck.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 06 pm')>
+>
+<[826]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\cartchecksolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 07 pm')>
+>
+<[827]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\cartfull.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 08 pm')>
+>
+<[828]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\cartfullsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 09 pm')>
+>
+<[829]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\cartremove.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 09 pm')>
+>
+<[830]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\cartremovesolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 10 pm')>
+>
+<[831]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\cartsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 11 pm')>
+>
+<[832]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\cartx.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 12 pm')>
+>
+<[833]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\cartxsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 12 pm')>
+>
+<[834]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\chartarea.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 14 pm')>
+>
+<[835]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\chartbar.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 15 pm')>
+>
+<[836]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\chartline.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 16 pm')>
+>
+<[837]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\chartpie.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 17 pm')>
+>
+<[838]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\check.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 18 pm')>
+>
+<[839]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\checkcircle.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 19 pm')>
+>
+<[840]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\checkcircleborder.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 20 pm')>
+>
+<[841]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\checklist.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 21 pm')>
+>
+<[842]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\checkshield.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 21 pm')>
+>
+<[843]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\checksquare.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 22 pm')>
+>
+<[844]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\checksquareborder.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 23 pm')>
+>
+<[845]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\chevrondbldown.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 24 pm')>
+>
+<[846]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\chevrondblleft.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 24 pm')>
+>
+<[847]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\chevrondblright.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 25 pm')>
+>
+<[848]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\chevrondblup.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 26 pm')>
+>
+<[849]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\chevrondown.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 27 pm')>
+>
+<[850]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\chevronleft.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 28 pm')>
+>
+<[851]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\chevronright.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 29 pm')>
+>
+<[852]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\chevronup.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 31 pm')>
+>
+<[853]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\circle.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 32 pm')>
+>
+<[854]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\circleslash.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 33 pm')>
+>
+<[855]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\circlesolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 34 pm')>
+>
+<[856]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\circlesolidwithborder.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 34 pm')>
+>
+<[857]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\clipboard.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 35 pm')>
+>
+<[858]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\clipboardadd.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 36 pm')>
+>
+<[859]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\clipboardaddsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 37 pm')>
+>
+<[860]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\clipboardcheck.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 38 pm')>
+>
+<[861]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\clipboardchecksolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 39 pm')>
+>
+<[862]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\clipboardremove.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 40 pm')>
+>
+<[863]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\clipboardremovesolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 40 pm')>
+>
+<[864]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\clipboardsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 41 pm')>
+>
+<[865]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\clipboardx.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 42 pm')>
+>
+<[866]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\clipboardxsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 43 pm')>
+>
+<[867]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\clock.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 44 pm')>
+>
+<[868]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\clockalarm.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 45 pm')>
+>
+<[869]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\clockalarmadd.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 45 pm')>
+>
+<[870]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\clockalarmcheck.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 46 pm')>
+>
+<[871]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\clockalarmremove.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 47 pm')>
+>
+<[872]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\clockalarmring.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 47 pm')>
+>
+<[873]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\clockalarmx.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 49 pm')>
+>
+<[874]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\cloud.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 50 pm')>
+>
+<[875]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\codebug.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 51 pm')>
+>
+<[876]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\codedebug.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 53 pm')>
+>
+<[877]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\codedebugbreakpoint.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 54 pm')>
+>
+<[878]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\codedebugbreakpointoff.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 55 pm')>
+>
+<[879]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\codedebughalt.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 56 pm')>
+>
+<[880]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\codedebugpause.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 56 pm')>
+>
+<[881]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\codedebugresume.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 58 pm')>
+>
+<[882]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\codedebugrun.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 59 pm')>
+>
+<[883]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\codedebugstep.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 59 pm')>
+>
+<[884]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\codedebugstepin.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 61 pm')>
+>
+<[885]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\codedebugstepout.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 62 pm')>
+>
+<[886]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\codedebugstepskip.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 63 pm')>
+>
+<[887]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\comment.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 64 pm')>
+>
+<[888]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\commentadd.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 64 pm')>
+>
+<[889]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\commentaddsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 65 pm')>
+>
+<[890]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\commentcheck.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 66 pm')>
+>
+<[891]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\commentchecksolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 67 pm')>
+>
+<[892]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\commentedit.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 68 pm')>
+>
+<[893]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\commenteditsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 68 pm')>
+>
+<[894]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\commenterror.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 69 pm')>
+>
+<[895]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\commenterrorsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 70 pm')>
+>
+<[896]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\commentinfo.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 71 pm')>
+>
+<[897]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\commentinfosolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 72 pm')>
+>
+<[898]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\commenting.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 72 pm')>
+>
+<[899]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\commentingsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 73 pm')>
+>
+<[900]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\commentperson.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 74 pm')>
+>
+<[901]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\commentpersonsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 75 pm')>
+>
+<[902]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\commentquestion.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 76 pm')>
+>
+<[903]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\commentquestionsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 76 pm')>
+>
+<[904]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\commentquote.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 77 pm')>
+>
+<[905]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\commentquotesolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 78 pm')>
+>
+<[906]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\commentremove.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 79 pm')>
+>
+<[907]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\commentremovesolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 80 pm')>
+>
+<[908]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\comments.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 80 pm')>
+>
+<[909]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\commentsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 81 pm')>
+>
+<[910]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\commentssolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 82 pm')>
+>
+<[911]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\commentx.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 83 pm')>
+>
+<[912]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\commentxsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 83 pm')>
+>
+<[913]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\compass.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 85 pm')>
+>
+<[914]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\compress.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 86 pm')>
+>
+<[915]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\compressalt.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 86 pm')>
+>
+<[916]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\creditcard.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 87 pm')>
+>
+<[917]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\creditcards.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 88 pm')>
+>
+<[918]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\creditcardsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 89 pm')>
+>
+<[919]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\creditcardssolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 89 pm')>
+>
+<[920]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\cube.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 91 pm')>
+>
+<[921]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\cubesolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 91 pm')>
+>
+<[922]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\databarcode.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 92 pm')>
+>
+<[923]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\datajson.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 93 pm')>
+>
+<[924]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\dataqrcode.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 94 pm')>
+>
+<[925]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\datarss.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 95 pm')>
+>
+<[926]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\dataxml.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 97 pm')>
+>
+<[927]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\datetime.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 98 pm')>
+>
+<[928]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\delivery.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 98 pm')>
+>
+<[929]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\deliveryadd.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:09 99 pm')>
+>
+<[930]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\deliverycheck.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 00 pm')>
+>
+<[931]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\deliverymoving.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 01 pm')>
+>
+<[932]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\deliveryremove.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 02 pm')>
+>
+<[933]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\deliveryx.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 02 pm')>
+>
+<[934]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\devicedesktop.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 03 pm')>
+>
+<[935]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\devicelaptop.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 04 pm')>
+>
+<[936]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\devicemobile.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 05 pm')>
+>
+<[937]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\devicephone.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 06 pm')>
+>
+<[938]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\deviceprinter.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 08 pm')>
+>
+<[939]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\devicetablet.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 08 pm')>
+>
+<[940]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\doc.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 10 pm')>
+>
+<[941]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\docadd.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 11 pm')>
+>
+<[942]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\docaddcircle.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 12 pm')>
+>
+<[943]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\docaddsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 13 pm')>
+>
+<[944]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\docaudio.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 13 pm')>
+>
+<[945]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\docaudiosolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 14 pm')>
+>
+<[946]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\doccheck.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 15 pm')>
+>
+<[947]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\doccheckcircle.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 15 pm')>
+>
+<[948]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\docchecksolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 16 pm')>
+>
+<[949]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\docduplicate.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 17 pm')>
+>
+<[950]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\docduplicatesolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 18 pm')>
+>
+<[951]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\docedit.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 19 pm')>
+>
+<[952]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\doceditsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 20 pm')>
+>
+<[953]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\docexport.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 20 pm')>
+>
+<[954]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\docimage.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 21 pm')>
+>
+<[955]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\docimagesolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 22 pm')>
+>
+<[956]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\docimport.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 23 pm')>
+>
+<[957]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\docin.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 23 pm')>
+>
+<[958]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\docink.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 24 pm')>
+>
+<[959]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\docinksolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 25 pm')>
+>
+<[960]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\docinsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 25 pm')>
+>
+<[961]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\docjson.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 26 pm')>
+>
+<[962]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\docjsonsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 27 pm')>
+>
+<[963]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\doclock.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 28 pm')>
+>
+<[964]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\doclockopen.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 29 pm')>
+>
+<[965]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\doclockopensolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 29 pm')>
+>
+<[966]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\doclocksolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 30 pm')>
+>
+<[967]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\docout.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 31 pm')>
+>
+<[968]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\docoutsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 31 pm')>
+>
+<[969]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\docremove.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 32 pm')>
+>
+<[970]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\docremovecircle.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 33 pm')>
+>
+<[971]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\docremovesolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 34 pm')>
+>
+<[972]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\docrename.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 34 pm')>
+>
+<[973]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\docrenamecircle.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 35 pm')>
+>
+<[974]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\docrenamesolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 36 pm')>
+>
+<[975]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\docsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 37 pm')>
+>
+<[976]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\doctext.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 38 pm')>
+>
+<[977]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\doctextsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 38 pm')>
+>
+<[978]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\docvector.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 39 pm')>
+>
+<[979]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\docvectorsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 40 pm')>
+>
+<[980]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\docvideo.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 40 pm')>
+>
+<[981]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\docvideosolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 41 pm')>
+>
+<[982]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\docx.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 42 pm')>
+>
+<[983]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\docxcircle.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 43 pm')>
+>
+<[984]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\docxml.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 44 pm')>
+>
+<[985]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\docxmlsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 44 pm')>
+>
+<[986]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\docxsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 45 pm')>
+>
+<[987]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\doczip.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 46 pm')>
+>
+<[988]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\doczipsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 47 pm')>
+>
+<[989]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\download.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 47 pm')>
+>
+<[990]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\drop.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 48 pm')>
+>
+<[991]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\dropper.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 49 pm')>
+>
+<[992]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\dropperin.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 49 pm')>
+>
+<[993]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\dropperout.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 50 pm')>
+>
+<[994]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\dropsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 51 pm')>
+>
+<[995]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\edit.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 52 pm')>
+>
+<[996]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\editcancel.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 53 pm')>
+>
+<[997]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\editcopy.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 53 pm')>
+>
+<[998]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\editcut.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 54 pm')>
+>
+<[999]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\editduplicate.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 55 pm')>
+>
+<[1000]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\editpaste.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 55 pm')>
+>
+<[1001]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\eject.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 56 pm')>
+>
+<[1002]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\ellipsishorizontal.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 57 pm')>
+>
+<[1003]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\ellipsisvertical.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 57 pm')>
+>
+<[1004]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\enter.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 58 pm')>
+>
+<[1005]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\envelope.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 59 pm')>
+>
+<[1006]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\envelopeadd.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 60 pm')>
+>
+<[1007]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\envelopeaddsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 61 pm')>
+>
+<[1008]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\envelopein.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 61 pm')>
+>
+<[1009]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\envelopeinsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 62 pm')>
+>
+<[1010]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\envelopeletter.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 63 pm')>
+>
+<[1011]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\envelopelettersolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 63 pm')>
+>
+<[1012]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\envelopeopen.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 64 pm')>
+>
+<[1013]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\envelopeopensolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 65 pm')>
+>
+<[1014]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\envelopeout.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 66 pm')>
+>
+<[1015]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\envelopeoutsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 66 pm')>
+>
+<[1016]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\enveloperemove.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 67 pm')>
+>
+<[1017]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\enveloperemovesolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 68 pm')>
+>
+<[1018]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\envelopesolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 68 pm')>
+>
+<[1019]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\eraser.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 69 pm')>
+>
+<[1020]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\exclamation.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 70 pm')>
+>
+<[1021]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\exclamationcircle.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 70 pm')>
+>
+<[1022]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\exclamationcircleborder.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 71 pm')>
+>
+<[1023]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\exclamationshield.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 72 pm')>
+>
+<[1024]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\exclamationtriangle.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 73 pm')>
+>
+<[1025]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\exit.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 73 pm')>
+>
+<[1026]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\expand.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 74 pm')>
+>
+<[1027]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\expandalt.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 75 pm')>
+>
+<[1028]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\export.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 76 pm')>
+>
+<[1029]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\eye.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 77 pm')>
+>
+<[1030]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\eyeoff.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 77 pm')>
+>
+<[1031]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\ff.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 78 pm')>
+>
+<[1032]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\ffend.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 79 pm')>
+>
+<[1033]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\ffjump.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 80 pm')>
+>
+<[1034]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\filter.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 80 pm')>
+>
+<[1035]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\filteroff.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 81 pm')>
+>
+<[1036]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\flag.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 83 pm')>
+>
+<[1037]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\flagsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 84 pm')>
+>
+<[1038]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\flame.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 84 pm')>
+>
+<[1039]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\folder.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 86 pm')>
+>
+<[1040]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\folderadd.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 87 pm')>
+>
+<[1041]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\folderaddcircle.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 88 pm')>
+>
+<[1042]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\folderaddsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 89 pm')>
+>
+<[1043]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\foldercheck.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 90 pm')>
+>
+<[1044]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\foldercheckcircle.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 90 pm')>
+>
+<[1045]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\folderchecksolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 91 pm')>
+>
+<[1046]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\folderedit.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 92 pm')>
+>
+<[1047]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\foldereditsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 93 pm')>
+>
+<[1048]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\folderin.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 94 pm')>
+>
+<[1049]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\folderinsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 95 pm')>
+>
+<[1050]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\folderlock.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 96 pm')>
+>
+<[1051]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\folderlockopen.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 97 pm')>
+>
+<[1052]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\folderlockopensolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 97 pm')>
+>
+<[1053]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\folderlocksolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 98 pm')>
+>
+<[1054]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\folderopen.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:10 99 pm')>
+>
+<[1055]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\folderopensolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:11 00 pm')>
+>
+<[1056]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\folderout.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:11 03 pm')>
+>
+<[1057]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\folderoutsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:11 04 pm')>
+>
+<[1058]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\folderremove.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:11 05 pm')>
+>
+<[1059]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\folderremovecircle.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:11 06 pm')>
+>
+<[1060]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\folderremovesolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:11 06 pm')>
+>
+<[1061]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\folderrename.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:11 07 pm')>
+>
+<[1062]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\folderrenamecircle.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:11 08 pm')>
+>
+<[1063]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\folderrenamesolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:11 09 pm')>
+>
+<[1064]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\foldersolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:11 10 pm')>
+>
+<[1065]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\folderx.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:11 10 pm')>
+>
+<[1066]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\folderxcircle.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:11 11 pm')>
+>
+<[1067]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\folderxsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:11 12 pm')>
+>
+<[1068]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\folderzip.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:11 13 pm')>
+>
+<[1069]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\folderzipsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:11 14 pm')>
+>
+<[1070]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\fontbold.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:11 15 pm')>
+>
+<[1071]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\fontfamily.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:11 20 pm')>
+>
+<[1072]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\fontitalic.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:11 28 pm')>
+>
+<[1073]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\fontsize.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:11 34 pm')>
+>
+<[1074]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\fontstrike.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:11 42 pm')>
+>
+<[1075]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\fontunderline.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:11 50 pm')>
+>
+<[1076]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\gauge.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:11 68 pm')>
+>
+<[1077]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\gear.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:11 86 pm')>
+>
+<[1078]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\gears.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:11 96 pm')>
+>
+<[1079]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\gift.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 01 pm')>
+>
+<[1080]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\giftsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 04 pm')>
+>
+<[1081]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\glasses.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 09 pm')>
+>
+<[1082]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\glassessolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 10 pm')>
+>
+<[1083]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\globe.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 11 pm')>
+>
+<[1084]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\globeorbit.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 16 pm')>
+>
+<[1085]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\graphicblur.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 17 pm')>
+>
+<[1086]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\graphicbrightness.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 17 pm')>
+>
+<[1087]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\graphicbrightnessdown.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 18 pm')>
+>
+<[1088]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\graphicbrightnesssmall.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 19 pm')>
+>
+<[1089]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\graphicbrightnessup.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 19 pm')>
+>
+<[1090]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\graphiccontrast.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 21 pm')>
+>
+<[1091]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\graphiccrop.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 22 pm')>
+>
+<[1092]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\graphicmask.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 22 pm')>
+>
+<[1093]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\graphicopacity.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 23 pm')>
+>
+<[1094]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\graphicsharpen.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 25 pm')>
+>
+<[1095]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\hammer.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 26 pm')>
+>
+<[1096]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\handicap.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 26 pm')>
+>
+<[1097]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\headphones.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 27 pm')>
+>
+<[1098]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\headset.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 28 pm')>
+>
+<[1099]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\heart.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 30 pm')>
+>
+<[1100]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\heartbeat.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 30 pm')>
+>
+<[1101]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\heartbroken.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 31 pm')>
+>
+<[1102]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\heartsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 32 pm')>
+>
+<[1103]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\history.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 33 pm')>
+>
+<[1104]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\home.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 34 pm')>
+>
+<[1105]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\hourglass.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 35 pm')>
+>
+<[1106]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\hourglassend.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 36 pm')>
+>
+<[1107]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\hourglassstart.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 37 pm')>
+>
+<[1108]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\image.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 38 pm')>
+>
+<[1109]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\images.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 38 pm')>
+>
+<[1110]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\import.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 39 pm')>
+>
+<[1111]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\info.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 40 pm')>
+>
+<[1112]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\infocircle.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 41 pm')>
+>
+<[1113]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\infocircleborder.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 41 pm')>
+>
+<[1114]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\inputkeyboard.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 42 pm')>
+>
+<[1115]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\inputkeypad.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 43 pm')>
+>
+<[1116]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\inputmouse.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 43 pm')>
+>
+<[1117]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\inputstylus.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 44 pm')>
+>
+<[1118]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\inputtouch.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 45 pm')>
+>
+<[1119]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\inputvoice.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 46 pm')>
+>
+<[1120]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\key.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 47 pm')>
+>
+<[1121]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\keyoff.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 47 pm')>
+>
+<[1122]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\layer.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 49 pm')>
+>
+<[1123]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\layeradd.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 50 pm')>
+>
+<[1124]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\layerbottom.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 51 pm')>
+>
+<[1125]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\layerdown.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 52 pm')>
+>
+<[1126]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\layerremove.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 53 pm')>
+>
+<[1127]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\layertop.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 53 pm')>
+>
+<[1128]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\layerup.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 54 pm')>
+>
+<[1129]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\leaf.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 55 pm')>
+>
+<[1130]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\lightbulb.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 56 pm')>
+>
+<[1131]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\lightbulboff.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 56 pm')>
+>
+<[1132]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\lightning.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 58 pm')>
+>
+<[1133]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\lightningsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 59 pm')>
+>
+<[1134]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\link.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 59 pm')>
+>
+<[1135]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\listbulleted.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 60 pm')>
+>
+<[1136]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\listnumbered.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 61 pm')>
+>
+<[1137]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\load.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 61 pm')>
+>
+<[1138]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\lock.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 62 pm')>
+>
+<[1139]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\lockopen.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 63 pm')>
+>
+<[1140]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\magglass.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 64 pm')>
+>
+<[1141]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\magglassin.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 64 pm')>
+>
+<[1142]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\magglassout.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 65 pm')>
+>
+<[1143]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\magglassx.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 66 pm')>
+>
+<[1144]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\magnet.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 66 pm')>
+>
+<[1145]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\map.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 67 pm')>
+>
+<[1146]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\maplocation.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 69 pm')>
+>
+<[1147]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\mapmarker.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 70 pm')>
+>
+<[1148]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\mapmarkers.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 70 pm')>
+>
+<[1149]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\mapperson.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 71 pm')>
+>
+<[1150]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\maproute.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 72 pm')>
+>
+<[1151]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\megaphone.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 73 pm')>
+>
+<[1152]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\megaphoneoff.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 74 pm')>
+>
+<[1153]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\mic.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 74 pm')>
+>
+<[1154]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\micoff.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 75 pm')>
+>
+<[1155]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\na.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 76 pm')>
+>
+<[1156]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\note.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 77 pm')>
+>
+<[1157]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\noteadd.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 78 pm')>
+>
+<[1158]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\noteaddsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 78 pm')>
+>
+<[1159]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\notecheck.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 79 pm')>
+>
+<[1160]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\notechecksolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 80 pm')>
+>
+<[1161]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\noteedit.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 81 pm')>
+>
+<[1162]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\noteeditsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 82 pm')>
+>
+<[1163]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\noteremove.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 84 pm')>
+>
+<[1164]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\noteremovesolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 84 pm')>
+>
+<[1165]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\notesolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 86 pm')>
+>
+<[1166]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\notex.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 86 pm')>
+>
+<[1167]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\notexsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 87 pm')>
+>
+<[1168]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\offline.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 88 pm')>
+>
+<[1169]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\online.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 89 pm')>
+>
+<[1170]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\palette.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 90 pm')>
+>
+<[1171]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\paperclip.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 91 pm')>
+>
+<[1172]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\paperplane.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 92 pm')>
+>
+<[1173]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\paperplanesolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 92 pm')>
+>
+<[1174]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\pause.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 93 pm')>
+>
+<[1175]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\penfine.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 94 pm')>
+>
+<[1176]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\penfountain.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 95 pm')>
+>
+<[1177]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\penmarker.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 96 pm')>
+>
+<[1178]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\people.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 96 pm')>
+>
+<[1179]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\peoplesolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 97 pm')>
+>
+<[1180]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\person.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 98 pm')>
+>
+<[1181]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\personadd.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:12 99 pm')>
+>
+<[1182]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\personaddsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 00 pm')>
+>
+<[1183]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\personedit.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 00 pm')>
+>
+<[1184]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\personeditsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 01 pm')>
+>
+<[1185]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\personheart.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 02 pm')>
+>
+<[1186]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\personheartsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 03 pm')>
+>
+<[1187]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\personremove.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 04 pm')>
+>
+<[1188]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\personremovesolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 04 pm')>
+>
+<[1189]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\personsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 05 pm')>
+>
+<[1190]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\personx.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 06 pm')>
+>
+<[1191]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\personxsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 06 pm')>
+>
+<[1192]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\phone.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 07 pm')>
+>
+<[1193]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\phonedown.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 08 pm')>
+>
+<[1194]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\phonein.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 09 pm')>
+>
+<[1195]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\phoneoff.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 10 pm')>
+>
+<[1196]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\phoneout.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 10 pm')>
+>
+<[1197]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\phonering.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 11 pm')>
+>
+<[1198]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\phoneringing.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 12 pm')>
+>
+<[1199]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\pin.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 13 pm')>
+>
+<[1200]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\play.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 14 pm')>
+>
+<[1201]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\plug.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 15 pm')>
+>
+<[1202]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\plugconnect.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 16 pm')>
+>
+<[1203]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\plugdisconnect.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 17 pm')>
+>
+<[1204]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\podcast.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 17 pm')>
+>
+<[1205]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\power.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 19 pm')>
+>
+<[1206]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\poweroff.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 20 pm')>
+>
+<[1207]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\poweron.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 21 pm')>
+>
+<[1208]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\powersleep.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 22 pm')>
+>
+<[1209]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\powertogglestandby.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 23 pm')>
+>
+<[1210]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\question.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 24 pm')>
+>
+<[1211]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\questioncircle.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 25 pm')>
+>
+<[1212]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\questioncircleborder.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 26 pm')>
+>
+<[1213]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\quill.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 27 pm')>
+>
+<[1214]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\quote.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 28 pm')>
+>
+<[1215]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\record.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 29 pm')>
+>
+<[1216]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\recordpause.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 30 pm')>
+>
+<[1217]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\redo.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 31 pm')>
+>
+<[1218]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\refresh.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 32 pm')>
+>
+<[1219]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\remove.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 34 pm')>
+>
+<[1220]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\removecircle.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 35 pm')>
+>
+<[1221]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\removecircleborder.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 37 pm')>
+>
+<[1222]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\removelarge.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 38 pm')>
+>
+<[1223]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\removesquare.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 39 pm')>
+>
+<[1224]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\removesquareborder.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 39 pm')>
+>
+<[1225]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\repeat.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 40 pm')>
+>
+<[1226]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\returnleft.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 41 pm')>
+>
+<[1227]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\returnright.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 42 pm')>
+>
+<[1228]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\ribbon.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 43 pm')>
+>
+<[1229]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\rocket.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 44 pm')>
+>
+<[1230]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\ruler.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 44 pm')>
+>
+<[1231]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\rulersolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 46 pm')>
+>
+<[1232]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\rw.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 46 pm')>
+>
+<[1233]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\rwjump.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 47 pm')>
+>
+<[1234]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\rwstart.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 48 pm')>
+>
+<[1235]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\save.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 49 pm')>
+>
+<[1236]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\saveall.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 49 pm')>
+>
+<[1237]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\saveandenter.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 50 pm')>
+>
+<[1238]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\saveas.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 51 pm')>
+>
+<[1239]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\scale.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 51 pm')>
+>
+<[1240]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\scissors.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 52 pm')>
+>
+<[1241]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\screwdriver.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 53 pm')>
+>
+<[1242]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\screwdriverandwrench.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 54 pm')>
+>
+<[1243]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\select.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 55 pm')>
+>
+<[1244]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\selectall.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 56 pm')>
+>
+<[1245]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\selectareaellipse.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 57 pm')>
+>
+<[1246]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\selectareafree.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 58 pm')>
+>
+<[1247]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\selectareapolygon.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 59 pm')>
+>
+<[1248]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\selectarearectangle.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 59 pm')>
+>
+<[1249]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\selectline.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 60 pm')>
+>
+<[1250]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\selectword.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 61 pm')>
+>
+<[1251]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\settings.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 62 pm')>
+>
+<[1252]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\share.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 63 pm')>
+>
+<[1253]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\shield.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 64 pm')>
+>
+<[1254]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\shieldslash.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 65 pm')>
+>
+<[1255]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\shuffle.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 66 pm')>
+>
+<[1256]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\signpost.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 67 pm')>
+>
+<[1257]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\signpostsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 68 pm')>
+>
+<[1258]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\slideshow.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 69 pm')>
+>
+<[1259]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\slideshowsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 69 pm')>
+>
+<[1260]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\sort.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 70 pm')>
+>
+<[1261]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\sortalphaasc.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 71 pm')>
+>
+<[1262]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\sortalphadesc.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 71 pm')>
+>
+<[1263]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\sortamountasc.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 72 pm')>
+>
+<[1264]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\sortamountdesc.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 73 pm')>
+>
+<[1265]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\sortnumericasc.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 74 pm')>
+>
+<[1266]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\sortnumericdesc.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 75 pm')>
+>
+<[1267]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\speaker.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 75 pm')>
+>
+<[1268]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\speakermid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 76 pm')>
+>
+<[1269]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\speakerminus.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 77 pm')>
+>
+<[1270]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\speakeroff.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 78 pm')>
+>
+<[1271]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\speakerplus.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 79 pm')>
+>
+<[1272]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\spellcheck.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 80 pm')>
+>
+<[1273]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\square.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 81 pm')>
+>
+<[1274]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\squaresolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 82 pm')>
+>
+<[1275]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\squaresolidborder.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 83 pm')>
+>
+<[1276]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\star.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 84 pm')>
+>
+<[1277]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\starhalfsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 85 pm')>
+>
+<[1278]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\starsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 85 pm')>
+>
+<[1279]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\stop.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 87 pm')>
+>
+<[1280]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\symbolat.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 88 pm')>
+>
+<[1281]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\symbolfemale.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 89 pm')>
+>
+<[1282]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\symbolhash.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 90 pm')>
+>
+<[1283]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\symbolhazardbio.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 90 pm')>
+>
+<[1284]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\symbolhazardnonionizingrad.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 91 pm')>
+>
+<[1285]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\symbolhazardrad.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 92 pm')>
+>
+<[1286]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\symbolmale.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 93 pm')>
+>
+<[1287]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\symbolparagraph.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 93 pm')>
+>
+<[1288]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\symbolquote.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 94 pm')>
+>
+<[1289]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\symbolrecycle.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 95 pm')>
+>
+<[1290]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\symboltransgender.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 96 pm')>
+>
+<[1291]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\symbolunisex.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 97 pm')>
+>
+<[1292]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\sync.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 98 pm')>
+>
+<[1293]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\synced.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 98 pm')>
+>
+<[1294]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\syncerror.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:13 99 pm')>
+>
+<[1295]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\tag.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 09 pm')>
+>
+<[1296]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\tags.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 10 pm')>
+>
+<[1297]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\tagsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 12 pm')>
+>
+<[1298]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\tagssolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 13 pm')>
+>
+<[1299]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\target.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 14 pm')>
+>
+<[1300]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\terminal.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 15 pm')>
+>
+<[1301]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\textaligncenter.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 16 pm')>
+>
+<[1302]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\textalignjustify.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 17 pm')>
+>
+<[1303]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\textalignleft.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 18 pm')>
+>
+<[1304]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\textalignright.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 19 pm')>
+>
+<[1305]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\textindent.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 20 pm')>
+>
+<[1306]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\textoutdent.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 21 pm')>
+>
+<[1307]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\thermometer.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 22 pm')>
+>
+<[1308]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\thermometerhigh.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 23 pm')>
+>
+<[1309]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\thermometerlow.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 24 pm')>
+>
+<[1310]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\thermometermed.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 25 pm')>
+>
+<[1311]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\thumbsdown.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 25 pm')>
+>
+<[1312]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\thumbsup.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 27 pm')>
+>
+<[1313]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\timer.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 28 pm')>
+>
+<[1314]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\transformrotate.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 28 pm')>
+>
+<[1315]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\transformscale.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 29 pm')>
+>
+<[1316]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\transformscalex.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 30 pm')>
+>
+<[1317]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\transformscaley.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 31 pm')>
+>
+<[1318]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\transformshear.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 32 pm')>
+>
+<[1319]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\transformtranslate.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 33 pm')>
+>
+<[1320]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\transformtranslatex.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 34 pm')>
+>
+<[1321]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\transformtranslatey.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 34 pm')>
+>
+<[1322]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\trash.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 35 pm')>
+>
+<[1323]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\trendingdown.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 36 pm')>
+>
+<[1324]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\trendinglevel.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 37 pm')>
+>
+<[1325]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\trendingup.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 37 pm')>
+>
+<[1326]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\tridown.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 39 pm')>
+>
+<[1327]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\tridownleft.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 39 pm')>
+>
+<[1328]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\tridownleftsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 41 pm')>
+>
+<[1329]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\tridownright.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 42 pm')>
+>
+<[1330]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\tridownrightsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 45 pm')>
+>
+<[1331]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\tridownsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 46 pm')>
+>
+<[1332]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\trileft.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 47 pm')>
+>
+<[1333]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\trileftsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 49 pm')>
+>
+<[1334]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\triright.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 50 pm')>
+>
+<[1335]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\trirightsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 51 pm')>
+>
+<[1336]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\trisdiagonaldownin.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 53 pm')>
+>
+<[1337]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\trisdiagonaldowninsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 54 pm')>
+>
+<[1338]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\trisdiagonaldownout.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 55 pm')>
+>
+<[1339]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\trisdiagonaldownoutsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 56 pm')>
+>
+<[1340]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\trisdiagonalin.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 58 pm')>
+>
+<[1341]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\trisdiagonalinsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 59 pm')>
+>
+<[1342]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\trisdiagonalout.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 60 pm')>
+>
+<[1343]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\trisdiagonaloutsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 62 pm')>
+>
+<[1344]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\trisdiagonalupin.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 63 pm')>
+>
+<[1345]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\trisdiagonalupinsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 64 pm')>
+>
+<[1346]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\trisdiagonalupout.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 65 pm')>
+>
+<[1347]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\trisdiagonalupoutsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 66 pm')>
+>
+<[1348]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\trishorizontalin.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 68 pm')>
+>
+<[1349]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\trishorizontalinsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 69 pm')>
+>
+<[1350]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\trishorizontalout.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 70 pm')>
+>
+<[1351]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\trishorizontaloutsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 71 pm')>
+>
+<[1352]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\trisin.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 72 pm')>
+>
+<[1353]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\trisinsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 73 pm')>
+>
+<[1354]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\trisout.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 74 pm')>
+>
+<[1355]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\trisoutsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 76 pm')>
+>
+<[1356]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\trisverticalin.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 78 pm')>
+>
+<[1357]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\trisverticalinsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 78 pm')>
+>
+<[1358]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\trisverticalout.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 80 pm')>
+>
+<[1359]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\trisverticaloutsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 81 pm')>
+>
+<[1360]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\triup.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 82 pm')>
+>
+<[1361]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\triupleft.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 84 pm')>
+>
+<[1362]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\triupleftsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 86 pm')>
+>
+<[1363]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\triupright.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 86 pm')>
+>
+<[1364]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\triuprightsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 88 pm')>
+>
+<[1365]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\triupsolid.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 89 pm')>
+>
+<[1366]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\undo.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 90 pm')>
+>
+<[1367]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\unlink.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 91 pm')>
+>
+<[1368]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\unpin.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 92 pm')>
+>
+<[1369]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\upload.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 93 pm')>
+>
+<[1370]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\video.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 93 pm')>
+>
+<[1371]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\videoreel.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 94 pm')>
+>
+<[1372]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\wand.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 95 pm')>
+>
+<[1373]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\weight.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 96 pm')>
+>
+<[1374]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\weightkg.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:14 96 pm')>
+>
+<[1375]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\weightlbs.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:15 03 pm')>
+>
+<[1376]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\world.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:15 03 pm')>
+>
+<[1377]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\wrench.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:15 04 pm')>
+>
+<[1378]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\x.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:15 05 pm')>
+>
+<[1379]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\xcircle.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:15 05 pm')>
+>
+<[1380]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\xcircleborder.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:15 06 pm')>
+>
+<[1381]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\xlarge.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:15 07 pm')>
+>
+<[1382]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\icons\xshield.svg}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:15 07 pm')>
+>
+<[1383]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\spinlistback.png}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:15 08 pm')>
+>
+<[1384]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\spinlistbackmask.png}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:15 09 pm')>
+>
+<[1385]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\style.dat}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:15 10 pm')>
+>
+<[1386]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\style.json}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:15 11 pm')>
+>
+<[1387]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\style.js}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:15 11 pm')>
+>
+<[1388]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\style.sass}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:15 12 pm')>
+>
+<[1389]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\tweaks\blue.json}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:15 13 pm')>
+>
+<[1390]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\tweaks\coffee.json}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:15 14 pm')>
+>
+<[1391]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\tweaks\dark.json}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:15 14 pm')>
+>
+<[1392]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\tweaks\magenta.json}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:15 15 pm')>
+>
+<[1393]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\tweaks\purple.json}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:15 16 pm')>
+>
+<[1394]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\tweaks\slate.json}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 02:36:15 16 pm')>
+>
+<[1395]<type="calendaricons">
+<name="calendaricons">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 04:32:34 23 pm')>
+>
+<[1396]<type="css">
+<name="forest">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 04:32:35 93 pm')>
+>
+<[1397]<type="WebComponent">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\ux_component3.a5wcmp}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 04:51:46 73 pm')>
+>
+<[1398]<type="A5WPage">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\mobile1.a5w}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 04:32:35 27 pm')>
+>
+<[1399]<type="A5WPage">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\mobile2.a5w}">
+<target_folder="c:\a5webroot\mobile">
+<timestamp=CTODT('11/23/2017 04:33:03 24 pm')>
+>
 >
