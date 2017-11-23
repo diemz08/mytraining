@@ -9,7 +9,7 @@
         "flagTreeViewGrid": true,
         "flagTreeViewDV": true,
         "componentType": "Grid",
-        "Xbasic": "dim tmpl as p\ntmpl.ComponentName = \"grid_scrol_customer\"\ntmpl.ComponentType = \"Grid\"\ntmpl.AjaxOn = .t.\ntmpl.LayoutColumns = 1\ntmpl.useCompactTheme = .f.\ntmpl.queryEcho = .f.\ntmpl.connectToWebSocketServer = .f.\ntmpl.flagAddPKToORDER = .t.\ntmpl.saveFileType = \"Formatted JSON\"\ntmpl.captureJSErrorStackTrace = .f.\ntmpl.SecurityModel = \"Group Based\"\ntmpl.SecurityMode = \"\"\ntmpl.PreCalcMode = \"Standard\"\ntmpl.clientSideDateFormat = \"MM/dd/yyyy\"\ntmpl.datePicker.dayNames = \"Sun,Mon,Tue,Wed,Thu,Fri,Sat\"\ntmpl.datePicker.firstDayOfWeek = 1\ntmpl.datePicker.monthNames = \"January,February,March,April,May,June,July,August,September,October,November,December\"\ntmpl.datePicker.todayButtonText = \"Today\"\ntmpl.datePicker.closeButtonText = \"Close\"\ntmpl.publishedServerVariables = \"\"\ntmpl.customizationString.javascriptDialogs = \"\"\ntmpl.iconMapOverrides = \"\"\ntmpl.DataSourceType = \"CS\"\ntmpl.CS.database_type = \"CS\"\ntmpl.CS.type = \"connectionstring\"\ntmpl.cs.ConnectionString  = \"::name::mytraining\"\ntmpl.CS.SQL = \"SELECT [SupplierID], [CompanyName], [ContactName], [City], [Phone], [ContactTitle], [Address], [Region], [Country] FROM [suppliers]\"\nDIM tmpl.Arguments[0] AS P\nDIM tmpl.ArgumentsPage AS P\nwith tmpl.ArgumentsPage\n\t.PromptTextAbove = \"\"\nend with\ntmpl.CS.PrimaryKeyColumns = \"SupplierID\"\ntmpl.CS.IdentitySequenceName  = \"\"\ntmpl.CS.primaryKeyTopAliasIsAutoIncrement  = .t.\nDIM tmpl.update.tables[1] as p\nWith tmpl.update.tables[1]\n\t.Name = \"suppliers\"\n\t.Table_Alias = \"suppliers\"\n\t.PrimaryKey = \"SupplierID\"\nEnd With\ntmpl.search.has_search_component = .t.\ntmpl.search.title = \"Search \"\ntmpl.search.show_title = .t.\ntmpl.search.search_button_label = \"Search\"\ntmpl.search.include_sorting_listbox = .f.\ntmpl.search.sort.prompt = \"Sort&nbsp;by\"\ntmpl.search.sorting_listbox_Label_position = \"Left\"\ntmpl.search.sort.promptInLineStyle = \"\"\ntmpl.search.sort.listbox.fieldname_prompt = \"Select Field\"\ntmpl.search.sort.listbox.use_column_headings = .f.\ntmpl.search.customSortDefinition = \"\"\ntmpl.search.search_button.useIcon = .f.\ntmpl.search.clear_link.useIcon = .f.\ntmpl.search.sort.listbox.order_prompt = \"Select Order\"\ntmpl.search.sort.listbox.order_choices = \"Ascending,Descending\"\ntmpl.search.include_records_per_page_listbox = .t.\ntmpl.search.records_per_page.prompt = \"Records&nbsp;per&nbsp;page\"\ntmpl.search.records_per_page_Label_position = \"Left\"\ntmpl.search.records_per_page.promptInLineStyle = \"\"\ntmpl.search.records_per_page.listbox.value_prompt = \"Select Value\"\ntmpl.search.records_per_page.listbox.choices = \"25,50,75,100\"\ntmpl.search.orientation = \"Horizontal\"\ntmpl.search.combine_criteria_using = 1\ntmpl.search.style = 2\ntmpl.search.allow_qbf_style = .t.\ntmpl.search.show_single_search_field = .f.\ntmpl.search.keyword_label = \"Search for?\"\ntmpl.search.has_Clear_link = .t.\ntmpl.search.Clear_link_Label = \"Clear Search Criteria\"\ntmpl.search.Clear_link_BubbleHelp = \"Clear Search\"\ntmpl.search.EnableShowHide  = .t.\ntmpl.search.InitialState = \"Closed\"\ntmpl.search.title_when_hidden = \"Click here to search...\"\ntmpl.search.qbe_exclusions = \"\"\ntmpl.search.toolbarPosition = \"Below\"\ntmpl.search.disableAutoComplete = .f.\ntmpl.search.HideGridWhenNoActiveSearch = .f.\ntmpl.search.GridHTMLWhenHidden  = \"\"\ntmpl.EditRegion.Search.Top = \"\"\ntmpl.EditRegion.Search.Bottom = \"\"\ntmpl.EditRegion.Search.Left = \"\"\ntmpl.EditRegion.Search.Right = \"\"\ntmpl.search.allowSearchCriteriaSave = .f.\ntmpl.search.allowSearchCriteriaLoad = .f.\ntmpl.SearchFields = 2\nDIM tmpl.SearchField_Info[tmpl.SearchFields] as P \nwith tmpl.searchField_info[1]\n\t.Fieldname = \"Country\"\n\t.SearchExpression = \"Country\"\n\t.Initial_Value = \"NULL\"\n\t.Search_Style = 0\n\t.KeywordSearch = .f.\n\t.Scope = \"Local\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .f.\n\t.portableType = \"VaryingCharacter\"\n\t.nativeType = \"varchar\"\n\t.Type = \"C\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Varname = \"COUNTRY\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"DropDownBox\"\n\t.DropdownBox.fieldNameOfFieldLinkedToParentControl = \"<Auto>\"\n\t.DropdownBox.fieldTypeOfFieldLinkedToParentControl = \"\"\n\t.DropdownBox.methodForComputingCascadingFilter = \"<Auto>\"\n\t.DropdownBox.explicitCasacadingFilter = \"\"\n\t.DropdownBox.InLineStyle = \"width: 220px;\"\n\t.DropdownBox.Type = \"Dynamic\"\n\t.DropdownBox.Size = 1\n\t.DropdownBox.selectStyle = \"Single\"\n\t.DropdownBox.NotInListRule = \"Do Nothing\"\n\t.DropDownBox.Datasource = \"CS\"\n\t.DropDownBox.maxchoices = 0\n\t.DropDownBox.CS.ConnectionString = \"::name::mytraining\"\n\t.DropDownBox.CS.SQL = \"SELECT DISTINCT Country FROM customers ORDER BY Country\"\n\t.DropDownBox.DisplayValueField = \"Country\"\n\t.DropDownBox.DisplayValueFieldType = \"C\"\n\t.DropdownBox.noSelectionDisplayValue = \"\"\n\t.DropdownBox.hasCascadingChoices = .f.\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"Country\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"Country\"\nend with\nwith tmpl.searchField_info[2]\n\t.Fieldname = \"City\"\n\t.SearchExpression = \"City\"\n\t.Initial_Value = \"NULL\"\n\t.Search_Style = 0\n\t.KeywordSearch = .f.\n\t.Scope = \"Local\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .f.\n\t.portableType = \"VaryingCharacter\"\n\t.nativeType = \"varchar\"\n\t.Type = \"C\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Varname = \"CITY\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"DropDownBox\"\n\t.DropdownBox.fieldNameOfFieldLinkedToParentControl = \"<Auto>\"\n\t.DropdownBox.fieldTypeOfFieldLinkedToParentControl = \"\"\n\t.DropdownBox.methodForComputingCascadingFilter = \"<Auto>\"\n\t.DropdownBox.explicitCasacadingFilter = \"\"\n\t.DropdownBox.InLineStyle = \"width: 220px;\"\n\t.DropdownBox.Type = \"Dynamic\"\n\t.DropdownBox.Size = 1\n\t.DropdownBox.selectStyle = \"Single\"\n\t.DropdownBox.NotInListRule = \"Do Nothing\"\n\t.DropDownBox.Datasource = \"CS\"\n\t.DropDownBox.maxchoices = 0\n\t.DropDownBox.CS.ConnectionString = \"::name::mytraining\"\n\t.DropDownBox.CS.SQL = \"SELECT DISTINCT City FROM customers ORDER BY City\"\n\t.DropDownBox.DisplayValueField = \"City\"\n\t.DropDownBox.DisplayValueFieldType = \"C\"\n\t.DropdownBox.noSelectionDisplayValue = \"\"\n\t.DropdownBox.hasCascadingChoices = .t.\n\t.DropdownBox.parentControl = \"Country\"\n\t.DropdownBox.noChoicesFound = \"\"\n\t.DropdownBox.autoSubmitSearch = .t.\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"City\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"City\"\nend with\ntmpl.grid_layout_style = 1\ntmpl.add_records_only = .f.\ntmpl.rows = 25\ntmpl.maxRowsPerPage = 200\ntmpl.rowsWhenSearchActive = -1\ntmpl.suppress_empty_rows = .t.\ntmpl.has_row_separator = .t.\ntmpl.alternate_bands = .f.\ntmpl.even_band_size = 1\ntmpl.odd_band_size = 1\ntmpl.alternate_column_bands = .f.\ntmpl.even_column_band_size = 1\ntmpl.odd_column_band_size = 1\ntmpl.conditionalStyle = \"\"\ntmpl.clientSideConditionalStyle = \"\"\ntmpl.show_title = .f.\ntmpl.title = \"\"\ntmpl.FontSize = \"Medium\"\ntmpl.No_records_message = \"No records in query\"\ntmpl.total_records_row_position = 1\ntmpl.total_records_row = \"Records:&nbsp; {Total_Records}&nbsp;\"\ntmpl.show_column_titles = 1\ntmpl.suppress_titles_if_no_records = .f.\ntmpl.show_row_labels = .t.\ntmpl.snakingLayout_suppressRepeatedLabels = .f.\ntmpl.sort_style = 3\ntmpl.reset_page_number_when_sorting = .t.\ntmpl.allowGridBodyScrolling = .t.\ntmpl.scrollableRegionHeight = \"3in\"\ntmpl.scrollableRegionWidth = \"100%\"\ntmpl.fixedWidthColumns = .t.\ntmpl.defaultColumnWidth = \"2in\"\ntmpl.columnWidthSettings = \"\"\ntmpl.EditRegion.Grid.Top = <<%editregion%\n%editregion%\ntmpl.EditRegion.Grid.Bottom = <<%editregion%\n%editregion%\ntmpl.EditRegion.Grid.Left = <<%editregion%\n%editregion%\ntmpl.EditRegion.Grid.Right = <<%editregion%\n%editregion%\ntmpl.HasNewRecordsTitle = .f.\ntmpl.NewRecordsTitle = \"<tr><td class=\\\"[class.gridData]\\\" colspan=\\\"{a5_colspan}\\\" style=\\\"padding: 0px;\\\" >New Records</td></tr>\"\ntmpl.HasExistingRecordsTitle = .f.\ntmpl.ExistingRecordsTitle = \"<tr><td class=\\\"[class.gridData]\\\" colspan=\\\"{a5_colspan}\\\" style=\\\"padding: 0px;\\\" >Existing Records</td></tr>\"\ntmpl.Highlight_row_onHover =  .t.\ntmpl.Highlight_row_onSelect =  .t.\ntmpl.HasRecordsPerPageSelector = .t.\ntmpl.RecordsPerPageChoices =   \"25,50,75,100\"\ntmpl.RecordsPerPageSelectorTemplate = \"&nbsp;&nbsp;{Grid.RecordsPerPageSelector} Records per page\"\ntmpl.has_qbe_row = .f.\ntmpl.qbe.initial_display = \"Hidden\"\ntmpl.qbe.toggleQBERowHyperlinkText = \"Show/Hide QBE Row\"\ntmpl.hasLinkedContent = .f.\ntmpl.hasExternalNavigators = .f.\ntmpl.hasRowExpandColumn = .f.\ntmpl.hasSelectedRowColumn = .t.\ntmpl.hasCheckboxSelectColumn = .f.\ntmpl.AdditionalGridStyles = \"\"\ntmpl.LocalCss = \"\"\ntmpl.CSSLinkedFiles = \"\"\ntmpl.localsvg = \"\"\ntmpl.SVGLinkedFiles = \"\"\ntmpl.CSSIcons = \"\"\ntmpl.JavaScriptLinkedFiles = \"\"\ntmpl.useMasterTemplate = .f.\ntmpl.MasterTemplateStyle = \"Table - Vertical Layout\"\ntmpl.MasterLayoutTemplate = \"\"\ntmpl.MasterLayoutTemplateJavascript = \"\"\ntmpl.MasterLayout.PaneLabel.Search = \"Search\"\ntmpl.MasterLayout.PaneLabel.Grid = \"Grid\"\ntmpl.MasterLayout.PaneLabel.DetailView = \"Detail\"\ntmpl.MasterLayout.AccordionStyle = \"Multiple\"\ntmpl.MasterLayout.InitialOpenPanes = \"Search,Grid,DetailView\"\ntmpl.verticalAlignDataInColumns = \"Middle\"\ntmpl.CanCollapseGrid = .f.\ntmpl.CollapseBar.Title = \"Collapse Grid\"\ntmpl.CollapseBar.OpenIcon = \"\"\ntmpl.CollapseBar.ClosedIcon = \"\"\ntmpl.CollapseBar.Style = \"\"\ntmpl.Collapsebar.Class = \"\"\ntmpl.Collapsebar.ContainerStyle = \"\"\ntmpl.Collapsebar.ContainerClass = \"\"\ntmpl.Collapsebar.InitialState = \"open\"\ntmpl.languageTags_RemoveUnConsumedTags = .t.\ntmpl.activeLanguage = \"<Default>\"\ntmpl.search.highlightSearchStrings = .f.\ntmpl.autoRefreshGrid = .f.\ntmpl.autoRefreshInterval = 60\ntmpl.helpTableType = \"DBF\"\ntmpl.helpTableName = \"\"\ntmpl.helpConnectionString = \"\"\ntmpl.helpIDfield = \"\"\ntmpl.helpContentsField = \"\"\ntmpl.fieldHelpWindowStyle = \"modal-resizeable\"\ntmpl.fields = 5\nDIM tmpl.field_info[tmpl.fields] as P \nwith tmpl.field_info[1]\n\t.Fieldname = \"SupplierID\"\n\t.Scope = \"Local\"\n\t.DisplayFormat = \"\"\n\t.DisplayUnFormat = \"\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .t.\n\t.portableType = \"Integer32\"\n\t.nativeType = \"int\"\n\t.Type = \"N\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Varname = \"SUPPLIERID\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"Label\"\n\t.Label.InLineStyle = \"text-align: right;\"\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"SupplierID\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"Supplier ID\"\n\t.Column.Sort = \"SupplierID\"\n\t.Column.FirstClickDirection = \"A\"\nend with\nwith tmpl.field_info[2]\n\t.Fieldname = \"CompanyName\"\n\t.Scope = \"Local\"\n\t.DisplayFormat = \"\"\n\t.DisplayUnFormat = \"\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .f.\n\t.portableType = \"VaryingCharacter\"\n\t.nativeType = \"varchar\"\n\t.Type = \"C\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Varname = \"COMPANYNAME\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"Label\"\n\t.Label.InLineStyle = \"\"\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"CompanyName\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"Company Name\"\n\t.Column.Sort = \"CompanyName\"\n\t.Column.FirstClickDirection = \"A\"\nend with\nwith tmpl.field_info[3]\n\t.Fieldname = \"ContactName\"\n\t.Scope = \"Local\"\n\t.DisplayFormat = \"\"\n\t.DisplayUnFormat = \"\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .f.\n\t.portableType = \"VaryingCharacter\"\n\t.nativeType = \"varchar\"\n\t.Type = \"C\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Varname = \"CONTACTNAME\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"Label\"\n\t.Label.InLineStyle = \"\"\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"ContactName\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"Contact Name\"\n\t.Column.Sort = \"ContactName\"\n\t.Column.FirstClickDirection = \"A\"\nend with\nwith tmpl.field_info[4]\n\t.Fieldname = \"City\"\n\t.Scope = \"Local\"\n\t.DisplayFormat = \"\"\n\t.DisplayUnFormat = \"\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .f.\n\t.portableType = \"VaryingCharacter\"\n\t.nativeType = \"varchar\"\n\t.Type = \"C\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Varname = \"CITY\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"Label\"\n\t.Label.InLineStyle = \"\"\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"City\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"City\"\n\t.Column.Sort = \"City\"\n\t.Column.FirstClickDirection = \"A\"\nend with\nwith tmpl.field_info[5]\n\t.Fieldname = \"Phone\"\n\t.Scope = \"Local\"\n\t.DisplayFormat = \"\"\n\t.DisplayUnFormat = \"\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .f.\n\t.portableType = \"VaryingCharacter\"\n\t.nativeType = \"varchar\"\n\t.Type = \"C\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Varname = \"PHONE\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"Label\"\n\t.Label.InLineStyle = \"\"\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"Phone\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"Phone\"\n\t.Column.Sort = \"Phone\"\n\t.Column.FirstClickDirection = \"A\"\nend with\ntmpl.RecordNavigationStyle = \"NavigationButtons\"\ntmpl.fetchMoreRecordsButton.text = \"More Records\"\ntmpl.fetchMoreRecordsButton.style = \"\"\ntmpl.RecNav.SuppressIfOnlyOnePage = .t.\ntmpl.RecNav.First_Label = \"First\"\ntmpl.RecNav.Has_First_Button = .t.\ntmpl.RecNav.Has_Last_Button = .t.\ntmpl.RecNav.Has_Next_Button = .t.\ntmpl.RecNav.Has_Prev_Button = .t.\ntmpl.RecNav.HTML_Template_source = \"Computed\"\ntmpl.RecNav.Justify = \"Left\"\ntmpl.RecNav.Last_Label = \"Last\"\ntmpl.RecNav.Next_Label = \"Next\"\ntmpl.RecNav.Number_of_page_links = 10\ntmpl.RecNav.Page_Numbering_Style = 3\ntmpl.RecNav.PagesTemplate_w_PageCount = \"{PageNumber} of {PageCount}\"\ntmpl.RecNav.PagesTemplate_wout_PageCount = \"{PageNumber}\"\ntmpl.RecNav.Position = 1\ntmpl.RecNav.suppress_recNavBar_if_no_records = .f.\ntmpl.RecNav.Prev_Label = \"Prev\"\ntmpl.RecNav.Show_disabled_controls = .t.\ntmpl.RecNav.Show_Page_Count = .t.\ntmpl.RecNav.Use_Images = .f.\ntmpl.gridToolbarTemplate = <<%html%\n%html%\ntmpl.gridToolbarTemplateEditable = <<%html%\n%html%\ntmpl.style_name = \"<ProjectStyle>\"\ntmpl.resolveAbstractClassNames = .t.\ntmpl.style_type = \"Alpha Five\"\ntmpl.UseSimpleStyles = .f.\ntmpl.overrideStylesForJavascriptObjects = .f.\ntmpl.searchBehavior = \"\"\ntmpl.DetailView.Has_DetailView = .t.\ntmpl.detailView.show_row_labels = .t.\ntmpl.DetailView.linkfield = \"\"\ntmpl.DetailView.editable = .t.\ntmpl.DetailView.edit.allow_update = .t.\ntmpl.DetailView.edit.allow_insert = .t.\ntmpl.DetailView.edit.allow_delete = .t.\ntmpl.DetailView.edit.validateFieldsSetting = \"Dirty Fields Only\"\ntmpl.DetailView.edit.updateWhichFields = \"Dirty Fields Only\"\ntmpl.DetailView.edit.Show_Update_Commands = .f.\ntmpl.DetailView.edit.Execute_Update_Commands = .t.\ntmpl.DetailView.AddNewLinkLabel  = \"New Record\"\ntmpl.DetailView.LayoutColumns = 1\ntmpl.DetailView.UseSimpleStyles  = .f.\ntmpl.DetailView.SimpleStyleMode  = \"LayoutOnly\"\ntmpl.DetailView.HasTitle  = .f.\ntmpl.DetailView.SaveRecordButtonLabel  = \"Save\"\ntmpl.DetailView.Title  = \"Detail View \"\ntmpl.DetailView.edit.Delete_TargetPage = \"<Self>\"\ntmpl.DetailView.edit.Save_TargetPage = \"<Self>\"\ntmpl.DetailView.edit.Add_TargetPage = \"<Self>\"\ntmpl.DetailView.Toolbar.Position = \"Below\"\ntmpl.DetailView.Toolbar.showRecordNavigatorLinks = .t.\ntmpl.customizationString.DetailView.toolbar = \"\"\ntmpl.DetailView.edit.check_for_write_conflicts = .t.\ntmpl.DetailView.Toolbar.Buttons = \"\"\ntmpl.DetailView.ToolbarActionButtons = \"\"\ntmpl.detailView.window.animation.hasAnimation = .t.\ntmpl.detailView.window.animation.show.method = \"Fade\"\ntmpl.detailView.window.animation.show.speed = \"Slow\"\ntmpl.detailView.window.animation.hide.method = \"Slide\"\ntmpl.detailView.window.animation.hide.speed = \"Fast\"\ntmpl.DetailView.scrollIntoView = .f.\ntmpl.edit.field_error_style.type = \"Icon\"\ntmpl.edit.field_error_style.icon = \"images/$$generic.error.png.a5image\"\ntmpl.edit.field_error_style.control_classname = \"\"\ntmpl.edit.field_error_style.error_classname = \"\"\ntmpl.edit.field_error_style.control_hover_classname = \"\"\ntmpl.edit.field_error_style.error_hover_classname = \"\"\ntmpl.edit.show_row_errors_in_popup = .f.\ntmpl.edit.row_errors_window_title = \"Errors\"\ntmpl.edit.row_errors_window_style = \"color: red; width: 6in; height: 2in;\"\ntmpl.DetailView.edit.RefreshRowMethod = \"AutoSelect\"\ntmpl.DetailView.edit.Editable_GridRow_Options_Style = \"Icons\"\ntmpl.DetailView.edit.RefreshRowOnDirty = .t.\ntmpl.DetailView.edit.RowEditStyle = \"InitiallyEditable\"\ntmpl.DetailView.edit.LazyEdit = .t.\ntmpl.DetailView.displayStyle = \"PopupWindow-Modal\"\ntmpl.DetailView.ajaxWindowPositionAttribute = \"\"\ntmpl.DetailView.ajaxWindowWidth = \"\"\ntmpl.DetailView.ajaxWindowHeight = \"\"\ntmpl.DetailView.ShowNewRecordIfNoRecordsInQuery = .f.\ntmpl.DetailView.windowDragOpacity = 75\ntmpl.DetailView.PopupWindowTitle = \"Detail Customer\"\ntmpl.DetailView.PopupWindowDirection = \"ltr\"\ntmpl.DetailView.OpenMethod = \"Click on a Grid row\"\ntmpl.DetailView.Toggle = .f.\ntmpl.DetailView.PopulateUsingJavaScript = .f.\ntmpl.DetailView.OnlyShowOnRequest = .t.\ntmpl.DetailView.HideGridIfDetailViewIsVisible = .f.\ntmpl.DetailView.HasCloseLink = .t.\ntmpl.DetailView.CloseDetailViewLinkLabel = \"Close\"\ntmpl.DetailView.CanClose = .t.\ntmpl.DetailView.total_records_row = \"\"\ntmpl.DetailView.CloseAfterSubmit = .f.\ntmpl.EditRegion.DetailView.Top = <<%editregion%\n%editregion%\ntmpl.EditRegion.DetailView.Bottom = <<%editregion%\n%editregion%\ntmpl.EditRegion.DetailView.Left = <<%editregion%\n%editregion%\ntmpl.EditRegion.DetailView.Right = <<%editregion%\n%editregion%\n\ntmpl.DetailFields = 9\nDIM tmpl.DetailField_Info[tmpl.DetailFields] as P \nwith tmpl.detailfield_info[1]\n\t.Fieldname = \"SupplierID\"\n\t.Scope = \"Local\"\n\t.DisplayFormat = \"\"\n\t.DisplayUnFormat = \"\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .t.\n\t.portableType = \"Integer32\"\n\t.nativeType = \"int\"\n\t.Type = \"N\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Updateable = .t.\n\t.TreatBlankAsNull = .f.\n\t.Table_Alias = \"suppliers\"\n\t.FieldToUpdate = \"SupplierID\"\n\t.Varname = \"SUPPLIERID\"\n\t.Initial_Value = \"NULL\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"TextBox\"\n\t.Textbox.Size = 11\n\t.Textbox.HTML5Type = \"\"\n\t.Textbox.customAttributes = \"\"\n\t.Textbox.MaxLength = 11\n\t.Textbox.InLineStyle = \"text-align: right;\"\n\t.Textbox.ContainerInlineStyle = \"\"\n\t.Textbox.IsPassword = .f.\n\t.hasWatermark= .f.\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"SupplierID\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"Supplier ID\"\n\t.Column.Sort = \"Supplierid\"\n\t.Column.FirstClickDirection = \"A\"\nend with\nwith tmpl.detailfield_info[2]\n\t.Fieldname = \"CompanyName\"\n\t.Scope = \"Local\"\n\t.DisplayFormat = \"\"\n\t.DisplayUnFormat = \"\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .f.\n\t.portableType = \"VaryingCharacter\"\n\t.nativeType = \"varchar\"\n\t.Type = \"C\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Updateable = .t.\n\t.TreatBlankAsNull = .f.\n\t.Table_Alias = \"suppliers\"\n\t.FieldToUpdate = \"CompanyName\"\n\t.Varname = \"COMPANYNAME\"\n\t.Initial_Value = \"NULL\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"TextBox\"\n\t.Textbox.Size = 30\n\t.Textbox.HTML5Type = \"\"\n\t.Textbox.customAttributes = \"\"\n\t.Textbox.MaxLength = 40\n\t.Textbox.InLineStyle = \"\"\n\t.Textbox.ContainerInlineStyle = \"\"\n\t.Textbox.IsPassword = .f.\n\t.hasWatermark= .f.\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"CompanyName\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"Company Name\"\n\t.Column.Sort = \"Companyname\"\n\t.Column.FirstClickDirection = \"A\"\nend with\nwith tmpl.detailfield_info[3]\n\t.Fieldname = \"ContactName\"\n\t.Scope = \"Local\"\n\t.DisplayFormat = \"\"\n\t.DisplayUnFormat = \"\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .f.\n\t.portableType = \"VaryingCharacter\"\n\t.nativeType = \"varchar\"\n\t.Type = \"C\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Updateable = .t.\n\t.TreatBlankAsNull = .f.\n\t.Table_Alias = \"suppliers\"\n\t.FieldToUpdate = \"ContactName\"\n\t.Varname = \"CONTACTNAME\"\n\t.Initial_Value = \"NULL\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"TextBox\"\n\t.Textbox.Size = 30\n\t.Textbox.HTML5Type = \"\"\n\t.Textbox.customAttributes = \"\"\n\t.Textbox.MaxLength = 30\n\t.Textbox.InLineStyle = \"\"\n\t.Textbox.ContainerInlineStyle = \"\"\n\t.Textbox.IsPassword = .f.\n\t.hasWatermark= .f.\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"ContactName\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"Contact Name\"\n\t.Column.Sort = \"Contactname\"\n\t.Column.FirstClickDirection = \"A\"\nend with\nwith tmpl.detailfield_info[4]\n\t.Fieldname = \"ContactTitle\"\n\t.Scope = \"Local\"\n\t.DisplayFormat = \"\"\n\t.DisplayUnFormat = \"\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .f.\n\t.portableType = \"VaryingCharacter\"\n\t.nativeType = \"varchar\"\n\t.Type = \"C\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Updateable = .t.\n\t.TreatBlankAsNull = .f.\n\t.Table_Alias = \"suppliers\"\n\t.FieldToUpdate = \"ContactTitle\"\n\t.Varname = \"CONTACTTITLE\"\n\t.Initial_Value = \"NULL\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"TextBox\"\n\t.Textbox.Size = 30\n\t.Textbox.HTML5Type = \"\"\n\t.Textbox.customAttributes = \"\"\n\t.Textbox.MaxLength = 30\n\t.Textbox.InLineStyle = \"\"\n\t.Textbox.ContainerInlineStyle = \"\"\n\t.Textbox.IsPassword = .f.\n\t.hasWatermark= .f.\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"ContactTitle\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"Contact Title\"\n\t.Column.Sort = \"Contacttitle\"\n\t.Column.FirstClickDirection = \"A\"\nend with\nwith tmpl.detailfield_info[5]\n\t.Fieldname = \"Address\"\n\t.Scope = \"Local\"\n\t.DisplayFormat = \"\"\n\t.DisplayUnFormat = \"\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .f.\n\t.portableType = \"VaryingCharacter\"\n\t.nativeType = \"varchar\"\n\t.Type = \"C\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Updateable = .t.\n\t.TreatBlankAsNull = .f.\n\t.Table_Alias = \"suppliers\"\n\t.FieldToUpdate = \"Address\"\n\t.Varname = \"ADDRESS\"\n\t.Initial_Value = \"NULL\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"TextBox\"\n\t.Textbox.Size = 30\n\t.Textbox.HTML5Type = \"\"\n\t.Textbox.customAttributes = \"\"\n\t.Textbox.MaxLength = 60\n\t.Textbox.InLineStyle = \"\"\n\t.Textbox.ContainerInlineStyle = \"\"\n\t.Textbox.IsPassword = .f.\n\t.hasWatermark= .f.\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"Address\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"Address\"\n\t.Column.Sort = \"Address\"\n\t.Column.FirstClickDirection = \"A\"\nend with\nwith tmpl.detailfield_info[6]\n\t.Fieldname = \"City\"\n\t.Scope = \"Local\"\n\t.DisplayFormat = \"\"\n\t.DisplayUnFormat = \"\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .f.\n\t.portableType = \"VaryingCharacter\"\n\t.nativeType = \"varchar\"\n\t.Type = \"C\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Updateable = .t.\n\t.TreatBlankAsNull = .f.\n\t.Table_Alias = \"suppliers\"\n\t.FieldToUpdate = \"City\"\n\t.Varname = \"CITY\"\n\t.Initial_Value = \"NULL\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"TextBox\"\n\t.Textbox.Size = 15\n\t.Textbox.HTML5Type = \"\"\n\t.Textbox.customAttributes = \"\"\n\t.Textbox.MaxLength = 15\n\t.Textbox.InLineStyle = \"\"\n\t.Textbox.ContainerInlineStyle = \"\"\n\t.Textbox.IsPassword = .f.\n\t.hasWatermark= .f.\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"City\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"City\"\n\t.Column.Sort = \"City\"\n\t.Column.FirstClickDirection = \"A\"\nend with\nwith tmpl.detailfield_info[7]\n\t.Fieldname = \"Region\"\n\t.Scope = \"Local\"\n\t.DisplayFormat = \"\"\n\t.DisplayUnFormat = \"\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .f.\n\t.portableType = \"VaryingCharacter\"\n\t.nativeType = \"varchar\"\n\t.Type = \"C\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Updateable = .t.\n\t.TreatBlankAsNull = .f.\n\t.Table_Alias = \"suppliers\"\n\t.FieldToUpdate = \"Region\"\n\t.Varname = \"REGION\"\n\t.Initial_Value = \"NULL\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"TextBox\"\n\t.Textbox.Size = 15\n\t.Textbox.HTML5Type = \"\"\n\t.Textbox.customAttributes = \"\"\n\t.Textbox.MaxLength = 15\n\t.Textbox.InLineStyle = \"\"\n\t.Textbox.ContainerInlineStyle = \"\"\n\t.Textbox.IsPassword = .f.\n\t.hasWatermark= .f.\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"Region\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"Region\"\n\t.Column.Sort = \"Region\"\n\t.Column.FirstClickDirection = \"A\"\nend with\nwith tmpl.detailfield_info[8]\n\t.Fieldname = \"Country\"\n\t.Scope = \"Local\"\n\t.DisplayFormat = \"\"\n\t.DisplayUnFormat = \"\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .f.\n\t.portableType = \"VaryingCharacter\"\n\t.nativeType = \"varchar\"\n\t.Type = \"C\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Updateable = .t.\n\t.TreatBlankAsNull = .f.\n\t.Table_Alias = \"suppliers\"\n\t.FieldToUpdate = \"Country\"\n\t.Varname = \"COUNTRY\"\n\t.Initial_Value = \"NULL\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"TextBox\"\n\t.Textbox.Size = 15\n\t.Textbox.HTML5Type = \"\"\n\t.Textbox.customAttributes = \"\"\n\t.Textbox.MaxLength = 15\n\t.Textbox.InLineStyle = \"\"\n\t.Textbox.ContainerInlineStyle = \"\"\n\t.Textbox.IsPassword = .f.\n\t.hasWatermark= .f.\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"Country\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"Country\"\n\t.Column.Sort = \"Country\"\n\t.Column.FirstClickDirection = \"A\"\nend with\nwith tmpl.detailfield_info[9]\n\t.Fieldname = \"Phone\"\n\t.Scope = \"Local\"\n\t.DisplayFormat = \"\"\n\t.DisplayUnFormat = \"\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .f.\n\t.portableType = \"VaryingCharacter\"\n\t.nativeType = \"varchar\"\n\t.Type = \"C\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Updateable = .t.\n\t.TreatBlankAsNull = .f.\n\t.Table_Alias = \"suppliers\"\n\t.FieldToUpdate = \"Phone\"\n\t.Varname = \"PHONE\"\n\t.Initial_Value = \"NULL\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"TextBox\"\n\t.Textbox.Size = 24\n\t.Textbox.HTML5Type = \"\"\n\t.Textbox.customAttributes = \"\"\n\t.Textbox.MaxLength = 24\n\t.Textbox.InLineStyle = \"\"\n\t.Textbox.ContainerInlineStyle = \"\"\n\t.Textbox.IsPassword = .f.\n\t.hasWatermark= .f.\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"Phone\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"Phone\"\n\t.Column.Sort = \"Phone\"\n\t.Column.FirstClickDirection = \"A\"\nend with\ntmpl.GUID = \"7c9f3eb4-d6c8-49c2-9bed-dea46acdca92\"\ntmpl.onlyIncludeSelectedFieldsInQuery = .t.\ntmpl.hasGroupBreaks = .f.\ntmpl.groupBreaks.expression1 = \"\"\ntmpl.groupBreaks.direction1 = \"\"\ntmpl.groupBreaks.header1 = <<%HTML%\n%HTML%\ntmpl.groupBreaks.footer1 = <<%HTML%\n%HTML%\ntmpl.groupBreaks.collapseAllGroupsOnInitialDisplay = .f.\ntmpl.timestamp = \"2017-11-22:11-45-15.182\"\ntmpl.resolveAbstractClassNamesAtDesignTime  = .f.\ntmpl.resolveAbstractIconNamesAtDesignTime = .f. \ntmpl.useLegacyDatePicker = .f.\ntmpl.javascriptUnboundActionDefinitions = <<%javascriptActions%\n%javascriptActions%\n\ntmpl.precalc.sessionVarsInShowHideExpns = <<%sessionvars%\n%sessionvars%\ntmpl.precalc.unboundActionsXbasicFunctions = \"\"\ntmpl.precalc.includeS3Javascript = .f.",
+        "Xbasic": "dim tmpl as p\ntmpl.ComponentName = \"grid_scrol_customer\"\ntmpl.ComponentType = \"Grid\"\ntmpl.AjaxOn = .t.\ntmpl.LayoutColumns = 1\ntmpl.useCompactTheme = .f.\ntmpl.queryEcho = .f.\ntmpl.connectToWebSocketServer = .f.\ntmpl.flagAddPKToORDER = .t.\ntmpl.saveFileType = \"Formatted JSON\"\ntmpl.captureJSErrorStackTrace = .f.\ntmpl.SecurityModel = \"Group Based\"\ntmpl.SecurityMode = \"\"\ntmpl.PreCalcMode = \"Standard\"\ntmpl.clientSideDateFormat = \"MM/dd/yyyy\"\ntmpl.datePicker.dayNames = \"Sun,Mon,Tue,Wed,Thu,Fri,Sat\"\ntmpl.datePicker.firstDayOfWeek = 1\ntmpl.datePicker.monthNames = \"January,February,March,April,May,June,July,August,September,October,November,December\"\ntmpl.datePicker.todayButtonText = \"Today\"\ntmpl.datePicker.closeButtonText = \"Close\"\ntmpl.publishedServerVariables = \"\"\ntmpl.customizationString.javascriptDialogs = \"\"\ntmpl.iconMapOverrides = \"\"\ntmpl.DataSourceType = \"CS\"\ntmpl.CS.database_type = \"CS\"\ntmpl.CS.type = \"connectionstring\"\ntmpl.cs.ConnectionString  = \"::name::mytraining\"\ntmpl.CS.SQL = \"SELECT [SupplierID], [CompanyName], [ContactName], [City], [Phone], [ContactTitle], [Address], [Region], [Country] FROM [suppliers]\"\nDIM tmpl.Arguments[0] AS P\nDIM tmpl.ArgumentsPage AS P\nwith tmpl.ArgumentsPage\n\t.PromptTextAbove = \"\"\nend with\ntmpl.CS.PrimaryKeyColumns = \"SupplierID\"\ntmpl.CS.IdentitySequenceName  = \"\"\ntmpl.CS.primaryKeyTopAliasIsAutoIncrement  = .t.\nDIM tmpl.update.tables[1] as p\nWith tmpl.update.tables[1]\n\t.Name = \"suppliers\"\n\t.Table_Alias = \"suppliers\"\n\t.PrimaryKey = \"SupplierID\"\nEnd With\ntmpl.search.has_search_component = .t.\ntmpl.search.title = \"Search \"\ntmpl.search.show_title = .t.\ntmpl.search.search_button_label = \"Search\"\ntmpl.search.include_sorting_listbox = .f.\ntmpl.search.sort.prompt = \"Sort&nbsp;by\"\ntmpl.search.sorting_listbox_Label_position = \"Left\"\ntmpl.search.sort.promptInLineStyle = \"\"\ntmpl.search.sort.listbox.fieldname_prompt = \"Select Field\"\ntmpl.search.sort.listbox.use_column_headings = .f.\ntmpl.search.customSortDefinition = \"\"\ntmpl.search.search_button.useIcon = .f.\ntmpl.search.clear_link.useIcon = .f.\ntmpl.search.sort.listbox.order_prompt = \"Select Order\"\ntmpl.search.sort.listbox.order_choices = \"Ascending,Descending\"\ntmpl.search.include_records_per_page_listbox = .t.\ntmpl.search.records_per_page.prompt = \"Records&nbsp;per&nbsp;page\"\ntmpl.search.records_per_page_Label_position = \"Left\"\ntmpl.search.records_per_page.promptInLineStyle = \"\"\ntmpl.search.records_per_page.listbox.value_prompt = \"Select Value\"\ntmpl.search.records_per_page.listbox.choices = \"25,50,75,100\"\ntmpl.search.orientation = \"Horizontal\"\ntmpl.search.combine_criteria_using = 1\ntmpl.search.style = 2\ntmpl.search.allow_qbf_style = .t.\ntmpl.search.show_single_search_field = .f.\ntmpl.search.keyword_label = \"Search for?\"\ntmpl.search.has_Clear_link = .t.\ntmpl.search.Clear_link_Label = \"Clear Search Criteria\"\ntmpl.search.Clear_link_BubbleHelp = \"Clear Search\"\ntmpl.search.EnableShowHide  = .t.\ntmpl.search.InitialState = \"Closed\"\ntmpl.search.title_when_hidden = \"Click here to search...\"\ntmpl.search.qbe_exclusions = \"\"\ntmpl.search.toolbarPosition = \"Below\"\ntmpl.search.disableAutoComplete = .f.\ntmpl.search.HideGridWhenNoActiveSearch = .f.\ntmpl.search.GridHTMLWhenHidden  = \"\"\ntmpl.EditRegion.Search.Top = \"\"\ntmpl.EditRegion.Search.Bottom = \"\"\ntmpl.EditRegion.Search.Left = \"\"\ntmpl.EditRegion.Search.Right = \"\"\ntmpl.search.allowSearchCriteriaSave = .f.\ntmpl.search.allowSearchCriteriaLoad = .f.\ntmpl.SearchFields = 2\nDIM tmpl.SearchField_Info[tmpl.SearchFields] as P \nwith tmpl.searchfield_info[1]\n\t.Fieldname = \"Country\"\n\t.SearchExpression = \"Country\"\n\t.Initial_Value = \"NULL\"\n\t.Search_Style = 0\n\t.KeywordSearch = .f.\n\t.Scope = \"Local\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .f.\n\t.portableType = \"VaryingCharacter\"\n\t.nativeType = \"varchar\"\n\t.Type = \"C\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Varname = \"COUNTRY\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"DropDownBox\"\n\t.DropdownBox.fieldNameOfFieldLinkedToParentControl = \"<Auto>\"\n\t.DropdownBox.fieldTypeOfFieldLinkedToParentControl = \"\"\n\t.DropdownBox.methodForComputingCascadingFilter = \"<Auto>\"\n\t.DropdownBox.explicitCasacadingFilter = \"\"\n\t.DropdownBox.InLineStyle = \"width: 220px;\"\n\t.DropdownBox.Type = \"Dynamic\"\n\t.DropdownBox.Size = 1\n\t.DropdownBox.selectStyle = \"Single\"\n\t.DropdownBox.NotInListRule = \"Do Nothing\"\n\t.DropDownBox.Datasource = \"CS\"\n\t.DropDownBox.maxchoices = 0\n\t.DropDownBox.CS.ConnectionString = \"::name::mytraining\"\n\t.DropDownBox.CS.SQL = \"SELECT DISTINCT Country FROM customers ORDER BY Country\"\n\t.DropDownBox.DisplayValueField = \"Country\"\n\t.DropDownBox.DisplayValueFieldType = \"C\"\n\t.DropdownBox.noSelectionDisplayValue = \"\"\n\t.DropdownBox.hasCascadingChoices = .f.\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"Country\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"Country\"\nend with\nwith tmpl.searchfield_info[2]\n\t.Fieldname = \"City\"\n\t.SearchExpression = \"City\"\n\t.Initial_Value = \"NULL\"\n\t.Search_Style = 0\n\t.KeywordSearch = .f.\n\t.Scope = \"Local\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .f.\n\t.portableType = \"VaryingCharacter\"\n\t.nativeType = \"varchar\"\n\t.Type = \"C\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Varname = \"CITY\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"DropDownBox\"\n\t.DropdownBox.fieldNameOfFieldLinkedToParentControl = \"<Auto>\"\n\t.DropdownBox.fieldTypeOfFieldLinkedToParentControl = \"\"\n\t.DropdownBox.methodForComputingCascadingFilter = \"<Auto>\"\n\t.DropdownBox.explicitCasacadingFilter = \"\"\n\t.DropdownBox.InLineStyle = \"width: 220px;\"\n\t.DropdownBox.Type = \"Dynamic\"\n\t.DropdownBox.Size = 1\n\t.DropdownBox.selectStyle = \"Single\"\n\t.DropdownBox.NotInListRule = \"Do Nothing\"\n\t.DropDownBox.Datasource = \"CS\"\n\t.DropDownBox.maxchoices = 0\n\t.DropDownBox.CS.ConnectionString = \"::name::mytraining\"\n\t.DropDownBox.CS.SQL = \"SELECT DISTINCT City FROM customers ORDER BY City\"\n\t.DropDownBox.DisplayValueField = \"City\"\n\t.DropDownBox.DisplayValueFieldType = \"C\"\n\t.DropdownBox.noSelectionDisplayValue = \"\"\n\t.DropdownBox.hasCascadingChoices = .t.\n\t.DropdownBox.parentControl = \"Country\"\n\t.DropdownBox.noChoicesFound = \"\"\n\t.DropdownBox.autoSubmitSearch = .t.\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"City\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"City\"\nend with\ntmpl.grid_layout_style = 1\ntmpl.add_records_only = .f.\ntmpl.rows = 25\ntmpl.maxRowsPerPage = 200\ntmpl.rowsWhenSearchActive = -1\ntmpl.suppress_empty_rows = .t.\ntmpl.has_row_separator = .t.\ntmpl.alternate_bands = .f.\ntmpl.even_band_size = 1\ntmpl.odd_band_size = 1\ntmpl.alternate_column_bands = .f.\ntmpl.even_column_band_size = 1\ntmpl.odd_column_band_size = 1\ntmpl.conditionalStyle = \"\"\ntmpl.clientSideConditionalStyle = \"\"\ntmpl.show_title = .f.\ntmpl.title = \"\"\ntmpl.FontSize = \"Medium\"\ntmpl.No_records_message = \"No records in query\"\ntmpl.total_records_row_position = 1\ntmpl.total_records_row = \"Records:&nbsp; {Total_Records}&nbsp;\"\ntmpl.show_column_titles = 1\ntmpl.suppress_titles_if_no_records = .f.\ntmpl.show_row_labels = .t.\ntmpl.snakingLayout_suppressRepeatedLabels = .f.\ntmpl.sort_style = 3\ntmpl.reset_page_number_when_sorting = .t.\ntmpl.allowGridBodyScrolling = .t.\ntmpl.scrollableRegionHeight = \"3in\"\ntmpl.scrollableRegionWidth = \"100%\"\ntmpl.fixedWidthColumns = .t.\ntmpl.defaultColumnWidth = \"2in\"\ntmpl.columnWidthSettings = \"\"\ntmpl.EditRegion.Grid.Top = <<%editregion%\n%editregion%\ntmpl.EditRegion.Grid.Bottom = <<%editregion%\n%editregion%\ntmpl.EditRegion.Grid.Left = <<%editregion%\n%editregion%\ntmpl.EditRegion.Grid.Right = <<%editregion%\n%editregion%\ntmpl.HasNewRecordsTitle = .f.\ntmpl.NewRecordsTitle = \"<tr><td class=\\\"[class.gridData]\\\" colspan=\\\"{a5_colspan}\\\" style=\\\"padding: 0px;\\\" >New Records</td></tr>\"\ntmpl.HasExistingRecordsTitle = .f.\ntmpl.ExistingRecordsTitle = \"<tr><td class=\\\"[class.gridData]\\\" colspan=\\\"{a5_colspan}\\\" style=\\\"padding: 0px;\\\" >Existing Records</td></tr>\"\ntmpl.Highlight_row_onHover =  .t.\ntmpl.Highlight_row_onSelect =  .t.\ntmpl.HasRecordsPerPageSelector = .t.\ntmpl.RecordsPerPageChoices =   \"25,50,75,100\"\ntmpl.RecordsPerPageSelectorTemplate = \"&nbsp;&nbsp;{Grid.RecordsPerPageSelector} Records per page\"\ntmpl.has_qbe_row = .f.\ntmpl.qbe.initial_display = \"Hidden\"\ntmpl.qbe.toggleQBERowHyperlinkText = \"Show/Hide QBE Row\"\ntmpl.hasLinkedContent = .f.\ntmpl.hasExternalNavigators = .f.\ntmpl.hasRowExpandColumn = .f.\ntmpl.hasSelectedRowColumn = .t.\ntmpl.hasCheckboxSelectColumn = .f.\ntmpl.AdditionalGridStyles = \"\"\ntmpl.LocalCss = \"\"\ntmpl.CSSLinkedFiles = \"\"\ntmpl.localsvg = \"\"\ntmpl.SVGLinkedFiles = \"\"\ntmpl.CSSIcons = \"\"\ntmpl.JavaScriptLinkedFiles = \"\"\ntmpl.useMasterTemplate = .f.\ntmpl.MasterTemplateStyle = \"Table - Vertical Layout\"\ntmpl.MasterLayoutTemplate = \"\"\ntmpl.MasterLayoutTemplateJavascript = \"\"\ntmpl.MasterLayout.PaneLabel.Search = \"Search\"\ntmpl.MasterLayout.PaneLabel.Grid = \"Grid\"\ntmpl.MasterLayout.PaneLabel.DetailView = \"Detail\"\ntmpl.MasterLayout.AccordionStyle = \"Multiple\"\ntmpl.MasterLayout.InitialOpenPanes = \"Search,Grid,DetailView\"\ntmpl.verticalAlignDataInColumns = \"Middle\"\ntmpl.CanCollapseGrid = .f.\ntmpl.CollapseBar.Title = \"Collapse Grid\"\ntmpl.CollapseBar.OpenIcon = \"\"\ntmpl.CollapseBar.ClosedIcon = \"\"\ntmpl.CollapseBar.Style = \"\"\ntmpl.Collapsebar.Class = \"\"\ntmpl.Collapsebar.ContainerStyle = \"\"\ntmpl.Collapsebar.ContainerClass = \"\"\ntmpl.Collapsebar.InitialState = \"open\"\ntmpl.languageTags_RemoveUnConsumedTags = .t.\ntmpl.activeLanguage = \"<Default>\"\ntmpl.search.highlightSearchStrings = .f.\ntmpl.autoRefreshGrid = .f.\ntmpl.autoRefreshInterval = 60\ntmpl.helpTableType = \"DBF\"\ntmpl.helpTableName = \"\"\ntmpl.helpConnectionString = \"\"\ntmpl.helpIDfield = \"\"\ntmpl.helpContentsField = \"\"\ntmpl.fieldHelpWindowStyle = \"modal-resizeable\"\ntmpl.fields = 5\nDIM tmpl.field_info[tmpl.fields] as P \nwith tmpl.field_info[1]\n\t.Fieldname = \"SupplierID\"\n\t.Scope = \"Local\"\n\t.DisplayFormat = \"\"\n\t.DisplayUnFormat = \"\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .t.\n\t.portableType = \"Integer32\"\n\t.nativeType = \"int\"\n\t.Type = \"N\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Varname = \"SUPPLIERID\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"Label\"\n\t.Label.InLineStyle = \"text-align: right;\"\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"SupplierID\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"Supplier ID\"\n\t.Column.Sort = \"SupplierID\"\n\t.Column.FirstClickDirection = \"A\"\nend with\nwith tmpl.field_info[2]\n\t.Fieldname = \"CompanyName\"\n\t.Scope = \"Local\"\n\t.DisplayFormat = \"\"\n\t.DisplayUnFormat = \"\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .f.\n\t.portableType = \"VaryingCharacter\"\n\t.nativeType = \"varchar\"\n\t.Type = \"C\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Varname = \"COMPANYNAME\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"Label\"\n\t.Label.InLineStyle = \"\"\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"CompanyName\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"Company Name\"\n\t.Column.Sort = \"CompanyName\"\n\t.Column.FirstClickDirection = \"A\"\nend with\nwith tmpl.field_info[3]\n\t.Fieldname = \"ContactName\"\n\t.Scope = \"Local\"\n\t.DisplayFormat = \"\"\n\t.DisplayUnFormat = \"\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .f.\n\t.portableType = \"VaryingCharacter\"\n\t.nativeType = \"varchar\"\n\t.Type = \"C\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Varname = \"CONTACTNAME\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"Label\"\n\t.Label.InLineStyle = \"\"\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"ContactName\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"Contact Name\"\n\t.Column.Sort = \"ContactName\"\n\t.Column.FirstClickDirection = \"A\"\nend with\nwith tmpl.field_info[4]\n\t.Fieldname = \"City\"\n\t.Scope = \"Local\"\n\t.DisplayFormat = \"\"\n\t.DisplayUnFormat = \"\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .f.\n\t.portableType = \"VaryingCharacter\"\n\t.nativeType = \"varchar\"\n\t.Type = \"C\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Varname = \"CITY\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"Label\"\n\t.Label.InLineStyle = \"\"\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"City\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"City\"\n\t.Column.Sort = \"City\"\n\t.Column.FirstClickDirection = \"A\"\nend with\nwith tmpl.field_info[5]\n\t.Fieldname = \"Phone\"\n\t.Scope = \"Local\"\n\t.DisplayFormat = \"\"\n\t.DisplayUnFormat = \"\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .f.\n\t.portableType = \"VaryingCharacter\"\n\t.nativeType = \"varchar\"\n\t.Type = \"C\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Varname = \"PHONE\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"Label\"\n\t.Label.InLineStyle = \"\"\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"Phone\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"Phone\"\n\t.Column.Sort = \"Phone\"\n\t.Column.FirstClickDirection = \"A\"\nend with\ntmpl.RecordNavigationStyle = \"NavigationButtons\"\ntmpl.fetchMoreRecordsButton.text = \"More Records\"\ntmpl.fetchMoreRecordsButton.style = \"\"\ntmpl.RecNav.SuppressIfOnlyOnePage = .t.\ntmpl.RecNav.First_Label = \"First\"\ntmpl.RecNav.Has_First_Button = .t.\ntmpl.RecNav.Has_Last_Button = .t.\ntmpl.RecNav.Has_Next_Button = .t.\ntmpl.RecNav.Has_Prev_Button = .t.\ntmpl.RecNav.HTML_Template_source = \"Computed\"\ntmpl.RecNav.Justify = \"Left\"\ntmpl.RecNav.Last_Label = \"Last\"\ntmpl.RecNav.Next_Label = \"Next\"\ntmpl.RecNav.Number_of_page_links = 10\ntmpl.RecNav.Page_Numbering_Style = 3\ntmpl.RecNav.PagesTemplate_w_PageCount = \"{PageNumber} of {PageCount}\"\ntmpl.RecNav.PagesTemplate_wout_PageCount = \"{PageNumber}\"\ntmpl.RecNav.Position = 1\ntmpl.RecNav.suppress_recNavBar_if_no_records = .f.\ntmpl.RecNav.Prev_Label = \"Prev\"\ntmpl.RecNav.Show_disabled_controls = .t.\ntmpl.RecNav.Show_Page_Count = .t.\ntmpl.RecNav.Use_Images = .f.\ntmpl.gridToolbarTemplate = <<%html%\n%html%\ntmpl.gridToolbarTemplateEditable = <<%html%\n%html%\ntmpl.style_name = \"<ProjectStyle>\"\ntmpl.resolveAbstractClassNames = .t.\ntmpl.style_type = \"Alpha Five\"\ntmpl.UseSimpleStyles = .f.\ntmpl.overrideStylesForJavascriptObjects = .f.\ntmpl.searchBehavior = \"\"\ntmpl.DetailView.Has_DetailView = .t.\ntmpl.detailView.show_row_labels = .t.\ntmpl.DetailView.linkfield = \"\"\ntmpl.DetailView.editable = .t.\ntmpl.DetailView.edit.allow_update = .t.\ntmpl.DetailView.edit.allow_insert = .t.\ntmpl.DetailView.edit.allow_delete = .t.\ntmpl.DetailView.edit.validateFieldsSetting = \"Dirty Fields Only\"\ntmpl.DetailView.edit.updateWhichFields = \"Dirty Fields Only\"\ntmpl.DetailView.edit.Show_Update_Commands = .f.\ntmpl.DetailView.edit.Execute_Update_Commands = .t.\ntmpl.DetailView.AddNewLinkLabel  = \"New Record\"\ntmpl.DetailView.LayoutColumns = 1\ntmpl.DetailView.UseSimpleStyles  = .f.\ntmpl.DetailView.SimpleStyleMode  = \"LayoutOnly\"\ntmpl.DetailView.HasTitle  = .f.\ntmpl.DetailView.SaveRecordButtonLabel  = \"Save\"\ntmpl.DetailView.Title  = \"Detail View \"\ntmpl.DetailView.edit.Delete_TargetPage = \"<Self>\"\ntmpl.DetailView.edit.Save_TargetPage = \"<Self>\"\ntmpl.DetailView.edit.Add_TargetPage = \"<Self>\"\ntmpl.DetailView.Toolbar.Position = \"Below\"\ntmpl.DetailView.Toolbar.showRecordNavigatorLinks = .t.\ntmpl.customizationString.DetailView.toolbar = \"\"\ntmpl.DetailView.edit.check_for_write_conflicts = .t.\ntmpl.DetailView.Toolbar.Buttons = \"\"\ntmpl.DetailView.ToolbarActionButtons = \"\"\ntmpl.detailView.window.animation.hasAnimation = .t.\ntmpl.detailView.window.animation.show.method = \"Fade\"\ntmpl.detailView.window.animation.show.speed = \"Slow\"\ntmpl.detailView.window.animation.hide.method = \"Slide\"\ntmpl.detailView.window.animation.hide.speed = \"Fast\"\ntmpl.DetailView.scrollIntoView = .f.\ntmpl.edit.field_error_style.type = \"Icon\"\ntmpl.edit.field_error_style.icon = \"images/$$generic.error.png.a5image\"\ntmpl.edit.field_error_style.control_classname = \"\"\ntmpl.edit.field_error_style.error_classname = \"\"\ntmpl.edit.field_error_style.control_hover_classname = \"\"\ntmpl.edit.field_error_style.error_hover_classname = \"\"\ntmpl.edit.show_row_errors_in_popup = .f.\ntmpl.edit.row_errors_window_title = \"Errors\"\ntmpl.edit.row_errors_window_style = \"color: red; width: 6in; height: 2in;\"\ntmpl.DetailView.edit.RefreshRowMethod = \"AutoSelect\"\ntmpl.DetailView.edit.Editable_GridRow_Options_Style = \"Icons\"\ntmpl.DetailView.edit.RefreshRowOnDirty = .t.\ntmpl.DetailView.edit.RowEditStyle = \"InitiallyEditable\"\ntmpl.DetailView.edit.LazyEdit = .t.\ntmpl.DetailView.displayStyle = \"PopupWindow-Modal\"\ntmpl.DetailView.ajaxWindowPositionAttribute = \"\"\ntmpl.DetailView.ajaxWindowWidth = \"\"\ntmpl.DetailView.ajaxWindowHeight = \"\"\ntmpl.DetailView.ShowNewRecordIfNoRecordsInQuery = .f.\ntmpl.DetailView.windowDragOpacity = 75\ntmpl.DetailView.PopupWindowTitle = \"Detail Customer\"\ntmpl.DetailView.PopupWindowDirection = \"ltr\"\ntmpl.DetailView.OpenMethod = \"Click on a Grid row\"\ntmpl.DetailView.Toggle = .f.\ntmpl.DetailView.PopulateUsingJavaScript = .f.\ntmpl.DetailView.OnlyShowOnRequest = .t.\ntmpl.DetailView.HideGridIfDetailViewIsVisible = .f.\ntmpl.DetailView.HasCloseLink = .t.\ntmpl.DetailView.CloseDetailViewLinkLabel = \"Close\"\ntmpl.DetailView.CanClose = .t.\ntmpl.DetailView.total_records_row = \"\"\ntmpl.DetailView.CloseAfterSubmit = .f.\ntmpl.EditRegion.DetailView.Top = <<%editregion%\n%editregion%\ntmpl.EditRegion.DetailView.Bottom = <<%editregion%\n%editregion%\ntmpl.EditRegion.DetailView.Left = <<%editregion%\n%editregion%\ntmpl.EditRegion.DetailView.Right = <<%editregion%\n%editregion%\n\ntmpl.DetailFields = 9\nDIM tmpl.DetailField_Info[tmpl.DetailFields] as P \nwith tmpl.detailfield_info[1]\n\t.Fieldname = \"SupplierID\"\n\t.Scope = \"Local\"\n\t.DisplayFormat = \"\"\n\t.DisplayUnFormat = \"\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .t.\n\t.portableType = \"Integer32\"\n\t.nativeType = \"int\"\n\t.Type = \"N\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Updateable = .t.\n\t.TreatBlankAsNull = .f.\n\t.Table_Alias = \"suppliers\"\n\t.FieldToUpdate = \"SupplierID\"\n\t.Varname = \"SUPPLIERID\"\n\t.Initial_Value = \"NULL\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"TextBox\"\n\t.Textbox.Size = 11\n\t.Textbox.HTML5Type = \"\"\n\t.Textbox.customAttributes = \"\"\n\t.Textbox.MaxLength = 11\n\t.Textbox.InLineStyle = \"text-align: right;\"\n\t.Textbox.ContainerInlineStyle = \"\"\n\t.Textbox.IsPassword = .f.\n\t.hasWatermark= .f.\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"SupplierID\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"Supplier ID\"\n\t.Column.Sort = \"Supplierid\"\n\t.Column.FirstClickDirection = \"A\"\nend with\nwith tmpl.detailfield_info[2]\n\t.Fieldname = \"CompanyName\"\n\t.Scope = \"Local\"\n\t.DisplayFormat = \"\"\n\t.DisplayUnFormat = \"\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .f.\n\t.portableType = \"VaryingCharacter\"\n\t.nativeType = \"varchar\"\n\t.Type = \"C\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Updateable = .t.\n\t.TreatBlankAsNull = .f.\n\t.Table_Alias = \"suppliers\"\n\t.FieldToUpdate = \"CompanyName\"\n\t.Varname = \"COMPANYNAME\"\n\t.Initial_Value = \"NULL\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"TextBox\"\n\t.Textbox.Size = 30\n\t.Textbox.HTML5Type = \"\"\n\t.Textbox.customAttributes = \"\"\n\t.Textbox.MaxLength = 40\n\t.Textbox.InLineStyle = \"\"\n\t.Textbox.ContainerInlineStyle = \"\"\n\t.Textbox.IsPassword = .f.\n\t.hasWatermark= .f.\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"CompanyName\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"Company Name\"\n\t.Column.Sort = \"Companyname\"\n\t.Column.FirstClickDirection = \"A\"\nend with\nwith tmpl.detailfield_info[3]\n\t.Fieldname = \"ContactName\"\n\t.Scope = \"Local\"\n\t.DisplayFormat = \"\"\n\t.DisplayUnFormat = \"\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .f.\n\t.portableType = \"VaryingCharacter\"\n\t.nativeType = \"varchar\"\n\t.Type = \"C\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Updateable = .t.\n\t.TreatBlankAsNull = .f.\n\t.Table_Alias = \"suppliers\"\n\t.FieldToUpdate = \"ContactName\"\n\t.Varname = \"CONTACTNAME\"\n\t.Initial_Value = \"NULL\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"TextBox\"\n\t.Textbox.Size = 30\n\t.Textbox.HTML5Type = \"\"\n\t.Textbox.customAttributes = \"\"\n\t.Textbox.MaxLength = 30\n\t.Textbox.InLineStyle = \"\"\n\t.Textbox.ContainerInlineStyle = \"\"\n\t.Textbox.IsPassword = .f.\n\t.hasWatermark= .f.\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"ContactName\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"Contact Name\"\n\t.Column.Sort = \"Contactname\"\n\t.Column.FirstClickDirection = \"A\"\nend with\nwith tmpl.detailfield_info[4]\n\t.Fieldname = \"ContactTitle\"\n\t.Scope = \"Local\"\n\t.DisplayFormat = \"\"\n\t.DisplayUnFormat = \"\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .f.\n\t.portableType = \"VaryingCharacter\"\n\t.nativeType = \"varchar\"\n\t.Type = \"C\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Updateable = .t.\n\t.TreatBlankAsNull = .f.\n\t.Table_Alias = \"suppliers\"\n\t.FieldToUpdate = \"ContactTitle\"\n\t.Varname = \"CONTACTTITLE\"\n\t.Initial_Value = \"NULL\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"TextBox\"\n\t.Textbox.Size = 30\n\t.Textbox.HTML5Type = \"\"\n\t.Textbox.customAttributes = \"\"\n\t.Textbox.MaxLength = 30\n\t.Textbox.InLineStyle = \"\"\n\t.Textbox.ContainerInlineStyle = \"\"\n\t.Textbox.IsPassword = .f.\n\t.hasWatermark= .f.\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"ContactTitle\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"Contact Title\"\n\t.Column.Sort = \"Contacttitle\"\n\t.Column.FirstClickDirection = \"A\"\nend with\nwith tmpl.detailfield_info[5]\n\t.Fieldname = \"Address\"\n\t.Scope = \"Local\"\n\t.DisplayFormat = \"\"\n\t.DisplayUnFormat = \"\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .f.\n\t.portableType = \"VaryingCharacter\"\n\t.nativeType = \"varchar\"\n\t.Type = \"C\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Updateable = .t.\n\t.TreatBlankAsNull = .f.\n\t.Table_Alias = \"suppliers\"\n\t.FieldToUpdate = \"Address\"\n\t.Varname = \"ADDRESS\"\n\t.Initial_Value = \"NULL\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"TextBox\"\n\t.Textbox.Size = 30\n\t.Textbox.HTML5Type = \"\"\n\t.Textbox.customAttributes = \"\"\n\t.Textbox.MaxLength = 60\n\t.Textbox.InLineStyle = \"\"\n\t.Textbox.ContainerInlineStyle = \"\"\n\t.Textbox.IsPassword = .f.\n\t.hasWatermark= .f.\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"Address\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"Address\"\n\t.Column.Sort = \"Address\"\n\t.Column.FirstClickDirection = \"A\"\nend with\nwith tmpl.detailfield_info[6]\n\t.Fieldname = \"City\"\n\t.Scope = \"Local\"\n\t.DisplayFormat = \"\"\n\t.DisplayUnFormat = \"\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .f.\n\t.portableType = \"VaryingCharacter\"\n\t.nativeType = \"varchar\"\n\t.Type = \"C\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Updateable = .t.\n\t.TreatBlankAsNull = .f.\n\t.Table_Alias = \"suppliers\"\n\t.FieldToUpdate = \"City\"\n\t.Varname = \"CITY\"\n\t.Initial_Value = \"NULL\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"TextBox\"\n\t.Textbox.Size = 15\n\t.Textbox.HTML5Type = \"\"\n\t.Textbox.customAttributes = \"\"\n\t.Textbox.MaxLength = 15\n\t.Textbox.InLineStyle = \"\"\n\t.Textbox.ContainerInlineStyle = \"\"\n\t.Textbox.IsPassword = .f.\n\t.hasWatermark= .f.\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"City\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"City\"\n\t.Column.Sort = \"City\"\n\t.Column.FirstClickDirection = \"A\"\nend with\nwith tmpl.detailfield_info[7]\n\t.Fieldname = \"Region\"\n\t.Scope = \"Local\"\n\t.DisplayFormat = \"\"\n\t.DisplayUnFormat = \"\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .f.\n\t.portableType = \"VaryingCharacter\"\n\t.nativeType = \"varchar\"\n\t.Type = \"C\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Updateable = .t.\n\t.TreatBlankAsNull = .f.\n\t.Table_Alias = \"suppliers\"\n\t.FieldToUpdate = \"Region\"\n\t.Varname = \"REGION\"\n\t.Initial_Value = \"NULL\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"TextBox\"\n\t.Textbox.Size = 15\n\t.Textbox.HTML5Type = \"\"\n\t.Textbox.customAttributes = \"\"\n\t.Textbox.MaxLength = 15\n\t.Textbox.InLineStyle = \"\"\n\t.Textbox.ContainerInlineStyle = \"\"\n\t.Textbox.IsPassword = .f.\n\t.hasWatermark= .f.\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"Region\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"Region\"\n\t.Column.Sort = \"Region\"\n\t.Column.FirstClickDirection = \"A\"\nend with\nwith tmpl.detailfield_info[8]\n\t.Fieldname = \"Country\"\n\t.Scope = \"Local\"\n\t.DisplayFormat = \"\"\n\t.DisplayUnFormat = \"\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .f.\n\t.portableType = \"VaryingCharacter\"\n\t.nativeType = \"varchar\"\n\t.Type = \"C\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Updateable = .t.\n\t.TreatBlankAsNull = .f.\n\t.Table_Alias = \"suppliers\"\n\t.FieldToUpdate = \"Country\"\n\t.Varname = \"COUNTRY\"\n\t.Initial_Value = \"NULL\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"TextBox\"\n\t.Textbox.Size = 15\n\t.Textbox.HTML5Type = \"\"\n\t.Textbox.customAttributes = \"\"\n\t.Textbox.MaxLength = 15\n\t.Textbox.InLineStyle = \"\"\n\t.Textbox.ContainerInlineStyle = \"\"\n\t.Textbox.IsPassword = .f.\n\t.hasWatermark= .f.\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"Country\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"Country\"\n\t.Column.Sort = \"Country\"\n\t.Column.FirstClickDirection = \"A\"\nend with\nwith tmpl.detailfield_info[9]\n\t.Fieldname = \"Phone\"\n\t.Scope = \"Local\"\n\t.DisplayFormat = \"\"\n\t.DisplayUnFormat = \"\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .f.\n\t.portableType = \"VaryingCharacter\"\n\t.nativeType = \"varchar\"\n\t.Type = \"C\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Updateable = .t.\n\t.TreatBlankAsNull = .f.\n\t.Table_Alias = \"suppliers\"\n\t.FieldToUpdate = \"Phone\"\n\t.Varname = \"PHONE\"\n\t.Initial_Value = \"NULL\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"TextBox\"\n\t.Textbox.Size = 24\n\t.Textbox.HTML5Type = \"\"\n\t.Textbox.customAttributes = \"\"\n\t.Textbox.MaxLength = 24\n\t.Textbox.InLineStyle = \"\"\n\t.Textbox.ContainerInlineStyle = \"\"\n\t.Textbox.IsPassword = .f.\n\t.hasWatermark= .f.\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"Phone\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"Phone\"\n\t.Column.Sort = \"Phone\"\n\t.Column.FirstClickDirection = \"A\"\nend with\ntmpl.GUID = \"7c9f3eb4-d6c8-49c2-9bed-dea46acdca92\"\ntmpl.onlyIncludeSelectedFieldsInQuery = .t.\ntmpl.hasGroupBreaks = .f.\ntmpl.groupBreaks.expression1 = \"\"\ntmpl.groupBreaks.direction1 = \"\"\ntmpl.groupBreaks.header1 = <<%HTML%\n%HTML%\ntmpl.groupBreaks.footer1 = <<%HTML%\n%HTML%\ntmpl.groupBreaks.collapseAllGroupsOnInitialDisplay = .f.\ntmpl.timestamp = \"2017-11-23:12-46-56.186\"\ntmpl.resolveAbstractClassNamesAtDesignTime  = .f.\ntmpl.resolveAbstractIconNamesAtDesignTime = .f. \ntmpl.useLegacyDatePicker = .f.\ntmpl.javascriptUnboundActionDefinitions = <<%javascriptActions%\n%javascriptActions%\n\ntmpl.precalc.sessionVarsInShowHideExpns = <<%sessionvars%\n%sessionvars%\ntmpl.precalc.unboundActionsXbasicFunctions = \"\"\ntmpl.precalc.includeS3Javascript = .f.",
         "datasourceType": 3,
         "componentName": "grid_scrol_customer",
         "query_ado": {
@@ -44,9 +44,6 @@
         "query_dbf": {
             "type": "Table",
             "Direction": "Ascending",
-            "JoinInfo": {
-                "a_tables": []
-            },
             "Arguments": []
         },
         "fields": {
@@ -136,9 +133,9 @@
                                 "width": "2in"
                             },
                             "style": "font: 9pt Arial;",
+                            "editButtonText": "Edit...",
                             "toolbaricons": "",
-                            "toolbardefinition": "",
-                            "editButtonText": "Edit..."
+                            "toolbardefinition": ""
                         }
                     },
                     "radiobutton": {
@@ -177,8 +174,6 @@
                         "OpenMethod": "ClickIcon",
                         "UseComboBoxes": true,
                         "DateFormat": "<DefaultTimeFormat>",
-                        "showPreDefinedDates": false,
-                        "preDefinedDatesJSON": "",
                         "LowYear": 1950,
                         "HighYear": 2050,
                         "SwitchYear": 20,
@@ -186,7 +181,9 @@
                         "showDaysOfWeek": true,
                         "showTodayButton": true,
                         "OKButtonLabel": "OK",
-                        "CancelButtonLabel": "Cancel"
+                        "CancelButtonLabel": "Cancel",
+                        "showPreDefinedDates": false,
+                        "preDefinedDatesJSON": ""
                     },
                     "column": {
                         "heading": "Supplier ID",
@@ -260,7 +257,7 @@
                     "displayODFlat": "{F=Tahoma,8}{I:'a5_blue_text'}{T=.2}{C=}{DATA=SupplierID}SupplierID",
                     "scope": "Local",
                     "tmplTxtComputed": true,
-                    "tmplTxt": "with tmpl.field_info[_fieldNumber_]\n\t.Fieldname = \"SupplierID\"\n\t.Scope = \"Local\"\n\t.DisplayFormat = \"\"\n\t.DisplayUnFormat = \"\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .t.\n\t.portableType = \"Integer32\"\n\t.nativeType = \"int\"\n\t.Type = \"N\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Varname = \"SUPPLIERID\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"Label\"\n\t.Label.InLineStyle = \"text-align: right;\"\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"SupplierID\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"Supplier ID\"\n\t.Column.Sort = \"SupplierID\"\n\t.Column.FirstClickDirection = \"A\"\nend with\n\n"
+                    "tmplTxt": "with tmpl.field_info[_fieldNumber_]\n\t.Fieldname = \"SupplierID\"\n\t.Scope = \"Local\"\n\t.DisplayFormat = \"\"\n\t.DisplayUnFormat = \"\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .t.\n\t.portableType = \"Integer32\"\n\t.nativeType = \"int\"\n\t.Type = \"N\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Varname = \"SUPPLIERID\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"Label\"\n\t.Label.InLineStyle = \"text-align: right;\"\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"SupplierID\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"Supplier ID\"\n\t.Column.Sort = \"SupplierID\"\n\t.Column.FirstClickDirection = \"A\"\nend with\n\n\n"
                 },
                 {
                     "fieldname": "CompanyName",
@@ -343,9 +340,9 @@
                                 "width": "2in"
                             },
                             "style": "font: 9pt Arial;",
+                            "editButtonText": "Edit...",
                             "toolbaricons": "",
-                            "toolbardefinition": "",
-                            "editButtonText": "Edit..."
+                            "toolbardefinition": ""
                         }
                     },
                     "radiobutton": {
@@ -384,8 +381,6 @@
                         "OpenMethod": "ClickIcon",
                         "UseComboBoxes": true,
                         "DateFormat": "<DefaultTimeFormat>",
-                        "showPreDefinedDates": false,
-                        "preDefinedDatesJSON": "",
                         "LowYear": 1950,
                         "HighYear": 2050,
                         "SwitchYear": 20,
@@ -393,7 +388,9 @@
                         "showDaysOfWeek": true,
                         "showTodayButton": true,
                         "OKButtonLabel": "OK",
-                        "CancelButtonLabel": "Cancel"
+                        "CancelButtonLabel": "Cancel",
+                        "showPreDefinedDates": false,
+                        "preDefinedDatesJSON": ""
                     },
                     "column": {
                         "heading": "Company Name",
@@ -466,7 +463,7 @@
                     "displayODFlat": "{F=Tahoma,8}{I:'a5_blue_text'}{T=.2}{C=}{DATA=CompanyName}CompanyName",
                     "scope": "Local",
                     "tmplTxtComputed": true,
-                    "tmplTxt": "with tmpl.field_info[_fieldNumber_]\n\t.Fieldname = \"CompanyName\"\n\t.Scope = \"Local\"\n\t.DisplayFormat = \"\"\n\t.DisplayUnFormat = \"\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .f.\n\t.portableType = \"VaryingCharacter\"\n\t.nativeType = \"varchar\"\n\t.Type = \"C\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Varname = \"COMPANYNAME\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"Label\"\n\t.Label.InLineStyle = \"\"\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"CompanyName\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"Company Name\"\n\t.Column.Sort = \"CompanyName\"\n\t.Column.FirstClickDirection = \"A\"\nend with\n\n"
+                    "tmplTxt": "with tmpl.field_info[_fieldNumber_]\n\t.Fieldname = \"CompanyName\"\n\t.Scope = \"Local\"\n\t.DisplayFormat = \"\"\n\t.DisplayUnFormat = \"\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .f.\n\t.portableType = \"VaryingCharacter\"\n\t.nativeType = \"varchar\"\n\t.Type = \"C\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Varname = \"COMPANYNAME\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"Label\"\n\t.Label.InLineStyle = \"\"\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"CompanyName\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"Company Name\"\n\t.Column.Sort = \"CompanyName\"\n\t.Column.FirstClickDirection = \"A\"\nend with\n\n\n"
                 },
                 {
                     "fieldname": "ContactName",
@@ -549,9 +546,9 @@
                                 "width": "2in"
                             },
                             "style": "font: 9pt Arial;",
+                            "editButtonText": "Edit...",
                             "toolbaricons": "",
-                            "toolbardefinition": "",
-                            "editButtonText": "Edit..."
+                            "toolbardefinition": ""
                         }
                     },
                     "radiobutton": {
@@ -590,8 +587,6 @@
                         "OpenMethod": "ClickIcon",
                         "UseComboBoxes": true,
                         "DateFormat": "<DefaultTimeFormat>",
-                        "showPreDefinedDates": false,
-                        "preDefinedDatesJSON": "",
                         "LowYear": 1950,
                         "HighYear": 2050,
                         "SwitchYear": 20,
@@ -599,7 +594,9 @@
                         "showDaysOfWeek": true,
                         "showTodayButton": true,
                         "OKButtonLabel": "OK",
-                        "CancelButtonLabel": "Cancel"
+                        "CancelButtonLabel": "Cancel",
+                        "showPreDefinedDates": false,
+                        "preDefinedDatesJSON": ""
                     },
                     "column": {
                         "heading": "Contact Name",
@@ -672,7 +669,7 @@
                     "displayODFlat": "{F=Tahoma,8}{I:'a5_blue_text'}{T=.2}{C=}{DATA=ContactName}ContactName",
                     "scope": "Local",
                     "tmplTxtComputed": true,
-                    "tmplTxt": "with tmpl.field_info[_fieldNumber_]\n\t.Fieldname = \"ContactName\"\n\t.Scope = \"Local\"\n\t.DisplayFormat = \"\"\n\t.DisplayUnFormat = \"\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .f.\n\t.portableType = \"VaryingCharacter\"\n\t.nativeType = \"varchar\"\n\t.Type = \"C\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Varname = \"CONTACTNAME\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"Label\"\n\t.Label.InLineStyle = \"\"\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"ContactName\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"Contact Name\"\n\t.Column.Sort = \"ContactName\"\n\t.Column.FirstClickDirection = \"A\"\nend with\n\n"
+                    "tmplTxt": "with tmpl.field_info[_fieldNumber_]\n\t.Fieldname = \"ContactName\"\n\t.Scope = \"Local\"\n\t.DisplayFormat = \"\"\n\t.DisplayUnFormat = \"\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .f.\n\t.portableType = \"VaryingCharacter\"\n\t.nativeType = \"varchar\"\n\t.Type = \"C\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Varname = \"CONTACTNAME\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"Label\"\n\t.Label.InLineStyle = \"\"\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"ContactName\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"Contact Name\"\n\t.Column.Sort = \"ContactName\"\n\t.Column.FirstClickDirection = \"A\"\nend with\n\n\n"
                 },
                 {
                     "fieldname": "City",
@@ -755,9 +752,9 @@
                                 "width": "2in"
                             },
                             "style": "font: 9pt Arial;",
+                            "editButtonText": "Edit...",
                             "toolbaricons": "",
-                            "toolbardefinition": "",
-                            "editButtonText": "Edit..."
+                            "toolbardefinition": ""
                         }
                     },
                     "radiobutton": {
@@ -796,8 +793,6 @@
                         "OpenMethod": "ClickIcon",
                         "UseComboBoxes": true,
                         "DateFormat": "<DefaultTimeFormat>",
-                        "showPreDefinedDates": false,
-                        "preDefinedDatesJSON": "",
                         "LowYear": 1950,
                         "HighYear": 2050,
                         "SwitchYear": 20,
@@ -805,7 +800,9 @@
                         "showDaysOfWeek": true,
                         "showTodayButton": true,
                         "OKButtonLabel": "OK",
-                        "CancelButtonLabel": "Cancel"
+                        "CancelButtonLabel": "Cancel",
+                        "showPreDefinedDates": false,
+                        "preDefinedDatesJSON": ""
                     },
                     "column": {
                         "heading": "City",
@@ -878,7 +875,7 @@
                     "displayODFlat": "{F=Tahoma,8}{I:'a5_blue_text'}{T=.2}{C=}{DATA=City}City",
                     "scope": "Local",
                     "tmplTxtComputed": true,
-                    "tmplTxt": "with tmpl.field_info[_fieldNumber_]\n\t.Fieldname = \"City\"\n\t.Scope = \"Local\"\n\t.DisplayFormat = \"\"\n\t.DisplayUnFormat = \"\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .f.\n\t.portableType = \"VaryingCharacter\"\n\t.nativeType = \"varchar\"\n\t.Type = \"C\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Varname = \"CITY\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"Label\"\n\t.Label.InLineStyle = \"\"\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"City\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"City\"\n\t.Column.Sort = \"City\"\n\t.Column.FirstClickDirection = \"A\"\nend with\n\n"
+                    "tmplTxt": "with tmpl.field_info[_fieldNumber_]\n\t.Fieldname = \"City\"\n\t.Scope = \"Local\"\n\t.DisplayFormat = \"\"\n\t.DisplayUnFormat = \"\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .f.\n\t.portableType = \"VaryingCharacter\"\n\t.nativeType = \"varchar\"\n\t.Type = \"C\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Varname = \"CITY\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"Label\"\n\t.Label.InLineStyle = \"\"\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"City\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"City\"\n\t.Column.Sort = \"City\"\n\t.Column.FirstClickDirection = \"A\"\nend with\n\n\n"
                 },
                 {
                     "fieldname": "Phone",
@@ -961,9 +958,9 @@
                                 "width": "2in"
                             },
                             "style": "font: 9pt Arial;",
+                            "editButtonText": "Edit...",
                             "toolbaricons": "",
-                            "toolbardefinition": "",
-                            "editButtonText": "Edit..."
+                            "toolbardefinition": ""
                         }
                     },
                     "radiobutton": {
@@ -1002,8 +999,6 @@
                         "OpenMethod": "ClickIcon",
                         "UseComboBoxes": true,
                         "DateFormat": "<DefaultTimeFormat>",
-                        "showPreDefinedDates": false,
-                        "preDefinedDatesJSON": "",
                         "LowYear": 1950,
                         "HighYear": 2050,
                         "SwitchYear": 20,
@@ -1011,7 +1006,9 @@
                         "showDaysOfWeek": true,
                         "showTodayButton": true,
                         "OKButtonLabel": "OK",
-                        "CancelButtonLabel": "Cancel"
+                        "CancelButtonLabel": "Cancel",
+                        "showPreDefinedDates": false,
+                        "preDefinedDatesJSON": ""
                     },
                     "column": {
                         "heading": "Phone",
@@ -1084,7 +1081,7 @@
                     "displayODFlat": "{F=Tahoma,8}{I:'a5_blue_text'}{T=.2}{C=}{DATA=Phone}Phone",
                     "scope": "Local",
                     "tmplTxtComputed": true,
-                    "tmplTxt": "with tmpl.field_info[_fieldNumber_]\n\t.Fieldname = \"Phone\"\n\t.Scope = \"Local\"\n\t.DisplayFormat = \"\"\n\t.DisplayUnFormat = \"\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .f.\n\t.portableType = \"VaryingCharacter\"\n\t.nativeType = \"varchar\"\n\t.Type = \"C\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Varname = \"PHONE\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"Label\"\n\t.Label.InLineStyle = \"\"\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"Phone\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"Phone\"\n\t.Column.Sort = \"Phone\"\n\t.Column.FirstClickDirection = \"A\"\nend with\n\n"
+                    "tmplTxt": "with tmpl.field_info[_fieldNumber_]\n\t.Fieldname = \"Phone\"\n\t.Scope = \"Local\"\n\t.DisplayFormat = \"\"\n\t.DisplayUnFormat = \"\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .f.\n\t.portableType = \"VaryingCharacter\"\n\t.nativeType = \"varchar\"\n\t.Type = \"C\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Varname = \"PHONE\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"Label\"\n\t.Label.InLineStyle = \"\"\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"Phone\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"Phone\"\n\t.Column.Sort = \"Phone\"\n\t.Column.FirstClickDirection = \"A\"\nend with\n\n\n"
                 }
             ]
         },
@@ -1165,9 +1162,6 @@
             "a_fields": [
                 {
                     "fieldname": "SupplierID",
-                    "showHelpIcon": "None",
-                    "helpIconBehavior": "ShowHelpOnClick",
-                    "onChange_ValidationOption": "None",
                     "Layout": {
                         "Title": "Tab label",
                         "TabPane": {
@@ -1251,20 +1245,20 @@
                                 "width": "2in"
                             },
                             "style": "font: 9pt Arial;",
+                            "editButtonText": "Edit...",
                             "toolbaricons": "",
-                            "toolbardefinition": "",
-                            "editButtonText": "Edit..."
+                            "toolbardefinition": ""
                         }
                     },
                     "radiobutton": {
                         "datasource": "DBF-Table",
                         "NotInListRule": "Add to List",
                         "orientation": "Horizontal",
+                        "stylefieldiferror": true,
+                        "type": "Static",
                         "columnFlow": "LRTB",
                         "columnCount": 3,
-                        "rowCount": 3,
-                        "stylefieldiferror": true,
-                        "type": "Static"
+                        "rowCount": 3
                     },
                     "CheckBox": {
                         "type": "Static",
@@ -1272,10 +1266,10 @@
                         "stylefieldiferror": true,
                         "NotInListRule": "Add to List",
                         "orientation": "Horizontal",
+                        "initial_value": "False",
                         "columnFlow": "LRTB",
                         "columnCount": 3,
-                        "rowCount": 3,
-                        "initial_value": "False"
+                        "rowCount": 3
                     },
                     "connection_type": "Access Database",
                     "dropdownbox": {
@@ -1290,19 +1284,19 @@
                         "flagIsDefined": true
                     },
                     "DatePicker": {
-                        "OpenMethod": "ClickIcon",
                         "UseComboBoxes": true,
                         "DateFormat": "<DefaultTimeFormat>",
-                        "showPreDefinedDates": false,
-                        "preDefinedDatesJSON": "",
                         "LowYear": 1950,
                         "HighYear": 2050,
                         "SwitchYear": 20,
                         "IconNumber": 2,
+                        "OpenMethod": "ClickIcon",
                         "showDaysOfWeek": true,
-                        "showTodayButton": true,
                         "OKButtonLabel": "OK",
-                        "CancelButtonLabel": "Cancel"
+                        "CancelButtonLabel": "Cancel",
+                        "showTodayButton": true,
+                        "showPreDefinedDates": false,
+                        "preDefinedDatesJSON": ""
                     },
                     "column": {
                         "heading": "Supplier ID",
@@ -1368,24 +1362,24 @@
                             "inlinestyle": "text-align: right;"
                         }
                     },
-                    "PortableType": "Integer32",
+                    "display": "SupplierID",
                     "varname": "SupplierID",
-                    "Display": "SupplierID",
-                    "displayOD": "{F=Tahoma,8}{I:'$a5_control_field'} {C=}{DATA=SupplierID}SupplierID",
-                    "displayODFlat": "{F=Tahoma,8}{I:'$a5_control_field'}{T=.2}{C=}{DATA=SupplierID}SupplierID",
                     "scope": "Local",
                     "tmplTxtComputed": true,
-                    "tmplTxt": "with tmpl.detailfield_info[_fieldNumber_]\n\t.Fieldname = \"SupplierID\"\n\t.Scope = \"Local\"\n\t.DisplayFormat = \"\"\n\t.DisplayUnFormat = \"\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .t.\n\t.portableType = \"Integer32\"\n\t.nativeType = \"int\"\n\t.Type = \"N\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Updateable = .t.\n\t.TreatBlankAsNull = .f.\n\t.Table_Alias = \"suppliers\"\n\t.FieldToUpdate = \"SupplierID\"\n\t.Varname = \"SUPPLIERID\"\n\t.Initial_Value = \"NULL\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"TextBox\"\n\t.Textbox.Size = 11\n\t.Textbox.HTML5Type = \"\"\n\t.Textbox.customAttributes = \"\"\n\t.Textbox.MaxLength = 11\n\t.Textbox.InLineStyle = \"text-align: right;\"\n\t.Textbox.ContainerInlineStyle = \"\"\n\t.Textbox.IsPassword = .f.\n\t.hasWatermark= .f.\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"SupplierID\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"Supplier ID\"\n\t.Column.Sort = \"Supplierid\"\n\t.Column.FirstClickDirection = \"A\"\nend with\n\n",
+                    "tmplTxt": "with tmpl.detailfield_info[_fieldNumber_]\n\t.Fieldname = \"SupplierID\"\n\t.Scope = \"Local\"\n\t.DisplayFormat = \"\"\n\t.DisplayUnFormat = \"\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .t.\n\t.portableType = \"Integer32\"\n\t.nativeType = \"int\"\n\t.Type = \"N\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Updateable = .t.\n\t.TreatBlankAsNull = .f.\n\t.Table_Alias = \"suppliers\"\n\t.FieldToUpdate = \"SupplierID\"\n\t.Varname = \"SUPPLIERID\"\n\t.Initial_Value = \"NULL\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"TextBox\"\n\t.Textbox.Size = 11\n\t.Textbox.HTML5Type = \"\"\n\t.Textbox.customAttributes = \"\"\n\t.Textbox.MaxLength = 11\n\t.Textbox.InLineStyle = \"text-align: right;\"\n\t.Textbox.ContainerInlineStyle = \"\"\n\t.Textbox.IsPassword = .f.\n\t.hasWatermark= .f.\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"SupplierID\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"Supplier ID\"\n\t.Column.Sort = \"Supplierid\"\n\t.Column.FirstClickDirection = \"A\"\nend with\n\n\n",
+                    "DisplayOD": "{F=Tahoma,8}{I:'$a5_control_field'} {C=}{DATA=SupplierID}SupplierID",
+                    "DisplayODFlat": "{F=Tahoma,8}{I:'$a5_control_field'}{T=.2}{C=}{DATA=SupplierID}SupplierID",
                     "SearchExpression": "City",
-                    "repeatingSectionParentId": -1,
                     "displayODtree": "{F=Tahoma,8}{I:'$a5_control_field'} {C=}{DATA=SupplierID}SupplierID",
-                    "parentContainer": -1
+                    "PortableType": "Integer32",
+                    "onChange_ValidationOption": "None",
+                    "parentContainer": -1,
+                    "repeatingSectionParentId": -1,
+                    "showHelpIcon": "None",
+                    "helpIconBehavior": "ShowHelpOnClick"
                 },
                 {
                     "fieldname": "CompanyName",
-                    "showHelpIcon": "None",
-                    "helpIconBehavior": "ShowHelpOnClick",
-                    "onChange_ValidationOption": "None",
                     "Layout": {
                         "Title": "Tab label",
                         "TabPane": {
@@ -1465,20 +1459,20 @@
                                 "width": "2in"
                             },
                             "style": "font: 9pt Arial;",
+                            "editButtonText": "Edit...",
                             "toolbaricons": "",
-                            "toolbardefinition": "",
-                            "editButtonText": "Edit..."
+                            "toolbardefinition": ""
                         }
                     },
                     "radiobutton": {
                         "datasource": "DBF-Table",
                         "NotInListRule": "Add to List",
                         "orientation": "Horizontal",
+                        "stylefieldiferror": true,
+                        "type": "Static",
                         "columnFlow": "LRTB",
                         "columnCount": 3,
-                        "rowCount": 3,
-                        "stylefieldiferror": true,
-                        "type": "Static"
+                        "rowCount": 3
                     },
                     "CheckBox": {
                         "type": "Static",
@@ -1486,10 +1480,10 @@
                         "stylefieldiferror": true,
                         "NotInListRule": "Add to List",
                         "orientation": "Horizontal",
+                        "initial_value": "False",
                         "columnFlow": "LRTB",
                         "columnCount": 3,
-                        "rowCount": 3,
-                        "initial_value": "False"
+                        "rowCount": 3
                     },
                     "connection_type": "Access Database",
                     "dropdownbox": {
@@ -1504,19 +1498,19 @@
                         "flagIsDefined": true
                     },
                     "DatePicker": {
-                        "OpenMethod": "ClickIcon",
                         "UseComboBoxes": true,
                         "DateFormat": "<DefaultTimeFormat>",
-                        "showPreDefinedDates": false,
-                        "preDefinedDatesJSON": "",
                         "LowYear": 1950,
                         "HighYear": 2050,
                         "SwitchYear": 20,
                         "IconNumber": 2,
+                        "OpenMethod": "ClickIcon",
                         "showDaysOfWeek": true,
-                        "showTodayButton": true,
                         "OKButtonLabel": "OK",
-                        "CancelButtonLabel": "Cancel"
+                        "CancelButtonLabel": "Cancel",
+                        "showTodayButton": true,
+                        "showPreDefinedDates": false,
+                        "preDefinedDatesJSON": ""
                     },
                     "column": {
                         "heading": "Company Name",
@@ -1581,24 +1575,24 @@
                             "inlinestyle": "text-align: right;"
                         }
                     },
-                    "PortableType": "VaryingCharacter",
+                    "display": "CompanyName",
                     "varname": "CompanyName",
-                    "Display": "CompanyName",
-                    "displayOD": "{F=Tahoma,8}{I:'$a5_control_field'} {C=}{DATA=CompanyName}CompanyName",
-                    "displayODFlat": "{F=Tahoma,8}{I:'$a5_control_field'}{T=.2}{C=}{DATA=CompanyName}CompanyName",
                     "scope": "Local",
                     "tmplTxtComputed": true,
-                    "tmplTxt": "with tmpl.detailfield_info[_fieldNumber_]\n\t.Fieldname = \"CompanyName\"\n\t.Scope = \"Local\"\n\t.DisplayFormat = \"\"\n\t.DisplayUnFormat = \"\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .f.\n\t.portableType = \"VaryingCharacter\"\n\t.nativeType = \"varchar\"\n\t.Type = \"C\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Updateable = .t.\n\t.TreatBlankAsNull = .f.\n\t.Table_Alias = \"suppliers\"\n\t.FieldToUpdate = \"CompanyName\"\n\t.Varname = \"COMPANYNAME\"\n\t.Initial_Value = \"NULL\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"TextBox\"\n\t.Textbox.Size = 30\n\t.Textbox.HTML5Type = \"\"\n\t.Textbox.customAttributes = \"\"\n\t.Textbox.MaxLength = 40\n\t.Textbox.InLineStyle = \"\"\n\t.Textbox.ContainerInlineStyle = \"\"\n\t.Textbox.IsPassword = .f.\n\t.hasWatermark= .f.\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"CompanyName\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"Company Name\"\n\t.Column.Sort = \"Companyname\"\n\t.Column.FirstClickDirection = \"A\"\nend with\n\n",
+                    "tmplTxt": "with tmpl.detailfield_info[_fieldNumber_]\n\t.Fieldname = \"CompanyName\"\n\t.Scope = \"Local\"\n\t.DisplayFormat = \"\"\n\t.DisplayUnFormat = \"\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .f.\n\t.portableType = \"VaryingCharacter\"\n\t.nativeType = \"varchar\"\n\t.Type = \"C\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Updateable = .t.\n\t.TreatBlankAsNull = .f.\n\t.Table_Alias = \"suppliers\"\n\t.FieldToUpdate = \"CompanyName\"\n\t.Varname = \"COMPANYNAME\"\n\t.Initial_Value = \"NULL\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"TextBox\"\n\t.Textbox.Size = 30\n\t.Textbox.HTML5Type = \"\"\n\t.Textbox.customAttributes = \"\"\n\t.Textbox.MaxLength = 40\n\t.Textbox.InLineStyle = \"\"\n\t.Textbox.ContainerInlineStyle = \"\"\n\t.Textbox.IsPassword = .f.\n\t.hasWatermark= .f.\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"CompanyName\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"Company Name\"\n\t.Column.Sort = \"Companyname\"\n\t.Column.FirstClickDirection = \"A\"\nend with\n\n\n",
+                    "DisplayOD": "{F=Tahoma,8}{I:'$a5_control_field'} {C=}{DATA=CompanyName}CompanyName",
+                    "DisplayODFlat": "{F=Tahoma,8}{I:'$a5_control_field'}{T=.2}{C=}{DATA=CompanyName}CompanyName",
                     "SearchExpression": "City",
-                    "repeatingSectionParentId": -1,
                     "displayODtree": "{F=Tahoma,8}{I:'$a5_control_field'} {C=}{DATA=CompanyName}CompanyName",
-                    "parentContainer": -1
+                    "PortableType": "VaryingCharacter",
+                    "onChange_ValidationOption": "None",
+                    "parentContainer": -1,
+                    "repeatingSectionParentId": -1,
+                    "showHelpIcon": "None",
+                    "helpIconBehavior": "ShowHelpOnClick"
                 },
                 {
                     "fieldname": "ContactName",
-                    "showHelpIcon": "None",
-                    "helpIconBehavior": "ShowHelpOnClick",
-                    "onChange_ValidationOption": "None",
                     "Layout": {
                         "Title": "Tab label",
                         "TabPane": {
@@ -1678,20 +1672,20 @@
                                 "width": "2in"
                             },
                             "style": "font: 9pt Arial;",
+                            "editButtonText": "Edit...",
                             "toolbaricons": "",
-                            "toolbardefinition": "",
-                            "editButtonText": "Edit..."
+                            "toolbardefinition": ""
                         }
                     },
                     "radiobutton": {
                         "datasource": "DBF-Table",
                         "NotInListRule": "Add to List",
                         "orientation": "Horizontal",
+                        "stylefieldiferror": true,
+                        "type": "Static",
                         "columnFlow": "LRTB",
                         "columnCount": 3,
-                        "rowCount": 3,
-                        "stylefieldiferror": true,
-                        "type": "Static"
+                        "rowCount": 3
                     },
                     "CheckBox": {
                         "type": "Static",
@@ -1699,10 +1693,10 @@
                         "stylefieldiferror": true,
                         "NotInListRule": "Add to List",
                         "orientation": "Horizontal",
+                        "initial_value": "False",
                         "columnFlow": "LRTB",
                         "columnCount": 3,
-                        "rowCount": 3,
-                        "initial_value": "False"
+                        "rowCount": 3
                     },
                     "connection_type": "Access Database",
                     "dropdownbox": {
@@ -1717,19 +1711,19 @@
                         "flagIsDefined": true
                     },
                     "DatePicker": {
-                        "OpenMethod": "ClickIcon",
                         "UseComboBoxes": true,
                         "DateFormat": "<DefaultTimeFormat>",
-                        "showPreDefinedDates": false,
-                        "preDefinedDatesJSON": "",
                         "LowYear": 1950,
                         "HighYear": 2050,
                         "SwitchYear": 20,
                         "IconNumber": 2,
+                        "OpenMethod": "ClickIcon",
                         "showDaysOfWeek": true,
-                        "showTodayButton": true,
                         "OKButtonLabel": "OK",
-                        "CancelButtonLabel": "Cancel"
+                        "CancelButtonLabel": "Cancel",
+                        "showTodayButton": true,
+                        "showPreDefinedDates": false,
+                        "preDefinedDatesJSON": ""
                     },
                     "column": {
                         "heading": "Contact Name",
@@ -1794,24 +1788,24 @@
                             "inlinestyle": "text-align: right;"
                         }
                     },
-                    "PortableType": "VaryingCharacter",
+                    "display": "ContactName",
                     "varname": "ContactName",
-                    "Display": "ContactName",
-                    "displayOD": "{F=Tahoma,8}{I:'$a5_control_field'} {C=}{DATA=ContactName}ContactName",
-                    "displayODFlat": "{F=Tahoma,8}{I:'$a5_control_field'}{T=.2}{C=}{DATA=ContactName}ContactName",
                     "scope": "Local",
                     "tmplTxtComputed": true,
-                    "tmplTxt": "with tmpl.detailfield_info[_fieldNumber_]\n\t.Fieldname = \"ContactName\"\n\t.Scope = \"Local\"\n\t.DisplayFormat = \"\"\n\t.DisplayUnFormat = \"\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .f.\n\t.portableType = \"VaryingCharacter\"\n\t.nativeType = \"varchar\"\n\t.Type = \"C\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Updateable = .t.\n\t.TreatBlankAsNull = .f.\n\t.Table_Alias = \"suppliers\"\n\t.FieldToUpdate = \"ContactName\"\n\t.Varname = \"CONTACTNAME\"\n\t.Initial_Value = \"NULL\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"TextBox\"\n\t.Textbox.Size = 30\n\t.Textbox.HTML5Type = \"\"\n\t.Textbox.customAttributes = \"\"\n\t.Textbox.MaxLength = 30\n\t.Textbox.InLineStyle = \"\"\n\t.Textbox.ContainerInlineStyle = \"\"\n\t.Textbox.IsPassword = .f.\n\t.hasWatermark= .f.\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"ContactName\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"Contact Name\"\n\t.Column.Sort = \"Contactname\"\n\t.Column.FirstClickDirection = \"A\"\nend with\n\n",
+                    "tmplTxt": "with tmpl.detailfield_info[_fieldNumber_]\n\t.Fieldname = \"ContactName\"\n\t.Scope = \"Local\"\n\t.DisplayFormat = \"\"\n\t.DisplayUnFormat = \"\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .f.\n\t.portableType = \"VaryingCharacter\"\n\t.nativeType = \"varchar\"\n\t.Type = \"C\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Updateable = .t.\n\t.TreatBlankAsNull = .f.\n\t.Table_Alias = \"suppliers\"\n\t.FieldToUpdate = \"ContactName\"\n\t.Varname = \"CONTACTNAME\"\n\t.Initial_Value = \"NULL\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"TextBox\"\n\t.Textbox.Size = 30\n\t.Textbox.HTML5Type = \"\"\n\t.Textbox.customAttributes = \"\"\n\t.Textbox.MaxLength = 30\n\t.Textbox.InLineStyle = \"\"\n\t.Textbox.ContainerInlineStyle = \"\"\n\t.Textbox.IsPassword = .f.\n\t.hasWatermark= .f.\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"ContactName\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"Contact Name\"\n\t.Column.Sort = \"Contactname\"\n\t.Column.FirstClickDirection = \"A\"\nend with\n\n\n",
+                    "DisplayOD": "{F=Tahoma,8}{I:'$a5_control_field'} {C=}{DATA=ContactName}ContactName",
+                    "DisplayODFlat": "{F=Tahoma,8}{I:'$a5_control_field'}{T=.2}{C=}{DATA=ContactName}ContactName",
                     "SearchExpression": "City",
-                    "repeatingSectionParentId": -1,
                     "displayODtree": "{F=Tahoma,8}{I:'$a5_control_field'} {C=}{DATA=ContactName}ContactName",
-                    "parentContainer": -1
+                    "PortableType": "VaryingCharacter",
+                    "onChange_ValidationOption": "None",
+                    "parentContainer": -1,
+                    "repeatingSectionParentId": -1,
+                    "showHelpIcon": "None",
+                    "helpIconBehavior": "ShowHelpOnClick"
                 },
                 {
                     "fieldname": "ContactTitle",
-                    "showHelpIcon": "None",
-                    "helpIconBehavior": "ShowHelpOnClick",
-                    "onChange_ValidationOption": "None",
                     "Layout": {
                         "Title": "Tab label",
                         "TabPane": {
@@ -1891,20 +1885,20 @@
                                 "width": "2in"
                             },
                             "style": "font: 9pt Arial;",
+                            "editButtonText": "Edit...",
                             "toolbaricons": "",
-                            "toolbardefinition": "",
-                            "editButtonText": "Edit..."
+                            "toolbardefinition": ""
                         }
                     },
                     "radiobutton": {
                         "datasource": "DBF-Table",
                         "NotInListRule": "Add to List",
                         "orientation": "Horizontal",
+                        "stylefieldiferror": true,
+                        "type": "Static",
                         "columnFlow": "LRTB",
                         "columnCount": 3,
-                        "rowCount": 3,
-                        "stylefieldiferror": true,
-                        "type": "Static"
+                        "rowCount": 3
                     },
                     "CheckBox": {
                         "type": "Static",
@@ -1912,10 +1906,10 @@
                         "stylefieldiferror": true,
                         "NotInListRule": "Add to List",
                         "orientation": "Horizontal",
+                        "initial_value": "False",
                         "columnFlow": "LRTB",
                         "columnCount": 3,
-                        "rowCount": 3,
-                        "initial_value": "False"
+                        "rowCount": 3
                     },
                     "connection_type": "Access Database",
                     "dropdownbox": {
@@ -1930,19 +1924,19 @@
                         "flagIsDefined": true
                     },
                     "DatePicker": {
-                        "OpenMethod": "ClickIcon",
                         "UseComboBoxes": true,
                         "DateFormat": "<DefaultTimeFormat>",
-                        "showPreDefinedDates": false,
-                        "preDefinedDatesJSON": "",
                         "LowYear": 1950,
                         "HighYear": 2050,
                         "SwitchYear": 20,
                         "IconNumber": 2,
+                        "OpenMethod": "ClickIcon",
                         "showDaysOfWeek": true,
-                        "showTodayButton": true,
                         "OKButtonLabel": "OK",
-                        "CancelButtonLabel": "Cancel"
+                        "CancelButtonLabel": "Cancel",
+                        "showTodayButton": true,
+                        "showPreDefinedDates": false,
+                        "preDefinedDatesJSON": ""
                     },
                     "column": {
                         "heading": "Contact Title",
@@ -2007,24 +2001,24 @@
                             "inlinestyle": "text-align: right;"
                         }
                     },
-                    "PortableType": "VaryingCharacter",
+                    "display": "ContactTitle",
                     "varname": "ContactTitle",
-                    "Display": "ContactTitle",
-                    "displayOD": "{F=Tahoma,8}{I:'$a5_control_field'} {C=}{DATA=ContactTitle}ContactTitle",
-                    "displayODFlat": "{F=Tahoma,8}{I:'$a5_control_field'}{T=.2}{C=}{DATA=ContactTitle}ContactTitle",
                     "scope": "Local",
                     "tmplTxtComputed": true,
-                    "tmplTxt": "with tmpl.detailfield_info[_fieldNumber_]\n\t.Fieldname = \"ContactTitle\"\n\t.Scope = \"Local\"\n\t.DisplayFormat = \"\"\n\t.DisplayUnFormat = \"\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .f.\n\t.portableType = \"VaryingCharacter\"\n\t.nativeType = \"varchar\"\n\t.Type = \"C\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Updateable = .t.\n\t.TreatBlankAsNull = .f.\n\t.Table_Alias = \"suppliers\"\n\t.FieldToUpdate = \"ContactTitle\"\n\t.Varname = \"CONTACTTITLE\"\n\t.Initial_Value = \"NULL\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"TextBox\"\n\t.Textbox.Size = 30\n\t.Textbox.HTML5Type = \"\"\n\t.Textbox.customAttributes = \"\"\n\t.Textbox.MaxLength = 30\n\t.Textbox.InLineStyle = \"\"\n\t.Textbox.ContainerInlineStyle = \"\"\n\t.Textbox.IsPassword = .f.\n\t.hasWatermark= .f.\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"ContactTitle\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"Contact Title\"\n\t.Column.Sort = \"Contacttitle\"\n\t.Column.FirstClickDirection = \"A\"\nend with\n\n",
+                    "tmplTxt": "with tmpl.detailfield_info[_fieldNumber_]\n\t.Fieldname = \"ContactTitle\"\n\t.Scope = \"Local\"\n\t.DisplayFormat = \"\"\n\t.DisplayUnFormat = \"\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .f.\n\t.portableType = \"VaryingCharacter\"\n\t.nativeType = \"varchar\"\n\t.Type = \"C\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Updateable = .t.\n\t.TreatBlankAsNull = .f.\n\t.Table_Alias = \"suppliers\"\n\t.FieldToUpdate = \"ContactTitle\"\n\t.Varname = \"CONTACTTITLE\"\n\t.Initial_Value = \"NULL\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"TextBox\"\n\t.Textbox.Size = 30\n\t.Textbox.HTML5Type = \"\"\n\t.Textbox.customAttributes = \"\"\n\t.Textbox.MaxLength = 30\n\t.Textbox.InLineStyle = \"\"\n\t.Textbox.ContainerInlineStyle = \"\"\n\t.Textbox.IsPassword = .f.\n\t.hasWatermark= .f.\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"ContactTitle\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"Contact Title\"\n\t.Column.Sort = \"Contacttitle\"\n\t.Column.FirstClickDirection = \"A\"\nend with\n\n\n",
+                    "DisplayOD": "{F=Tahoma,8}{I:'$a5_control_field'} {C=}{DATA=ContactTitle}ContactTitle",
+                    "DisplayODFlat": "{F=Tahoma,8}{I:'$a5_control_field'}{T=.2}{C=}{DATA=ContactTitle}ContactTitle",
                     "SearchExpression": "City",
-                    "repeatingSectionParentId": -1,
                     "displayODtree": "{F=Tahoma,8}{I:'$a5_control_field'} {C=}{DATA=ContactTitle}ContactTitle",
-                    "parentContainer": -1
+                    "PortableType": "VaryingCharacter",
+                    "onChange_ValidationOption": "None",
+                    "parentContainer": -1,
+                    "repeatingSectionParentId": -1,
+                    "showHelpIcon": "None",
+                    "helpIconBehavior": "ShowHelpOnClick"
                 },
                 {
                     "fieldname": "Address",
-                    "showHelpIcon": "None",
-                    "helpIconBehavior": "ShowHelpOnClick",
-                    "onChange_ValidationOption": "None",
                     "Layout": {
                         "Title": "Tab label",
                         "TabPane": {
@@ -2104,20 +2098,20 @@
                                 "width": "2in"
                             },
                             "style": "font: 9pt Arial;",
+                            "editButtonText": "Edit...",
                             "toolbaricons": "",
-                            "toolbardefinition": "",
-                            "editButtonText": "Edit..."
+                            "toolbardefinition": ""
                         }
                     },
                     "radiobutton": {
                         "datasource": "DBF-Table",
                         "NotInListRule": "Add to List",
                         "orientation": "Horizontal",
+                        "stylefieldiferror": true,
+                        "type": "Static",
                         "columnFlow": "LRTB",
                         "columnCount": 3,
-                        "rowCount": 3,
-                        "stylefieldiferror": true,
-                        "type": "Static"
+                        "rowCount": 3
                     },
                     "CheckBox": {
                         "type": "Static",
@@ -2125,10 +2119,10 @@
                         "stylefieldiferror": true,
                         "NotInListRule": "Add to List",
                         "orientation": "Horizontal",
+                        "initial_value": "False",
                         "columnFlow": "LRTB",
                         "columnCount": 3,
-                        "rowCount": 3,
-                        "initial_value": "False"
+                        "rowCount": 3
                     },
                     "connection_type": "Access Database",
                     "dropdownbox": {
@@ -2143,19 +2137,19 @@
                         "flagIsDefined": true
                     },
                     "DatePicker": {
-                        "OpenMethod": "ClickIcon",
                         "UseComboBoxes": true,
                         "DateFormat": "<DefaultTimeFormat>",
-                        "showPreDefinedDates": false,
-                        "preDefinedDatesJSON": "",
                         "LowYear": 1950,
                         "HighYear": 2050,
                         "SwitchYear": 20,
                         "IconNumber": 2,
+                        "OpenMethod": "ClickIcon",
                         "showDaysOfWeek": true,
-                        "showTodayButton": true,
                         "OKButtonLabel": "OK",
-                        "CancelButtonLabel": "Cancel"
+                        "CancelButtonLabel": "Cancel",
+                        "showTodayButton": true,
+                        "showPreDefinedDates": false,
+                        "preDefinedDatesJSON": ""
                     },
                     "column": {
                         "heading": "Address",
@@ -2220,24 +2214,24 @@
                             "inlinestyle": "text-align: right;"
                         }
                     },
-                    "PortableType": "VaryingCharacter",
+                    "display": "Address",
                     "varname": "Address",
-                    "Display": "Address",
-                    "displayOD": "{F=Tahoma,8}{I:'$a5_control_field'} {C=}{DATA=Address}Address",
-                    "displayODFlat": "{F=Tahoma,8}{I:'$a5_control_field'}{T=.2}{C=}{DATA=Address}Address",
                     "scope": "Local",
                     "tmplTxtComputed": true,
-                    "tmplTxt": "with tmpl.detailfield_info[_fieldNumber_]\n\t.Fieldname = \"Address\"\n\t.Scope = \"Local\"\n\t.DisplayFormat = \"\"\n\t.DisplayUnFormat = \"\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .f.\n\t.portableType = \"VaryingCharacter\"\n\t.nativeType = \"varchar\"\n\t.Type = \"C\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Updateable = .t.\n\t.TreatBlankAsNull = .f.\n\t.Table_Alias = \"suppliers\"\n\t.FieldToUpdate = \"Address\"\n\t.Varname = \"ADDRESS\"\n\t.Initial_Value = \"NULL\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"TextBox\"\n\t.Textbox.Size = 30\n\t.Textbox.HTML5Type = \"\"\n\t.Textbox.customAttributes = \"\"\n\t.Textbox.MaxLength = 60\n\t.Textbox.InLineStyle = \"\"\n\t.Textbox.ContainerInlineStyle = \"\"\n\t.Textbox.IsPassword = .f.\n\t.hasWatermark= .f.\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"Address\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"Address\"\n\t.Column.Sort = \"Address\"\n\t.Column.FirstClickDirection = \"A\"\nend with\n\n",
+                    "tmplTxt": "with tmpl.detailfield_info[_fieldNumber_]\n\t.Fieldname = \"Address\"\n\t.Scope = \"Local\"\n\t.DisplayFormat = \"\"\n\t.DisplayUnFormat = \"\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .f.\n\t.portableType = \"VaryingCharacter\"\n\t.nativeType = \"varchar\"\n\t.Type = \"C\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Updateable = .t.\n\t.TreatBlankAsNull = .f.\n\t.Table_Alias = \"suppliers\"\n\t.FieldToUpdate = \"Address\"\n\t.Varname = \"ADDRESS\"\n\t.Initial_Value = \"NULL\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"TextBox\"\n\t.Textbox.Size = 30\n\t.Textbox.HTML5Type = \"\"\n\t.Textbox.customAttributes = \"\"\n\t.Textbox.MaxLength = 60\n\t.Textbox.InLineStyle = \"\"\n\t.Textbox.ContainerInlineStyle = \"\"\n\t.Textbox.IsPassword = .f.\n\t.hasWatermark= .f.\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"Address\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"Address\"\n\t.Column.Sort = \"Address\"\n\t.Column.FirstClickDirection = \"A\"\nend with\n\n\n",
+                    "DisplayOD": "{F=Tahoma,8}{I:'$a5_control_field'} {C=}{DATA=Address}Address",
+                    "DisplayODFlat": "{F=Tahoma,8}{I:'$a5_control_field'}{T=.2}{C=}{DATA=Address}Address",
                     "SearchExpression": "City",
-                    "repeatingSectionParentId": -1,
                     "displayODtree": "{F=Tahoma,8}{I:'$a5_control_field'} {C=}{DATA=Address}Address",
-                    "parentContainer": -1
+                    "PortableType": "VaryingCharacter",
+                    "onChange_ValidationOption": "None",
+                    "parentContainer": -1,
+                    "repeatingSectionParentId": -1,
+                    "showHelpIcon": "None",
+                    "helpIconBehavior": "ShowHelpOnClick"
                 },
                 {
                     "fieldname": "City",
-                    "showHelpIcon": "None",
-                    "helpIconBehavior": "ShowHelpOnClick",
-                    "onChange_ValidationOption": "None",
                     "Layout": {
                         "Title": "Tab label",
                         "TabPane": {
@@ -2317,20 +2311,20 @@
                                 "width": "2in"
                             },
                             "style": "font: 9pt Arial;",
+                            "editButtonText": "Edit...",
                             "toolbaricons": "",
-                            "toolbardefinition": "",
-                            "editButtonText": "Edit..."
+                            "toolbardefinition": ""
                         }
                     },
                     "radiobutton": {
                         "datasource": "DBF-Table",
                         "NotInListRule": "Add to List",
                         "orientation": "Horizontal",
+                        "stylefieldiferror": true,
+                        "type": "Static",
                         "columnFlow": "LRTB",
                         "columnCount": 3,
-                        "rowCount": 3,
-                        "stylefieldiferror": true,
-                        "type": "Static"
+                        "rowCount": 3
                     },
                     "CheckBox": {
                         "type": "Static",
@@ -2338,10 +2332,10 @@
                         "stylefieldiferror": true,
                         "NotInListRule": "Add to List",
                         "orientation": "Horizontal",
+                        "initial_value": "False",
                         "columnFlow": "LRTB",
                         "columnCount": 3,
-                        "rowCount": 3,
-                        "initial_value": "False"
+                        "rowCount": 3
                     },
                     "connection_type": "Access Database",
                     "dropdownbox": {
@@ -2356,19 +2350,19 @@
                         "flagIsDefined": true
                     },
                     "DatePicker": {
-                        "OpenMethod": "ClickIcon",
                         "UseComboBoxes": true,
                         "DateFormat": "<DefaultTimeFormat>",
-                        "showPreDefinedDates": false,
-                        "preDefinedDatesJSON": "",
                         "LowYear": 1950,
                         "HighYear": 2050,
                         "SwitchYear": 20,
                         "IconNumber": 2,
+                        "OpenMethod": "ClickIcon",
                         "showDaysOfWeek": true,
-                        "showTodayButton": true,
                         "OKButtonLabel": "OK",
-                        "CancelButtonLabel": "Cancel"
+                        "CancelButtonLabel": "Cancel",
+                        "showTodayButton": true,
+                        "showPreDefinedDates": false,
+                        "preDefinedDatesJSON": ""
                     },
                     "column": {
                         "heading": "City",
@@ -2433,24 +2427,24 @@
                             "inlinestyle": "text-align: right;"
                         }
                     },
-                    "PortableType": "VaryingCharacter",
+                    "display": "City",
                     "varname": "City",
-                    "Display": "City",
-                    "displayOD": "{F=Tahoma,8}{I:'$a5_control_field'} {C=}{DATA=City}City",
-                    "displayODFlat": "{F=Tahoma,8}{I:'$a5_control_field'}{T=.2}{C=}{DATA=City}City",
                     "scope": "Local",
                     "tmplTxtComputed": true,
-                    "tmplTxt": "with tmpl.detailfield_info[_fieldNumber_]\n\t.Fieldname = \"City\"\n\t.Scope = \"Local\"\n\t.DisplayFormat = \"\"\n\t.DisplayUnFormat = \"\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .f.\n\t.portableType = \"VaryingCharacter\"\n\t.nativeType = \"varchar\"\n\t.Type = \"C\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Updateable = .t.\n\t.TreatBlankAsNull = .f.\n\t.Table_Alias = \"suppliers\"\n\t.FieldToUpdate = \"City\"\n\t.Varname = \"CITY\"\n\t.Initial_Value = \"NULL\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"TextBox\"\n\t.Textbox.Size = 15\n\t.Textbox.HTML5Type = \"\"\n\t.Textbox.customAttributes = \"\"\n\t.Textbox.MaxLength = 15\n\t.Textbox.InLineStyle = \"\"\n\t.Textbox.ContainerInlineStyle = \"\"\n\t.Textbox.IsPassword = .f.\n\t.hasWatermark= .f.\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"City\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"City\"\n\t.Column.Sort = \"City\"\n\t.Column.FirstClickDirection = \"A\"\nend with\n\n",
+                    "tmplTxt": "with tmpl.detailfield_info[_fieldNumber_]\n\t.Fieldname = \"City\"\n\t.Scope = \"Local\"\n\t.DisplayFormat = \"\"\n\t.DisplayUnFormat = \"\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .f.\n\t.portableType = \"VaryingCharacter\"\n\t.nativeType = \"varchar\"\n\t.Type = \"C\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Updateable = .t.\n\t.TreatBlankAsNull = .f.\n\t.Table_Alias = \"suppliers\"\n\t.FieldToUpdate = \"City\"\n\t.Varname = \"CITY\"\n\t.Initial_Value = \"NULL\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"TextBox\"\n\t.Textbox.Size = 15\n\t.Textbox.HTML5Type = \"\"\n\t.Textbox.customAttributes = \"\"\n\t.Textbox.MaxLength = 15\n\t.Textbox.InLineStyle = \"\"\n\t.Textbox.ContainerInlineStyle = \"\"\n\t.Textbox.IsPassword = .f.\n\t.hasWatermark= .f.\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"City\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"City\"\n\t.Column.Sort = \"City\"\n\t.Column.FirstClickDirection = \"A\"\nend with\n\n\n",
+                    "DisplayOD": "{F=Tahoma,8}{I:'$a5_control_field'} {C=}{DATA=City}City",
+                    "DisplayODFlat": "{F=Tahoma,8}{I:'$a5_control_field'}{T=.2}{C=}{DATA=City}City",
                     "SearchExpression": "City",
-                    "repeatingSectionParentId": -1,
                     "displayODtree": "{F=Tahoma,8}{I:'$a5_control_field'} {C=}{DATA=City}City",
-                    "parentContainer": -1
+                    "PortableType": "VaryingCharacter",
+                    "onChange_ValidationOption": "None",
+                    "parentContainer": -1,
+                    "repeatingSectionParentId": -1,
+                    "showHelpIcon": "None",
+                    "helpIconBehavior": "ShowHelpOnClick"
                 },
                 {
                     "fieldname": "Region",
-                    "showHelpIcon": "None",
-                    "helpIconBehavior": "ShowHelpOnClick",
-                    "onChange_ValidationOption": "None",
                     "Layout": {
                         "Title": "Tab label",
                         "TabPane": {
@@ -2530,20 +2524,20 @@
                                 "width": "2in"
                             },
                             "style": "font: 9pt Arial;",
+                            "editButtonText": "Edit...",
                             "toolbaricons": "",
-                            "toolbardefinition": "",
-                            "editButtonText": "Edit..."
+                            "toolbardefinition": ""
                         }
                     },
                     "radiobutton": {
                         "datasource": "DBF-Table",
                         "NotInListRule": "Add to List",
                         "orientation": "Horizontal",
+                        "stylefieldiferror": true,
+                        "type": "Static",
                         "columnFlow": "LRTB",
                         "columnCount": 3,
-                        "rowCount": 3,
-                        "stylefieldiferror": true,
-                        "type": "Static"
+                        "rowCount": 3
                     },
                     "CheckBox": {
                         "type": "Static",
@@ -2551,10 +2545,10 @@
                         "stylefieldiferror": true,
                         "NotInListRule": "Add to List",
                         "orientation": "Horizontal",
+                        "initial_value": "False",
                         "columnFlow": "LRTB",
                         "columnCount": 3,
-                        "rowCount": 3,
-                        "initial_value": "False"
+                        "rowCount": 3
                     },
                     "connection_type": "Access Database",
                     "dropdownbox": {
@@ -2569,19 +2563,19 @@
                         "flagIsDefined": true
                     },
                     "DatePicker": {
-                        "OpenMethod": "ClickIcon",
                         "UseComboBoxes": true,
                         "DateFormat": "<DefaultTimeFormat>",
-                        "showPreDefinedDates": false,
-                        "preDefinedDatesJSON": "",
                         "LowYear": 1950,
                         "HighYear": 2050,
                         "SwitchYear": 20,
                         "IconNumber": 2,
+                        "OpenMethod": "ClickIcon",
                         "showDaysOfWeek": true,
-                        "showTodayButton": true,
                         "OKButtonLabel": "OK",
-                        "CancelButtonLabel": "Cancel"
+                        "CancelButtonLabel": "Cancel",
+                        "showTodayButton": true,
+                        "showPreDefinedDates": false,
+                        "preDefinedDatesJSON": ""
                     },
                     "column": {
                         "heading": "Region",
@@ -2646,24 +2640,24 @@
                             "inlinestyle": "text-align: right;"
                         }
                     },
-                    "PortableType": "VaryingCharacter",
+                    "display": "Region",
                     "varname": "Region",
-                    "Display": "Region",
-                    "displayOD": "{F=Tahoma,8}{I:'$a5_control_field'} {C=}{DATA=Region}Region",
-                    "displayODFlat": "{F=Tahoma,8}{I:'$a5_control_field'}{T=.2}{C=}{DATA=Region}Region",
                     "scope": "Local",
                     "tmplTxtComputed": true,
-                    "tmplTxt": "with tmpl.detailfield_info[_fieldNumber_]\n\t.Fieldname = \"Region\"\n\t.Scope = \"Local\"\n\t.DisplayFormat = \"\"\n\t.DisplayUnFormat = \"\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .f.\n\t.portableType = \"VaryingCharacter\"\n\t.nativeType = \"varchar\"\n\t.Type = \"C\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Updateable = .t.\n\t.TreatBlankAsNull = .f.\n\t.Table_Alias = \"suppliers\"\n\t.FieldToUpdate = \"Region\"\n\t.Varname = \"REGION\"\n\t.Initial_Value = \"NULL\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"TextBox\"\n\t.Textbox.Size = 15\n\t.Textbox.HTML5Type = \"\"\n\t.Textbox.customAttributes = \"\"\n\t.Textbox.MaxLength = 15\n\t.Textbox.InLineStyle = \"\"\n\t.Textbox.ContainerInlineStyle = \"\"\n\t.Textbox.IsPassword = .f.\n\t.hasWatermark= .f.\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"Region\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"Region\"\n\t.Column.Sort = \"Region\"\n\t.Column.FirstClickDirection = \"A\"\nend with\n\n",
+                    "tmplTxt": "with tmpl.detailfield_info[_fieldNumber_]\n\t.Fieldname = \"Region\"\n\t.Scope = \"Local\"\n\t.DisplayFormat = \"\"\n\t.DisplayUnFormat = \"\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .f.\n\t.portableType = \"VaryingCharacter\"\n\t.nativeType = \"varchar\"\n\t.Type = \"C\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Updateable = .t.\n\t.TreatBlankAsNull = .f.\n\t.Table_Alias = \"suppliers\"\n\t.FieldToUpdate = \"Region\"\n\t.Varname = \"REGION\"\n\t.Initial_Value = \"NULL\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"TextBox\"\n\t.Textbox.Size = 15\n\t.Textbox.HTML5Type = \"\"\n\t.Textbox.customAttributes = \"\"\n\t.Textbox.MaxLength = 15\n\t.Textbox.InLineStyle = \"\"\n\t.Textbox.ContainerInlineStyle = \"\"\n\t.Textbox.IsPassword = .f.\n\t.hasWatermark= .f.\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"Region\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"Region\"\n\t.Column.Sort = \"Region\"\n\t.Column.FirstClickDirection = \"A\"\nend with\n\n\n",
+                    "DisplayOD": "{F=Tahoma,8}{I:'$a5_control_field'} {C=}{DATA=Region}Region",
+                    "DisplayODFlat": "{F=Tahoma,8}{I:'$a5_control_field'}{T=.2}{C=}{DATA=Region}Region",
                     "SearchExpression": "City",
-                    "repeatingSectionParentId": -1,
                     "displayODtree": "{F=Tahoma,8}{I:'$a5_control_field'} {C=}{DATA=Region}Region",
-                    "parentContainer": -1
+                    "PortableType": "VaryingCharacter",
+                    "onChange_ValidationOption": "None",
+                    "parentContainer": -1,
+                    "repeatingSectionParentId": -1,
+                    "showHelpIcon": "None",
+                    "helpIconBehavior": "ShowHelpOnClick"
                 },
                 {
                     "fieldname": "Country",
-                    "showHelpIcon": "None",
-                    "helpIconBehavior": "ShowHelpOnClick",
-                    "onChange_ValidationOption": "None",
                     "Layout": {
                         "Title": "Tab label",
                         "TabPane": {
@@ -2743,20 +2737,20 @@
                                 "width": "2in"
                             },
                             "style": "font: 9pt Arial;",
+                            "editButtonText": "Edit...",
                             "toolbaricons": "",
-                            "toolbardefinition": "",
-                            "editButtonText": "Edit..."
+                            "toolbardefinition": ""
                         }
                     },
                     "radiobutton": {
                         "datasource": "DBF-Table",
                         "NotInListRule": "Add to List",
                         "orientation": "Horizontal",
+                        "stylefieldiferror": true,
+                        "type": "Static",
                         "columnFlow": "LRTB",
                         "columnCount": 3,
-                        "rowCount": 3,
-                        "stylefieldiferror": true,
-                        "type": "Static"
+                        "rowCount": 3
                     },
                     "CheckBox": {
                         "type": "Static",
@@ -2764,10 +2758,10 @@
                         "stylefieldiferror": true,
                         "NotInListRule": "Add to List",
                         "orientation": "Horizontal",
+                        "initial_value": "False",
                         "columnFlow": "LRTB",
                         "columnCount": 3,
-                        "rowCount": 3,
-                        "initial_value": "False"
+                        "rowCount": 3
                     },
                     "connection_type": "Access Database",
                     "dropdownbox": {
@@ -2782,19 +2776,19 @@
                         "flagIsDefined": true
                     },
                     "DatePicker": {
-                        "OpenMethod": "ClickIcon",
                         "UseComboBoxes": true,
                         "DateFormat": "<DefaultTimeFormat>",
-                        "showPreDefinedDates": false,
-                        "preDefinedDatesJSON": "",
                         "LowYear": 1950,
                         "HighYear": 2050,
                         "SwitchYear": 20,
                         "IconNumber": 2,
+                        "OpenMethod": "ClickIcon",
                         "showDaysOfWeek": true,
-                        "showTodayButton": true,
                         "OKButtonLabel": "OK",
-                        "CancelButtonLabel": "Cancel"
+                        "CancelButtonLabel": "Cancel",
+                        "showTodayButton": true,
+                        "showPreDefinedDates": false,
+                        "preDefinedDatesJSON": ""
                     },
                     "column": {
                         "heading": "Country",
@@ -2859,24 +2853,24 @@
                             "inlinestyle": "text-align: right;"
                         }
                     },
-                    "PortableType": "VaryingCharacter",
+                    "display": "Country",
                     "varname": "Country",
-                    "Display": "Country",
-                    "displayOD": "{F=Tahoma,8}{I:'$a5_control_field'} {C=}{DATA=Country}Country",
-                    "displayODFlat": "{F=Tahoma,8}{I:'$a5_control_field'}{T=.2}{C=}{DATA=Country}Country",
                     "scope": "Local",
                     "tmplTxtComputed": true,
-                    "tmplTxt": "with tmpl.detailfield_info[_fieldNumber_]\n\t.Fieldname = \"Country\"\n\t.Scope = \"Local\"\n\t.DisplayFormat = \"\"\n\t.DisplayUnFormat = \"\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .f.\n\t.portableType = \"VaryingCharacter\"\n\t.nativeType = \"varchar\"\n\t.Type = \"C\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Updateable = .t.\n\t.TreatBlankAsNull = .f.\n\t.Table_Alias = \"suppliers\"\n\t.FieldToUpdate = \"Country\"\n\t.Varname = \"COUNTRY\"\n\t.Initial_Value = \"NULL\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"TextBox\"\n\t.Textbox.Size = 15\n\t.Textbox.HTML5Type = \"\"\n\t.Textbox.customAttributes = \"\"\n\t.Textbox.MaxLength = 15\n\t.Textbox.InLineStyle = \"\"\n\t.Textbox.ContainerInlineStyle = \"\"\n\t.Textbox.IsPassword = .f.\n\t.hasWatermark= .f.\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"Country\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"Country\"\n\t.Column.Sort = \"Country\"\n\t.Column.FirstClickDirection = \"A\"\nend with\n\n",
+                    "tmplTxt": "with tmpl.detailfield_info[_fieldNumber_]\n\t.Fieldname = \"Country\"\n\t.Scope = \"Local\"\n\t.DisplayFormat = \"\"\n\t.DisplayUnFormat = \"\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .f.\n\t.portableType = \"VaryingCharacter\"\n\t.nativeType = \"varchar\"\n\t.Type = \"C\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Updateable = .t.\n\t.TreatBlankAsNull = .f.\n\t.Table_Alias = \"suppliers\"\n\t.FieldToUpdate = \"Country\"\n\t.Varname = \"COUNTRY\"\n\t.Initial_Value = \"NULL\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"TextBox\"\n\t.Textbox.Size = 15\n\t.Textbox.HTML5Type = \"\"\n\t.Textbox.customAttributes = \"\"\n\t.Textbox.MaxLength = 15\n\t.Textbox.InLineStyle = \"\"\n\t.Textbox.ContainerInlineStyle = \"\"\n\t.Textbox.IsPassword = .f.\n\t.hasWatermark= .f.\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"Country\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"Country\"\n\t.Column.Sort = \"Country\"\n\t.Column.FirstClickDirection = \"A\"\nend with\n\n\n",
+                    "DisplayOD": "{F=Tahoma,8}{I:'$a5_control_field'} {C=}{DATA=Country}Country",
+                    "DisplayODFlat": "{F=Tahoma,8}{I:'$a5_control_field'}{T=.2}{C=}{DATA=Country}Country",
                     "SearchExpression": "City",
-                    "repeatingSectionParentId": -1,
                     "displayODtree": "{F=Tahoma,8}{I:'$a5_control_field'} {C=}{DATA=Country}Country",
-                    "parentContainer": -1
+                    "PortableType": "VaryingCharacter",
+                    "onChange_ValidationOption": "None",
+                    "parentContainer": -1,
+                    "repeatingSectionParentId": -1,
+                    "showHelpIcon": "None",
+                    "helpIconBehavior": "ShowHelpOnClick"
                 },
                 {
                     "fieldname": "Phone",
-                    "showHelpIcon": "None",
-                    "helpIconBehavior": "ShowHelpOnClick",
-                    "onChange_ValidationOption": "None",
                     "Layout": {
                         "Title": "Tab label",
                         "TabPane": {
@@ -2956,20 +2950,20 @@
                                 "width": "2in"
                             },
                             "style": "font: 9pt Arial;",
+                            "editButtonText": "Edit...",
                             "toolbaricons": "",
-                            "toolbardefinition": "",
-                            "editButtonText": "Edit..."
+                            "toolbardefinition": ""
                         }
                     },
                     "radiobutton": {
                         "datasource": "DBF-Table",
                         "NotInListRule": "Add to List",
                         "orientation": "Horizontal",
+                        "stylefieldiferror": true,
+                        "type": "Static",
                         "columnFlow": "LRTB",
                         "columnCount": 3,
-                        "rowCount": 3,
-                        "stylefieldiferror": true,
-                        "type": "Static"
+                        "rowCount": 3
                     },
                     "CheckBox": {
                         "type": "Static",
@@ -2977,10 +2971,10 @@
                         "stylefieldiferror": true,
                         "NotInListRule": "Add to List",
                         "orientation": "Horizontal",
+                        "initial_value": "False",
                         "columnFlow": "LRTB",
                         "columnCount": 3,
-                        "rowCount": 3,
-                        "initial_value": "False"
+                        "rowCount": 3
                     },
                     "connection_type": "Access Database",
                     "dropdownbox": {
@@ -2995,19 +2989,19 @@
                         "flagIsDefined": true
                     },
                     "DatePicker": {
-                        "OpenMethod": "ClickIcon",
                         "UseComboBoxes": true,
                         "DateFormat": "<DefaultTimeFormat>",
-                        "showPreDefinedDates": false,
-                        "preDefinedDatesJSON": "",
                         "LowYear": 1950,
                         "HighYear": 2050,
                         "SwitchYear": 20,
                         "IconNumber": 2,
+                        "OpenMethod": "ClickIcon",
                         "showDaysOfWeek": true,
-                        "showTodayButton": true,
                         "OKButtonLabel": "OK",
-                        "CancelButtonLabel": "Cancel"
+                        "CancelButtonLabel": "Cancel",
+                        "showTodayButton": true,
+                        "showPreDefinedDates": false,
+                        "preDefinedDatesJSON": ""
                     },
                     "column": {
                         "heading": "Phone",
@@ -3072,18 +3066,21 @@
                             "inlinestyle": "text-align: right;"
                         }
                     },
-                    "PortableType": "VaryingCharacter",
+                    "display": "Phone",
                     "varname": "Phone",
-                    "Display": "Phone",
-                    "displayOD": "{F=Tahoma,8}{I:'$a5_control_field'} {C=}{DATA=Phone}Phone",
-                    "displayODFlat": "{F=Tahoma,8}{I:'$a5_control_field'}{T=.2}{C=}{DATA=Phone}Phone",
                     "scope": "Local",
                     "tmplTxtComputed": true,
-                    "tmplTxt": "with tmpl.detailfield_info[_fieldNumber_]\n\t.Fieldname = \"Phone\"\n\t.Scope = \"Local\"\n\t.DisplayFormat = \"\"\n\t.DisplayUnFormat = \"\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .f.\n\t.portableType = \"VaryingCharacter\"\n\t.nativeType = \"varchar\"\n\t.Type = \"C\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Updateable = .t.\n\t.TreatBlankAsNull = .f.\n\t.Table_Alias = \"suppliers\"\n\t.FieldToUpdate = \"Phone\"\n\t.Varname = \"PHONE\"\n\t.Initial_Value = \"NULL\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"TextBox\"\n\t.Textbox.Size = 24\n\t.Textbox.HTML5Type = \"\"\n\t.Textbox.customAttributes = \"\"\n\t.Textbox.MaxLength = 24\n\t.Textbox.InLineStyle = \"\"\n\t.Textbox.ContainerInlineStyle = \"\"\n\t.Textbox.IsPassword = .f.\n\t.hasWatermark= .f.\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"Phone\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"Phone\"\n\t.Column.Sort = \"Phone\"\n\t.Column.FirstClickDirection = \"A\"\nend with\n\n",
+                    "tmplTxt": "with tmpl.detailfield_info[_fieldNumber_]\n\t.Fieldname = \"Phone\"\n\t.Scope = \"Local\"\n\t.DisplayFormat = \"\"\n\t.DisplayUnFormat = \"\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .f.\n\t.portableType = \"VaryingCharacter\"\n\t.nativeType = \"varchar\"\n\t.Type = \"C\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Updateable = .t.\n\t.TreatBlankAsNull = .f.\n\t.Table_Alias = \"suppliers\"\n\t.FieldToUpdate = \"Phone\"\n\t.Varname = \"PHONE\"\n\t.Initial_Value = \"NULL\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"TextBox\"\n\t.Textbox.Size = 24\n\t.Textbox.HTML5Type = \"\"\n\t.Textbox.customAttributes = \"\"\n\t.Textbox.MaxLength = 24\n\t.Textbox.InLineStyle = \"\"\n\t.Textbox.ContainerInlineStyle = \"\"\n\t.Textbox.IsPassword = .f.\n\t.hasWatermark= .f.\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"Phone\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"Phone\"\n\t.Column.Sort = \"Phone\"\n\t.Column.FirstClickDirection = \"A\"\nend with\n\n\n",
+                    "DisplayOD": "{F=Tahoma,8}{I:'$a5_control_field'} {C=}{DATA=Phone}Phone",
+                    "DisplayODFlat": "{F=Tahoma,8}{I:'$a5_control_field'}{T=.2}{C=}{DATA=Phone}Phone",
                     "SearchExpression": "City",
-                    "repeatingSectionParentId": -1,
                     "displayODtree": "{F=Tahoma,8}{I:'$a5_control_field'} {C=}{DATA=Phone}Phone",
-                    "parentContainer": -1
+                    "PortableType": "VaryingCharacter",
+                    "onChange_ValidationOption": "None",
+                    "parentContainer": -1,
+                    "repeatingSectionParentId": -1,
+                    "showHelpIcon": "None",
+                    "helpIconBehavior": "ShowHelpOnClick"
                 }
             ]
         },
@@ -3165,79 +3162,15 @@
         "searchFields": {
             "a_fields": [
                 {
-                    "fieldname": "Country",
-                    "showHelpIcon": "None",
-                    "helpIconBehavior": "ShowHelpOnClick",
-                    "onChange_ValidationOption": "None",
-                    "Layout": {
-                        "Title": "Tab label",
-                        "TabPane": {
-                            "show": true
-                        },
-                        "TabControl": {
-                            "useModernTabs": true,
-                            "Type": "Tab",
-                            "TabPosition": "Top",
-                            "AccordionType": "Single",
-                            "InitialPane": 1,
-                            "BreakType": "After",
-                            "animation": {
-                                "show": {
-                                    "method": "Suggested",
-                                    "speed": "Slow"
-                                },
-                                "hide": {
-                                    "method": "Suggested",
-                                    "speed": "Slow"
-                                }
-                            }
-                        },
-                        "FrameTitle": "Frame Label",
-                        "Frame": {
-                            "BreakType": "After",
-                            "type": "Simple",
-                            "initialState": "Shown"
-                        },
-                        "Container": {
-                            "BreakType": "After"
-                        },
-                        "ButtonText": "Button",
-                        "HyperlinkText": "Hyperlink",
-                        "Spacer": {
-                            "Horizontal": ".1in",
-                            "Vertical": ".1in"
-                        },
-                        "nCols": 1
-                    },
                     "controltype": "DropDownBox",
-                    "Search": {
-                        "FromLabel": "From:",
-                        "ToLabel": "To:"
-                    },
                     "Image": {
                         "noImageFoundImage": "<None>",
                         "newRecordImage": "<None>"
-                    },
-                    "calendar": {
-                        "DateFormat": "mm/dd/yy",
-                        "SwitchYear": 20,
-                        "UseComboBoxes": true,
-                        "LowYear": 1950,
-                        "HighYear": 2050
                     },
                     "TextBox": {
                         "Size": 40,
                         "MaxLength": 200,
                         "stylefieldiferror": true
-                    },
-                    "Watermark": {
-                        "text": "<FieldLabel>"
-                    },
-                    "clientSideFormat": {
-                        "type": "Mask"
-                    },
-                    "Lookup": {
-                        "Type": "Edit-Combo List"
                     },
                     "TextArea": {
                         "rows": 2,
@@ -3248,21 +3181,21 @@
                                 "width": "2in"
                             },
                             "style": "font: 9pt Arial;",
+                            "editButtonText": "Edit...",
                             "css": "",
                             "toolbaricons": "",
-                            "toolbardefinition": "",
-                            "editButtonText": "Edit..."
+                            "toolbardefinition": ""
                         }
                     },
                     "radiobutton": {
                         "datasource": "DBF-Table",
                         "NotInListRule": "Add To List if Not Null",
                         "orientation": "Horizontal",
+                        "stylefieldiferror": true,
+                        "type": "Static",
                         "columnFlow": "LRTB",
                         "columnCount": 3,
-                        "rowCount": 3,
-                        "stylefieldiferror": true,
-                        "type": "Static"
+                        "rowCount": 3
                     },
                     "CheckBox": {
                         "type": "Static",
@@ -3270,10 +3203,10 @@
                         "stylefieldiferror": true,
                         "NotInListRule": "Add To List if Not Null",
                         "orientation": "Horizontal",
+                        "initial_value": "False",
                         "columnFlow": "LRTB",
                         "columnCount": 3,
-                        "rowCount": 3,
-                        "initial_value": "False"
+                        "rowCount": 3
                     },
                     "connection_type": "Access Database",
                     "use_saved_connection_string": true,
@@ -3284,41 +3217,39 @@
                         "selectStyle": "Single",
                         "inlinestyle": "width: 220px;",
                         "datasource": "AlphaDAO",
+                        "stylefieldiferror": true,
+                        "NotInListRule": "Do Nothing",
                         "cs": {
                             "connectionString": "::name::mytraining",
                             "sql": "SELECT DISTINCT Country FROM customers ORDER BY Country"
                         },
-                        "stylefieldiferror": true,
-                        "NotInListRule": "Do Nothing",
                         "fieldNameOfFieldLinkedToParentControl": "<Auto>",
                         "methodForComputingCascadingFilter": "<Auto>",
                         "flagIsDefined": true
                     },
                     "DatePicker": {
-                        "OpenMethod": "ClickIcon",
                         "UseComboBoxes": true,
                         "DateFormat": "<DefaultTimeFormat>",
-                        "showPreDefinedDates": false,
-                        "preDefinedDatesJSON": "",
                         "LowYear": 1950,
                         "HighYear": 2050,
                         "SwitchYear": 20,
                         "IconNumber": 2,
+                        "OpenMethod": "ClickIcon",
                         "showDaysOfWeek": true,
-                        "showTodayButton": true,
                         "OKButtonLabel": "OK",
-                        "CancelButtonLabel": "Cancel"
+                        "CancelButtonLabel": "Cancel",
+                        "showPreDefinedDates": false,
+                        "preDefinedDatesJSON": "",
+                        "showTodayButton": true
                     },
                     "column": {
                         "heading": "Country",
-                        "LabelPosition": "Left",
-                        "CanSort": true,
                         "sort": "Country",
+                        "LabelPosition": "Left",
+                        "canSort": true,
                         "firstclickdirection": "Ascending"
                     },
                     "initial_value": "NULL",
-                    "BreakType": "None",
-                    "nCols": 1,
                     "link": {
                         "StaticImageInlineStyle": "border-style: none;",
                         "ajaxWindowType": "Modal-Popup",
@@ -3331,16 +3262,33 @@
                         "ajaxWindowRefreshGridOnClose": "None",
                         "targetDIVHideHyperlink": "Close"
                     },
-                    "BaseFieldExpression": "Country",
                     "type": "C",
-                    "ConditionalStyleLevel": "Cell",
-                    "ClientSideConditionalStyleLevel": "Cell",
-                    "Updateable": true,
+                    "display": "Country",
                     "TableAlias": "suppliers",
-                    "canBeUsedInWhereClause": true,
-                    "nativeType": "varchar",
+                    "updateable": true,
                     "table": "suppliers",
                     "FieldToUpdate": "Country",
+                    "varname": "Country",
+                    "fieldname": "Country",
+                    "BreakType": "None",
+                    "DisplayOD": "{F=Tahoma,8}{I:'$a5_control_combobox'} {C=}{DATA=Country}Country",
+                    "DisplayODFlat": "{F=Tahoma,8}{I:'$a5_control_combobox'}{T=.2}{C=}{DATA=Country}Country",
+                    "displayODtree": "{F=Tahoma,8}{I:'$a5_control_combobox'} {C=}{DATA=Country}Country",
+                    "Search": {
+                        "FromLabel": "From:",
+                        "ToLabel": "To:"
+                    },
+                    "scope": "Local",
+                    "conditionalStyleLevel": "Cell",
+                    "clientSideconditionalStyleLevel": "Cell",
+                    "Watermark": {
+                        "text": "<FieldLabel>"
+                    },
+                    "lookup": {
+                        "type": "Edit-Combo List"
+                    },
+                    "nCols": 1,
+                    "BaseFieldExpression": "Country",
                     "summary": {
                         "total": {
                             "inlinestyle": "text-align: right;"
@@ -3370,24 +3318,15 @@
                             "inlinestyle": "text-align: right;"
                         }
                     },
-                    "PortableType": "VaryingCharacter",
-                    "varname": "Country",
-                    "Display": "Country",
-                    "displayOD": "{F=Tahoma,8}{I:'$a5_control_combobox'} {C=}{DATA=Country}Country",
-                    "displayODFlat": "{F=Tahoma,8}{I:'$a5_control_combobox'}{T=.2}{C=}{DATA=Country}Country",
-                    "scope": "Local",
                     "tmplTxtComputed": true,
-                    "tmplTxt": "with tmpl.searchfield_info[_fieldNumber_]\n\t.Fieldname = \"Country\"\n\t.SearchExpression = \"Country\"\n\t.Initial_Value = \"NULL\"\n\t.Search_Style = 0\n\t.KeywordSearch = .f.\n\t.Scope = \"Local\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .f.\n\t.portableType = \"VaryingCharacter\"\n\t.nativeType = \"varchar\"\n\t.Type = \"C\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Varname = \"COUNTRY\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"DropDownBox\"\n\t.DropdownBox.fieldNameOfFieldLinkedToParentControl = \"<Auto>\"\n\t.DropdownBox.fieldTypeOfFieldLinkedToParentControl = \"\"\n\t.DropdownBox.methodForComputingCascadingFilter = \"<Auto>\"\n\t.DropdownBox.explicitCasacadingFilter = \"\"\n\t.DropdownBox.InLineStyle = \"width: 220px;\"\n\t.DropdownBox.Type = \"Dynamic\"\n\t.DropdownBox.Size = 1\n\t.DropdownBox.selectStyle = \"Single\"\n\t.DropdownBox.NotInListRule = \"Do Nothing\"\n\t.DropDownBox.Datasource = \"CS\"\n\t.DropDownBox.maxchoices = 0\n\t.DropDownBox.CS.ConnectionString = \"::name::mytraining\"\n\t.DropDownBox.CS.SQL = \"SELECT DISTINCT Country FROM customers ORDER BY Country\"\n\t.DropDownBox.DisplayValueField = \"Country\"\n\t.DropDownBox.DisplayValueFieldType = \"C\"\n\t.DropdownBox.noSelectionDisplayValue = \"\"\n\t.DropdownBox.hasCascadingChoices = .f.\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"Country\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"Country\"\nend with\n",
-                    "SearchExpression": "Country",
+                    "tmplTxt": "with tmpl.searchfield_info[_fieldNumber_]\n\t.Fieldname = \"Country\"\n\t.SearchExpression = \"Country\"\n\t.Initial_Value = \"NULL\"\n\t.Search_Style = 0\n\t.KeywordSearch = .f.\n\t.Scope = \"Local\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .f.\n\t.portableType = \"VaryingCharacter\"\n\t.nativeType = \"varchar\"\n\t.Type = \"C\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Varname = \"COUNTRY\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"DropDownBox\"\n\t.DropdownBox.fieldNameOfFieldLinkedToParentControl = \"<Auto>\"\n\t.DropdownBox.fieldTypeOfFieldLinkedToParentControl = \"\"\n\t.DropdownBox.methodForComputingCascadingFilter = \"<Auto>\"\n\t.DropdownBox.explicitCasacadingFilter = \"\"\n\t.DropdownBox.InLineStyle = \"width: 220px;\"\n\t.DropdownBox.Type = \"Dynamic\"\n\t.DropdownBox.Size = 1\n\t.DropdownBox.selectStyle = \"Single\"\n\t.DropdownBox.NotInListRule = \"Do Nothing\"\n\t.DropDownBox.Datasource = \"CS\"\n\t.DropDownBox.maxchoices = 0\n\t.DropDownBox.CS.ConnectionString = \"::name::mytraining\"\n\t.DropDownBox.CS.SQL = \"SELECT DISTINCT Country FROM customers ORDER BY Country\"\n\t.DropDownBox.DisplayValueField = \"Country\"\n\t.DropDownBox.DisplayValueFieldType = \"C\"\n\t.DropdownBox.noSelectionDisplayValue = \"\"\n\t.DropdownBox.hasCascadingChoices = .f.\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"Country\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"Country\"\nend with\n\n",
+                    "canBeUsedInWhereClause": true,
+                    "NativeType": "varchar",
+                    "PortableType": "VaryingCharacter",
+                    "onChange_ValidationOption": "None",
                     "repeatingSectionParentId": -1,
-                    "displayODtree": "{F=Tahoma,8}{I:'$a5_control_combobox'} {C=}{DATA=Country}Country",
-                    "parentContainer": -1
-                },
-                {
-                    "fieldname": "City",
                     "showHelpIcon": "None",
                     "helpIconBehavior": "ShowHelpOnClick",
-                    "onChange_ValidationOption": "None",
                     "Layout": {
                         "Title": "Tab label",
                         "TabPane": {
@@ -3428,15 +3367,6 @@
                         },
                         "nCols": 1
                     },
-                    "controltype": "DropDownBox",
-                    "Search": {
-                        "FromLabel": "From:",
-                        "ToLabel": "To:"
-                    },
-                    "Image": {
-                        "noImageFoundImage": "<None>",
-                        "newRecordImage": "<None>"
-                    },
                     "calendar": {
                         "DateFormat": "mm/dd/yy",
                         "SwitchYear": 20,
@@ -3444,19 +3374,22 @@
                         "LowYear": 1950,
                         "HighYear": 2050
                     },
+                    "clientSideFormat": {
+                        "type": "Mask"
+                    },
+                    "SearchExpression": "Country",
+                    "parentContainer": -1
+                },
+                {
+                    "controltype": "DropDownBox",
+                    "Image": {
+                        "noImageFoundImage": "<None>",
+                        "newRecordImage": "<None>"
+                    },
                     "TextBox": {
                         "Size": 40,
                         "MaxLength": 200,
                         "stylefieldiferror": true
-                    },
-                    "Watermark": {
-                        "text": "<FieldLabel>"
-                    },
-                    "clientSideFormat": {
-                        "type": "Mask"
-                    },
-                    "Lookup": {
-                        "Type": "Edit-Combo List"
                     },
                     "TextArea": {
                         "rows": 2,
@@ -3467,21 +3400,21 @@
                                 "width": "2in"
                             },
                             "style": "font: 9pt Arial;",
+                            "editButtonText": "Edit...",
                             "css": "",
                             "toolbaricons": "",
-                            "toolbardefinition": "",
-                            "editButtonText": "Edit..."
+                            "toolbardefinition": ""
                         }
                     },
                     "radiobutton": {
                         "datasource": "DBF-Table",
                         "NotInListRule": "Add To List if Not Null",
                         "orientation": "Horizontal",
+                        "stylefieldiferror": true,
+                        "type": "Static",
                         "columnFlow": "LRTB",
                         "columnCount": 3,
-                        "rowCount": 3,
-                        "stylefieldiferror": true,
-                        "type": "Static"
+                        "rowCount": 3
                     },
                     "CheckBox": {
                         "type": "Static",
@@ -3489,10 +3422,10 @@
                         "stylefieldiferror": true,
                         "NotInListRule": "Add To List if Not Null",
                         "orientation": "Horizontal",
+                        "initial_value": "False",
                         "columnFlow": "LRTB",
                         "columnCount": 3,
-                        "rowCount": 3,
-                        "initial_value": "False"
+                        "rowCount": 3
                     },
                     "connection_type": "Access Database",
                     "use_saved_connection_string": true,
@@ -3503,12 +3436,12 @@
                         "selectStyle": "Single",
                         "inlinestyle": "width: 220px;",
                         "datasource": "AlphaDAO",
+                        "stylefieldiferror": true,
+                        "NotInListRule": "Do Nothing",
                         "cs": {
                             "connectionString": "::name::mytraining",
                             "sql": "SELECT DISTINCT City FROM customers ORDER BY City"
                         },
-                        "stylefieldiferror": true,
-                        "NotInListRule": "Do Nothing",
                         "hasCascadingChoices": true,
                         "parentControl": "Country",
                         "fieldNameOfFieldLinkedToParentControl": "<Auto>",
@@ -3517,30 +3450,28 @@
                         "flagIsDefined": true
                     },
                     "DatePicker": {
-                        "OpenMethod": "ClickIcon",
                         "UseComboBoxes": true,
                         "DateFormat": "<DefaultTimeFormat>",
-                        "showPreDefinedDates": false,
-                        "preDefinedDatesJSON": "",
                         "LowYear": 1950,
                         "HighYear": 2050,
                         "SwitchYear": 20,
                         "IconNumber": 2,
+                        "OpenMethod": "ClickIcon",
                         "showDaysOfWeek": true,
-                        "showTodayButton": true,
                         "OKButtonLabel": "OK",
-                        "CancelButtonLabel": "Cancel"
+                        "CancelButtonLabel": "Cancel",
+                        "showPreDefinedDates": false,
+                        "preDefinedDatesJSON": "",
+                        "showTodayButton": true
                     },
                     "column": {
                         "heading": "City",
-                        "LabelPosition": "Left",
-                        "CanSort": true,
                         "sort": "City",
+                        "LabelPosition": "Left",
+                        "canSort": true,
                         "firstclickdirection": "Ascending"
                     },
                     "initial_value": "NULL",
-                    "BreakType": "None",
-                    "nCols": 1,
                     "link": {
                         "StaticImageInlineStyle": "border-style: none;",
                         "ajaxWindowType": "Modal-Popup",
@@ -3553,16 +3484,33 @@
                         "ajaxWindowRefreshGridOnClose": "None",
                         "targetDIVHideHyperlink": "Close"
                     },
-                    "BaseFieldExpression": "City",
                     "type": "C",
-                    "ConditionalStyleLevel": "Cell",
-                    "ClientSideConditionalStyleLevel": "Cell",
-                    "Updateable": true,
+                    "display": "City",
                     "TableAlias": "suppliers",
-                    "canBeUsedInWhereClause": true,
-                    "nativeType": "varchar",
+                    "updateable": true,
                     "table": "suppliers",
                     "FieldToUpdate": "City",
+                    "varname": "City",
+                    "fieldname": "City",
+                    "BreakType": "None",
+                    "DisplayOD": "{F=Tahoma,8}{I:'$a5_control_combobox'} {C=}{DATA=City}City",
+                    "DisplayODFlat": "{F=Tahoma,8}{I:'$a5_control_combobox'}{T=.2}{C=}{DATA=City}City",
+                    "displayODtree": "{F=Tahoma,8}{I:'$a5_control_combobox'} {C=}{DATA=City}City",
+                    "Search": {
+                        "FromLabel": "From:",
+                        "ToLabel": "To:"
+                    },
+                    "scope": "Local",
+                    "conditionalStyleLevel": "Cell",
+                    "clientSideconditionalStyleLevel": "Cell",
+                    "Watermark": {
+                        "text": "<FieldLabel>"
+                    },
+                    "lookup": {
+                        "type": "Edit-Combo List"
+                    },
+                    "nCols": 1,
+                    "BaseFieldExpression": "City",
                     "summary": {
                         "total": {
                             "inlinestyle": "text-align: right;"
@@ -3592,17 +3540,66 @@
                             "inlinestyle": "text-align: right;"
                         }
                     },
-                    "PortableType": "VaryingCharacter",
-                    "varname": "City",
-                    "Display": "City",
-                    "displayOD": "{F=Tahoma,8}{I:'$a5_control_combobox'} {C=}{DATA=City}City",
-                    "displayODFlat": "{F=Tahoma,8}{I:'$a5_control_combobox'}{T=.2}{C=}{DATA=City}City",
-                    "scope": "Local",
                     "tmplTxtComputed": true,
-                    "tmplTxt": "with tmpl.searchfield_info[_fieldNumber_]\n\t.Fieldname = \"City\"\n\t.SearchExpression = \"City\"\n\t.Initial_Value = \"NULL\"\n\t.Search_Style = 0\n\t.KeywordSearch = .f.\n\t.Scope = \"Local\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .f.\n\t.portableType = \"VaryingCharacter\"\n\t.nativeType = \"varchar\"\n\t.Type = \"C\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Varname = \"CITY\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"DropDownBox\"\n\t.DropdownBox.fieldNameOfFieldLinkedToParentControl = \"<Auto>\"\n\t.DropdownBox.fieldTypeOfFieldLinkedToParentControl = \"\"\n\t.DropdownBox.methodForComputingCascadingFilter = \"<Auto>\"\n\t.DropdownBox.explicitCasacadingFilter = \"\"\n\t.DropdownBox.InLineStyle = \"width: 220px;\"\n\t.DropdownBox.Type = \"Dynamic\"\n\t.DropdownBox.Size = 1\n\t.DropdownBox.selectStyle = \"Single\"\n\t.DropdownBox.NotInListRule = \"Do Nothing\"\n\t.DropDownBox.Datasource = \"CS\"\n\t.DropDownBox.maxchoices = 0\n\t.DropDownBox.CS.ConnectionString = \"::name::mytraining\"\n\t.DropDownBox.CS.SQL = \"SELECT DISTINCT City FROM customers ORDER BY City\"\n\t.DropDownBox.DisplayValueField = \"City\"\n\t.DropDownBox.DisplayValueFieldType = \"C\"\n\t.DropdownBox.noSelectionDisplayValue = \"\"\n\t.DropdownBox.hasCascadingChoices = .t.\n\t.DropdownBox.parentControl = \"Country\"\n\t.DropdownBox.noChoicesFound = \"\"\n\t.DropdownBox.autoSubmitSearch = .t.\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"City\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"City\"\nend with\n",
-                    "SearchExpression": "City",
+                    "tmplTxt": "with tmpl.searchfield_info[_fieldNumber_]\n\t.Fieldname = \"City\"\n\t.SearchExpression = \"City\"\n\t.Initial_Value = \"NULL\"\n\t.Search_Style = 0\n\t.KeywordSearch = .f.\n\t.Scope = \"Local\"\n\t.ConditionalStyle = \"\"\n\t.ConditionalStyleLevel = \"Cell\"\n\t.ClientSideConditionalStyle = \"\"\n\t.ClientSideConditionalStyleLevel = \"Cell\"\n\t.QBEDisable = .f.\n\t.QBEInlineStyle = \"\"\n\t.canBeUsedInWhereClause = .t.\n\t.autoincrement = .f.\n\t.portableType = \"VaryingCharacter\"\n\t.nativeType = \"varchar\"\n\t.Type = \"C\"\n\t.UserDefinedClientSideValidationJavascript = \"\"\n\t.onChange_ValidationOption = \"None\"\n\t.Varname = \"CITY\"\n\t.Column.LabelPosition = \"Left\"\n\t.Controltype = \"DropDownBox\"\n\t.DropdownBox.fieldNameOfFieldLinkedToParentControl = \"<Auto>\"\n\t.DropdownBox.fieldTypeOfFieldLinkedToParentControl = \"\"\n\t.DropdownBox.methodForComputingCascadingFilter = \"<Auto>\"\n\t.DropdownBox.explicitCasacadingFilter = \"\"\n\t.DropdownBox.InLineStyle = \"width: 220px;\"\n\t.DropdownBox.Type = \"Dynamic\"\n\t.DropdownBox.Size = 1\n\t.DropdownBox.selectStyle = \"Single\"\n\t.DropdownBox.NotInListRule = \"Do Nothing\"\n\t.DropDownBox.Datasource = \"CS\"\n\t.DropDownBox.maxchoices = 0\n\t.DropDownBox.CS.ConnectionString = \"::name::mytraining\"\n\t.DropDownBox.CS.SQL = \"SELECT DISTINCT City FROM customers ORDER BY City\"\n\t.DropDownBox.DisplayValueField = \"City\"\n\t.DropDownBox.DisplayValueFieldType = \"C\"\n\t.DropdownBox.noSelectionDisplayValue = \"\"\n\t.DropdownBox.hasCascadingChoices = .t.\n\t.DropdownBox.parentControl = \"Country\"\n\t.DropdownBox.noChoicesFound = \"\"\n\t.DropdownBox.autoSubmitSearch = .t.\n\t.BreakType = \"None\"\n\t.nCols = 1\n\t.Column.Hide = .f.\n\t.BaseFieldExpression = \"City\"\n\t.SourceAlias = \"\"\n\t.Column.Heading = \"City\"\nend with\n\n",
+                    "canBeUsedInWhereClause": true,
+                    "NativeType": "varchar",
+                    "PortableType": "VaryingCharacter",
+                    "onChange_ValidationOption": "None",
                     "repeatingSectionParentId": -1,
-                    "displayODtree": "{F=Tahoma,8}{I:'$a5_control_combobox'} {C=}{DATA=City}City",
+                    "showHelpIcon": "None",
+                    "helpIconBehavior": "ShowHelpOnClick",
+                    "Layout": {
+                        "Title": "Tab label",
+                        "TabPane": {
+                            "show": true
+                        },
+                        "TabControl": {
+                            "useModernTabs": true,
+                            "Type": "Tab",
+                            "TabPosition": "Top",
+                            "AccordionType": "Single",
+                            "InitialPane": 1,
+                            "BreakType": "After",
+                            "animation": {
+                                "show": {
+                                    "method": "Suggested",
+                                    "speed": "Slow"
+                                },
+                                "hide": {
+                                    "method": "Suggested",
+                                    "speed": "Slow"
+                                }
+                            }
+                        },
+                        "FrameTitle": "Frame Label",
+                        "Frame": {
+                            "BreakType": "After",
+                            "type": "Simple",
+                            "initialState": "Shown"
+                        },
+                        "Container": {
+                            "BreakType": "After"
+                        },
+                        "ButtonText": "Button",
+                        "HyperlinkText": "Hyperlink",
+                        "Spacer": {
+                            "Horizontal": ".1in",
+                            "Vertical": ".1in"
+                        },
+                        "nCols": 1
+                    },
+                    "calendar": {
+                        "DateFormat": "mm/dd/yy",
+                        "SwitchYear": 20,
+                        "UseComboBoxes": true,
+                        "LowYear": 1950,
+                        "HighYear": 2050
+                    },
+                    "clientSideFormat": {
+                        "type": "Mask"
+                    },
+                    "SearchExpression": "City",
                     "parentContainer": -1
                 }
             ]
@@ -3863,26 +3860,26 @@
         "info": {
             "createdBy": "DIMASURURU",
             "LastUpdatedBy": "DIMASURURU",
-            "DateUpdated": "11/22/2017 11:45:14 48 am",
+            "DateUpdated": "11/23/2017 12:46:55 48 pm",
             "DateCreated": "11/22/2017 11:03:09 44 am"
         },
         "BuilderVersion": 2,
-        "current_pane_tree": "Search.Fields",
+        "current_pane_tree": "Grid.Fields",
         "embeddedMode": false,
         "_style_versionNumber": -1,
         "AjaxOn": true,
         "fpInstalled": "fu2Qov0bwWKfsyof0JGjbpwz4Klkw1fXyd/y5hKLpYz3n1hRx0Kq28a8eVLizqKLzCbxerx96t17t7sGvzdZaACvvMhHULx/teKs39D28YPrNIIkESrHxfm4bBzR3IIeKbtYqSyPRWPrvVI7F8+cPFnVQUoSlWEW7b0up2jxzQHrFfQct/1XRyBjdqYwKVhqS3KKLHQYd4Xhp4LkJs/r02Njk0f1Tul6f47sJmDmRfHLbppzlNsBB6dmioHFA3NIdmzCq2Avs/YBVGhF9lr6MPMDh9dY9V3HipeZa+X/g7kj3XQ4SvzI0uIydT5XFWFpRPyjKS668uttQL76fug5Ge5srBJnSZUDvCj4c4PxP/1h5VXUAqAbP0yitz4OGenY+bHKnlkyc1rQi0Y1wyIOCEYb0SDYVX9b6MnTmfbSK32jY9df2aQYmvrXqqlHBo30wkEwrXJX4klJd2CwZJtJtOhmkhGr5vAS0f65p+1vu7fgp+bnu7klv/XA8ywfy/RUS9XGyBKW+2XfQYBVzPxFWCdZGLplTPS1GXbIVR9S9uEG3F/UAqIMCBS1g5SMJU1CngBR6+HKz/sh3JfKCgWznXpezOE/etyVqxSipQRcguH4bKOUSATQsyfCHNM0doqiRlSKAKRbp0ODdo8p/8Q4vt4Q5UgxTA5aWssRIBgUChOeOpb4qA5n2YL703l0SbE1DoTjoHcqHZZNYQGmNPM/cLYJf2Cd0X/i5RBZ1yg93m4DG9Dj6GPMlhK+knhpkFwRshNki5bU+Zg+8tapCDrKHBt4+93Pm4KVdeeWuwpPvrpe/I7v/A7tPYwZanrRn6TtuzOMTTMSu6/atBNpKtgh55/1DToK53shK6JNL4Qse+PECVvA7nuYKrR15kf/2LW67oJvA3yIs1EsJdc29761bWkYBJJy/t210X5XceBwG/G7oXe5GLB90ARUed1+B8tt+Uq8mwKHQXo9tMypcgvzsa/NlmwytkOM6aO7hE3Qj+Ih2wlf+/8rGJg/Xuvhyd6byIRei60fb8FTzXQfvoS1lfEn9ayACHIygr9tXu3pfWuT6KP6oHxp9N72Y/uaCVG7JWV2zvbg6Uc3gEbyM8A8WC2FyrGVYWf5pXj+rARnM3krNZY/kjuIa2Q8w+lr0Z1s4BLp3OLvR7isObWdspy7V721U1vf6oEgHfzsDJE67rJNZ1Yy1hPz0WmCohmCJcLy5LW68P8XpEulH+yZqx/FeBFIUOdCfcWYsm2dbE2XKk8ShU372Z7Ujbc231l79VYnsbOBT8zGT+Km39pCiWDoUx4D4mS4vCaG6UJyZRBI6aDm6AKniogoclwmG5UDcxvS4UgnNtNnC9f6Guv6nIXo1bA+mjUKnVkXGKCh4o3rPuYxVI+uvwn8WbdYSkTnL/OZczrdYLm+5qVL3nVC4n/uImclJiMksppJrqSbFR6BmqBq0/hV9JedjMZQO9+8bEgVfVAucYj3tClL30LQMHGtsj/F9CV/0Lu8bcVLZt39uFwaNhEf03v4TX65M3T2vDzAGm+3cbwBBAU7RWqeFclFlI+IDwuuiRzVAme0t1XBvfzmdtnfdK1aEyL4/NpF36BEjfymbm2Jg89zDapKkcC9ffvWIdk4lYeCk8KBB5wpZk5ujljAAy+45X+rVTW+In69kAbkSUOuMxqY8/Np5FevME6147m5ZeeAadEmpNvKjJoYyZACloVOmpzc29EFGHYmylGf4bJogiA8lp6GNXLND9obG9D8PQR0ajrrNgvrEhQqUy/620cp0hXG+QyNKlxF4XJWKke7PBR9/NZAM3ji86VK4/9qIkqxZd8oDedXWNr3jc8KTSkHOejDtwynZCZKfhnCFbLeiT6H3cO68+b8TPnhi8UZH7rBUC3lAgE1t9gSZS0ddHiDf5ePjMiGIdPtaCHXeLeYjU4ZhqQF6khgzZDrZkTmUws7XjaOgxm/D1ZiInD/UTvrhWVBHpHAG2Odaupw737BIGaVqAWznmcoOpGrVU8viHGZv/4rtTv3ovZePoQFWA6pAZjjS8F2qv6IVVV2s2SC51mB1dp4Yu2sgsVV+ckMHwW2EbRNxFJSFlAyAgbKLneaI4hNXNtXSf/o9dfifp2X0lMZkMwbWjvm7PdCnfDZK3LHMb15Plp+F8QAgwh5fekXzqu922oLKBjDeELZehCDJQzR6HCNSUmI2K/iwgTWMqgW3D4qz/7gZBcPCSI8mnC3priS7j1bDLCm4zCiawCJhXcF+TXo9W3tH2/Gpmm6fOdqT5Jye+9KvOWHe9yiyzneVBXsAoVWvlmcrhM5MVG9w4fQPN+Rfj0Buwm7ms6MOzVrbgH2WpdmxroX8g41uvqpUiOEyW8pgZt2AtTKbsJN7QZL4cM8f0kOGjdfrqMfGL7+6rLImqlvNz4yA6XMA4yGVjRa/c5+DIojX39xVh07OIvI2SQOZJeIGvTJAwP07Gl1NL+S3lu8Yfu0DIWCclt5ArjS+X5iv06K9S0QIuuu3/+0nDbxqf+4yZwXZUziX75UMiwdIylZGzg8+R8QN2Cn1KXAkOJaddAxfsbgcOCjDzN2IJMZtCE9tI0l4kTS2MoCj0R+VBNamFlWOTOS8TkGyigwpffL5g2UrkSuNVaRyEO89vY5Smup/l5Gn7mHyNIj5GkNx0wP0UwpTXJoR+pytiq85r4a73SXTmhrwuX+ileNAvR54ihLJZo/YOlOuSKC7tGhzMxrIm/E8NHfZKBZazZTw7q2QV9SuRzkKdgp9MgYp9HTLqSyRibyRfLx7p/AV4HCH/ySfNTN6KVSjU1kuW0mFlt7vi2wGmX71j+bpdZtrZYdxvCP4Ngv7BZPNiLfrcBsuBxHMh0fHoh8FMBqq7dINwrukNld4BgUnxa+oTQ6UBtJvObIVzUitcibzPTx8h+dxCpSHSVaouCQP5x6NnyBYWMmwJb1gLt7pYjKlfljZJun9LrNj4pu7n3JDo8pn97W0cctbVXzsMvP3vt0Pecdlszu7FMImIXkMzbiqblgj5xx4MaVHOuUDaBS+LwdwWgNbe79UlRJH7G8fVqDPnMMwMW/oNcQKscOfXiyddDeariXLNY/BwrzGU1RnjJBtd8AGl58gx2xxb/rJVzvXoaP7DkPS+xfKPso84W1PGcZLjRL6RUdsbRfrTw2EE3Dn0Awl10NGw49iiIqxBoC9v6UBJ8iItd2T8Nj5ynOTmQi+AiTYP8GlCWJOrSGLYXAWSCFBYmLCH5BGlxt7BcNjGQFhoCptdS8eejoCvDywsORGFg87SzpptXYHT/pRgGZe2+mPYMs5HARkXI8jfl3LjOVxZBLRzn8",
-        "A5SaveTimeStamp": "20171122114515011",
-        "componentFilename": "C:\\Users\\DIMASURURU\\Documents\\MyTraining\\mytraining.WebProjects\\Default.WebProject\\grid_scrol_customer.a5wcmp",
+        "componentFilename": "C:\\Users\\DIMASURURU\\Documents\\GitHub\\mytraining\\phase1\\mytraining.WebProjects\\Default.WebProject\\grid_scrol_customer.a5wcmp",
         "PAliases": {
             "alias": "[PathAlias.ADB_Path]\n",
-            "alias_expanded": "C:\\Users\\DIMASURURU\\Documents\\MyTraining\n",
-            "alias_aliasExpanded": "[PathAlias.ADB_Path]|C:\\Users\\DIMASURURU\\Documents\\MyTraining"
+            "alias_expanded": "C:\\Users\\DIMASURURU\\Documents\\GitHub\\mytraining\\phase1\n",
+            "alias_aliasExpanded": "[PathAlias.ADB_Path]|C:\\Users\\DIMASURURU\\Documents\\GitHub\\mytraining\\phase1"
         },
         "_row_onHover": true,
-        "ADB_PATH": "C:\\Users\\DIMASURURU\\Documents\\MyTraining",
+        "ADB_PATH": "C:\\Users\\DIMASURURU\\Documents\\GitHub\\mytraining\\phase1",
         "EXE_PATH": "C:\\Program Files (x86)\\a5V12",
         "VersionNumber": 4,
-        "__wphostname": "Internet Explorer"
+        "__wphostname": "Internet Explorer",
+        "A5SaveTimeStamp": "20171123124655999"
     }
 }
