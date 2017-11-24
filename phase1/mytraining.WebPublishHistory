@@ -3541,7 +3541,7 @@
 <[709]<type="css">
 <name="a5system">
 <target_folder="c:\a5webroot\mobile">
-<timestamp=CTODT('11/23/2017 04:51:46 88 pm')>
+<timestamp=CTODT('11/24/2017 11:32:29 09 am')>
 >
 <[710]<type="css">
 <name="mobred">
@@ -3551,7 +3551,7 @@
 <[711]<type="file">
 <name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\project.securitysettings}">
 <target_folder="c:\a5webroot\mobile">
-<timestamp=CTODT('11/23/2017 04:32:36 11 pm')>
+<timestamp=CTODT('11/24/2017 11:32:29 69 am')>
 >
 <[712]<type="file">
 <name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\css\forest\fonts\icomoon.eot}">
@@ -6971,17 +6971,17 @@
 <[1395]<type="calendaricons">
 <name="calendaricons">
 <target_folder="c:\a5webroot\mobile">
-<timestamp=CTODT('11/23/2017 04:32:34 23 pm')>
+<timestamp=CTODT('11/24/2017 11:32:28 43 am')>
 >
 <[1396]<type="css">
 <name="forest">
 <target_folder="c:\a5webroot\mobile">
-<timestamp=CTODT('11/23/2017 04:32:35 93 pm')>
+<timestamp=CTODT('11/24/2017 11:32:29 48 am')>
 >
 <[1397]<type="WebComponent">
 <name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\ux_component3.a5wcmp}">
 <target_folder="c:\a5webroot\mobile">
-<timestamp=CTODT('11/23/2017 04:51:46 73 pm')>
+<timestamp=CTODT('11/24/2017 11:32:28 99 am')>
 >
 <[1398]<type="A5WPage">
 <name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\mobile1.a5w}">
@@ -6991,6 +6991,6 @@
 <[1399]<type="A5WPage">
 <name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\mobile2.a5w}">
 <target_folder="c:\a5webroot\mobile">
-<timestamp=CTODT('11/23/2017 04:33:03 24 pm')>
+<timestamp=CTODT('11/24/2017 11:32:28 80 am')>
 >
 >
