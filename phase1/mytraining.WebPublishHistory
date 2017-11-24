@@ -91,7 +91,7 @@
 <[19]<type="css">
 <name="a5system">
 <target_folder="c:\a5webroot\training">
-<timestamp=CTODT('11/23/2017 12:34:21 87 pm')>
+<timestamp=CTODT('11/24/2017 05:00:39 42 pm')>
 >
 <[20]<type="css">
 <name="grblue">
@@ -6992,5 +6992,25 @@
 <name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\mobile.webproject\mobile2.a5w}">
 <target_folder="c:\a5webroot\mobile">
 <timestamp=CTODT('11/24/2017 11:32:28 80 am')>
+>
+<[1400]<type="WebComponent">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\default.webproject\ux_list_categories.a5wcmp}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/24/2017 04:32:43 88 pm')>
+>
+<[1401]<type="file">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\default.webproject\project.securitysettings}">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/24/2017 04:32:44 91 pm')>
+>
+<[1402]<type="WebComponent">
+<name="{c:\users\dimasururu\documents\github\mytraining\phase1\mytraining.webprojects\default.webproject\list\selectionlistchange.a5wcmp}">
+<target_folder="c:\a5webroot\training\list">
+<timestamp=CTODT('11/24/2017 05:00:39 29 pm')>
+>
+<[1403]<type="css">
+<name="forest">
+<target_folder="c:\a5webroot\training">
+<timestamp=CTODT('11/24/2017 05:00:47 45 pm')>
 >
 >
