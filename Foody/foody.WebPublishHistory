@@ -61,12 +61,12 @@
 <[13]<type="css">
 <name="a5system">
 <target_folder="c:\a5webroot\foody">
-<timestamp=CTODT('11/27/2017 05:02:55 87 pm')>
+<timestamp=CTODT('11/28/2017 02:52:59 92 pm')>
 >
 <[14]<type="file">
 <name="{c:\users\dimasururu\documents\github\mytraining\foody\foody.webprojects\default.webproject\project.securitysettings}">
 <target_folder="c:\a5webroot\foody">
-<timestamp=CTODT('11/27/2017 04:34:21 52 pm')>
+<timestamp=CTODT('11/28/2017 10:41:53 12 am')>
 >
 <[15]<type="file">
 <name="{c:\users\dimasururu\documents\github\mytraining\foody\foody.webprojects\default.webproject\css\forest\fonts\icomoon.eot}">
@@ -3486,16 +3486,21 @@
 <[698]<type="calendaricons">
 <name="calendaricons">
 <target_folder="c:\a5webroot\foody">
-<timestamp=CTODT('11/27/2017 05:02:55 42 pm')>
+<timestamp=CTODT('11/28/2017 10:41:52 20 am')>
 >
 <[699]<type="WebComponent">
 <name="{c:\users\dimasururu\documents\github\mytraining\foody\foody.webprojects\default.webproject\layout.a5wcmp}">
 <target_folder="c:\a5webroot\foody">
-<timestamp=CTODT('11/27/2017 05:02:55 79 pm')>
+<timestamp=CTODT('11/28/2017 02:52:59 83 pm')>
 >
 <[700]<type="css">
 <name="forest">
 <target_folder="c:\a5webroot\foody">
-<timestamp=CTODT('11/27/2017 05:02:56 27 pm')>
+<timestamp=CTODT('11/28/2017 10:41:52 99 am')>
+>
+<[701]<type="A5WPage">
+<name="{c:\users\dimasururu\documents\github\mytraining\foody\foody.webprojects\default.webproject\layout.a5w}">
+<target_folder="c:\a5webroot\foody">
+<timestamp=CTODT('11/28/2017 10:41:52 50 am')>
 >
 >
