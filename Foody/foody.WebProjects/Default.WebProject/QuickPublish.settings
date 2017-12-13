@@ -1,10 +1,10 @@
 <profile="Local Webroot">
-<pubType=3>
-<files="C:\Users\DIMASURURU\Documents\GitHub\mytraining\Foody\foody.WebProjects\Default.WebProject\layout.a5w">
-<optimize=.F.>
+<pubType=1>
+<files="">
+<optimize=.T.>
 <pubALB=.F.>
 <pubSecurity=.F.>
-<default_page="layout.a5w">
+<default_page="index.a5w">
 <open_in_browser=.F.>
 <pubSupport=.T.>
 <pubSelected=.F.>

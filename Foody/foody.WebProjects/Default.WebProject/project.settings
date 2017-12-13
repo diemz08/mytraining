@@ -13,7 +13,7 @@
 <DefaultValueCreateAEX=.F.>
 <DefaultValuePublishDatabaseLibrary=.F.>
 >
-<default_page="layout.a5w">
+<default_page="index.a5w">
 <local<target_folder="foody">
 >
 <vars="">
@@ -36,4 +36,3 @@
 <PublishLock="">
 >
 >
-<activeDirectory>
